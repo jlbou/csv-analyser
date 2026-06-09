@@ -1,501 +1,501 @@
 client_id,first_name,last_name,age,email,phone,city,region,postal_code,registration_date,purchase_date,product,category,quantity,unit_price,total_purchase,payment_method,order_status,rating
-CLI0001,Pascual,Campoy,32,maximino12@example.com,+34 881 48 63 92,Valencia,Comunitat Valenciana,22779,2021-09-14,2023-09-08,Book,Culture,3,11.01,33.03,Credit card,Cancelled,
-CLI0002,Camilo,Vergara,32,tono02@example.org,+34 956 129 061,Las Palmas,Ciudad Autónoma de Melilla,40168,2022-03-11,2023-08-12,Headphones,Electronics,1,40.17,40.17,Cash,Completed,5
-CLI0003,Ester,Saez,69,gmarino@example.net,+34979343253,Vigo,Cataluña,47646,2023-01-23,2023-10-12,Headphones,Electronics,5,100.54,502.7,Credit card,Completed,3
-CLI0004,Marina,Bonet,23,hsierra@example.org,+34924865770,Murcia,Región de Murcia,09617,2023-02-23,2023-04-15,Dress,Clothing,3,43.99,131.97,Credit card,Completed,5
-CLI0005,Leyre,Luna,25,malbero@example.org,+34 828 559 486,Gijon,Castilla-La Mancha,09007,2023-05-20,2024-07-03,Dress,Clothing,4,102.64,410.56,Bizum,Completed,5
-CLI0006,Bienvenida,Briones,63,anacletorozas@example.com,+34971 27 42 25,Madrid,Canarias,09228,2023-01-11,2023-07-16,Perfume,Accessories,5,132.71,663.55,Credit card,Completed,1
-CLI0007,Iker,Valls,35,rufinolujan@example.com,+34 983 19 75 13,Palma,Aragón,07965,2023-04-03,2024-01-25,Watch,Accessories,1,154.76,154.76,Bank transfer,Completed,2
-CLI0008,Reyes,Ayllón,58,bernabe11@example.com,+34880 30 02 36,Valencia,Cantabria,19753,2023-09-07,2024-09-15,Book,Culture,1,15.21,15.21,Cash,Completed,
-CLI0009,Pilar,Zamora,61,uvilla@example.org,+34825 532 689,Malaga,Aragón,15250,2022-08-15,2023-08-13,Headphones,Electronics,5,116.38,581.9,Credit card,Completed,3
-CLI0010,Onofre,Salvador,74,piquerpalmira@example.org,+34875 586 900,Cordoba,Canarias,14019,2023-05-27,2024-08-03,Headphones,Electronics,2,115.68,231.36,Bank transfer,Completed,4
-CLI0011,Emilio,Olivera,34,leandro03@example.net,+34 863 881 011,Valencia,Cataluña,11647,2023-05-09,2023-05-27,Perfume,Accessories,4,139.32,557.28,PayPal,Cancelled,5
-CLI0012,Flavio,Nadal,32,eseco@example.com,+34 722 510 793,Valencia,Extremadura,35602,2022-10-11,2024-01-06,Headphones,Electronics,4,317.3,1269.2,Cash,Pending,
-CLI0013,Cruz,Escolano,28,adelaida24@example.net,+34 875064338,Valladolid,Comunidad Foral de Navarra,50315,2022-02-20,2024-10-04,T-shirt,Clothing,2,35.83,71.66,Bizum,Cancelled,
-CLI0014,Lalo,Pellicer,34,zlarrea@example.net,+34711 270 113,Las Palmas,Comunidad de Madrid,50823,2022-12-12,2024-06-25,Headphones,Electronics,4,220.68,882.72,Credit card,Completed,5
-CLI0015,Guiomar,Linares,36,severocarranza@example.org,+34820155291,Murcia,Extremadura,01309,2023-03-03,2023-04-25,Backpack,Accessories,3,41.35,124.05,PayPal,Pending,
-CLI0016,Chema,Aguilera,66,pousabas@example.com,+34 941 56 67 90,Valencia,Cataluña,43336,2021-09-07,2024-05-27,Notebook,Culture,3,22.52,67.56,Cash,Completed,3
-CLI0017,Manu,Bustos,27,nayarabeltran@example.net,+34925 559 630,Malaga,Canarias,04728,2022-07-30,2023-07-23,Watch,Accessories,5,337.53,1687.65,PayPal,Cancelled,5
-CLI0018,Ale,Abril,19,nazario21@example.net,+34694540428,Madrid,Ciudad Autónoma de Melilla,32688,2021-11-05,2024-05-15,Perfume,Accessories,3,25.07,75.21,Bank transfer,Completed,
-CLI0019,Sergio,Vila,64,ernesto83@example.net,+34 920 02 66 69,Palma,Aragón,22881,2023-02-06,2023-03-29,Jacket,Clothing,1,181.7,181.7,Credit card,Cancelled,2
-CLI0020,Aitor,Ledesma,34,lorena95@example.net,+34886 78 78 95,Las Palmas,Cantabria,06233,2021-08-03,2023-06-19,Book,Culture,5,20.83,104.15,Cash,Pending,5
-CLI0021,Jordi,Domínguez,37,tiburcio94@example.org,+34841 41 77 89,Murcia,Extremadura,22644,2023-08-10,2024-12-31,Backpack,Accessories,2,78.39,156.78,Bank transfer,Pending,4
-CLI0022,Olimpia,Vicens,19,adrian75@example.net,+34 715 78 10 05,Bilbao,Extremadura,09476,2023-06-29,2023-12-13,Trousers,Clothing,1,38.63,38.63,Cash,Completed,1
-CLI0023,Amarilis,Zamorano,22,carvajalvictoria@example.com,+34 975 952 508,Gijon,Galicia,08576,2022-04-03,2023-08-23,Trousers,Clothing,1,63.93,63.93,Credit card,Completed,
-CLI0024,Valero,Batalla,52,ncastejon@example.net,+34845649188,Valencia,Comunidad Foral de Navarra,06575,2022-05-15,2023-08-08,Jacket,Clothing,4,91.77,367.08,Cash,Cancelled,4
-CLI0025,Maximiano,Carro,60,domitila72@example.com,+34875 665 612,Murcia,La Rioja,48412,2022-08-04,2023-04-10,Backpack,Accessories,1,52.56,52.56,Bank transfer,Pending,1
-CLI0026,Alexandra,Ródenas,43,ciroalegria@example.org,+34 800 558 575,Cordoba,Canarias,01184,2021-09-18,2023-03-04,Book,Culture,1,25.64,25.64,Bank transfer,Completed,
-CLI0027,Antonio,Nogués,29,valentinguiomar@example.org,+34887304592,Zaragoza,Galicia,15456,2023-06-20,2024-03-08,Jacket,Clothing,2,130.44,260.88,Bizum,Completed,1
-CLI0028,Teobaldo,Miralles,21,juanitourrutia@example.org,+34885 50 56 53,Alicante,Comunidad Foral de Navarra,35945,2021-09-25,2023-04-11,Keyboard,Electronics,5,149.28,746.4,Cash,Completed,2
-CLI0029,Matilde,Rovira,73,nazaret12@example.net,+34827252298,Murcia,Ciudad Autónoma de Ceuta,50749,2023-02-07,2023-08-07,Shoes,Clothing,4,84.71,338.84,Credit card,Completed,4
-CLI0030,Araceli,Andrés,45,npozuelo@example.com,+34721448896,Cordoba,Extremadura,03003,2023-07-21,2023-10-20,Dress,Clothing,4,113.39,453.56,Cash,Pending,
-CLI0031,Coral,Palomo,65,ani74@example.com,+34901508723,Las Palmas,Ciudad Autónoma de Ceuta,31523,2023-01-07,2024-08-16,Dress,Clothing,1,49.59,49.59,Credit card,Completed,
-CLI0032,Camila,Pareja,21,lucio83@example.net,+34923 402 212,Las Palmas,Castilla-La Mancha,33762,2022-09-05,2023-06-11,Monitor,Electronics,5,459.91,2299.55,Credit card,Completed,
-CLI0033,Ismael,Amador,25,ucortes@example.org,+34 888173548,Gijon,Andalucía,24516,2023-04-20,2024-02-18,Trousers,Clothing,2,62.14,124.28,Cash,Completed,1
-CLI0034,Gertrudis,Sabater,51,fortunataolive@example.net,+34 978174291,Malaga,Extremadura,19329,2021-09-27,2024-08-01,Monitor,Electronics,5,203.29,1016.45,Bank transfer,Completed,3
-CLI0035,Óscar,Lladó,59,clara13@example.com,+34982760368,Zaragoza,Principado de Asturias,13279,2022-09-17,2024-11-18,Jacket,Clothing,2,89.84,179.68,Bizum,Completed,1
-CLI0036,Ágata,Mata,22,mfranch@example.org,+34 984 68 83 67,Las Palmas,Comunidad Foral de Navarra,16812,2022-06-26,2023-04-13,T-shirt,Clothing,5,23.75,118.75,PayPal,Cancelled,
-CLI0037,Rosaura,Benítez,41,palmamaximiano@example.com,+34 961711875,Zaragoza,Galicia,40732,2022-04-10,2023-09-08,Perfume,Accessories,1,68.63,68.63,PayPal,Pending,3
-CLI0038,Rosaura,Martorell,60,requenamanu@example.org,+34 887265589,Vigo,Andalucía,22641,2022-10-25,2023-01-09,Monitor,Electronics,5,789.5,3947.5,Cash,Completed,1
-CLI0039,Montserrat,Iñiguez,65,anacletojove@example.com,+34871326997,Las Palmas,Principado de Asturias,34374,2021-11-16,2023-04-20,Perfume,Accessories,1,41.79,41.79,PayPal,Completed,
-CLI0040,Toribio,Ballester,58,marcelo88@example.org,+34640 81 51 22,Vigo,Extremadura,51151,2021-11-18,2024-12-04,Jacket,Clothing,2,157.64,315.28,Bank transfer,Cancelled,1
-CLI0041,Palmira,Muñoz,18,xbenitez@example.com,+34977946626,Malaga,Castilla-La Mancha,49122,2022-09-13,2023-02-15,Trousers,Clothing,3,59.89,179.67,PayPal,Completed,
-CLI0042,Arcelia,Santos,18,priscilagrau@example.org,+34 974 874 387,Madrid,Extremadura,33064,2023-03-17,2024-07-28,Keyboard,Electronics,4,108.27,433.08,Credit card,Completed,3
-CLI0043,Ernesto,Larrea,20,norberto21@example.com,+34 848 20 24 75,Zaragoza,Castilla y León,46325,2022-01-28,2023-05-11,Monitor,Electronics,4,509.14,2036.56,Bank transfer,Completed,2
-CLI0044,Herminia,Gaya,67,pballester@example.com,+34 803 148 874,Las Palmas,Aragón,50126,2023-09-27,2023-12-29,Book,Culture,1,14.74,14.74,Bizum,Cancelled,2
-CLI0045,Heliodoro,Mínguez,19,octavio15@example.org,+34925 688 250,Valencia,Illes Balears,31224,2023-05-29,2024-02-27,Watch,Accessories,2,123.13,246.26,Bank transfer,Pending,2
-CLI0046,Erasmo,Ramírez,73,diegoencarnacion@example.org,+34 950 21 36 52,Barcelona,Canarias,40552,2021-11-24,2024-01-27,Dress,Clothing,1,44.33,44.33,Bizum,Completed,
-CLI0047,Tomás,Higueras,32,galandesiderio@example.org,+34 977 31 72 62,Barcelona,Canarias,29842,2022-06-20,2023-08-22,Perfume,Accessories,3,82.54,247.62,PayPal,Pending,1
-CLI0048,Rosalía,Solano,61,luis11@example.net,+34946361858,Vigo,Aragón,12720,2023-12-12,2024-02-14,Backpack,Accessories,5,42.33,211.65,Cash,Completed,1
-CLI0049,Abigaíl,Elorza,34,diana27@example.com,+34 910768568,Barcelona,Galicia,50068,2024-07-31,2024-08-17,Perfume,Accessories,2,146.3,292.6,Credit card,Cancelled,3
-CLI0050,Florentino,Elorza,42,lucila37@example.com,+34951 45 86 78,Gijon,Castilla-La Mancha,52095,2021-10-14,2023-04-29,Headphones,Electronics,5,223.99,1119.95,Cash,Completed,
-CLI0051,Ariadna,Dueñas,61,faustinosantamaria@example.com,+34944352607,Cordoba,Andalucía,38916,2023-08-14,2024-07-05,Notebook,Culture,5,13.72,68.6,PayPal,Completed,3
-CLI0052,Aarón,Tenorio,50,caboemma@example.com,+34 707619413,Zaragoza,Ciudad Autónoma de Ceuta,21310,2022-09-29,2023-11-04,Monitor,Electronics,1,354.05,354.05,Bizum,Completed,3
-CLI0053,Anna,Arnau,42,jcamino@example.com,+34826 58 83 00,Alicante,Ciudad Autónoma de Melilla,51244,2021-12-07,2024-11-11,Mouse,Electronics,4,21.46,85.84,PayPal,Cancelled,4
-CLI0054,Íñigo,Bermudez,31,barcelomonica@example.org,+34841 433 726,Murcia,Andalucía,48808,2023-01-04,2023-10-21,Mouse,Electronics,3,85.04,255.12,Cash,Cancelled,4
-CLI0055,Telmo,Peral,48,xalsina@example.com,+34881764563,Valladolid,La Rioja,42977,2022-11-01,2024-06-07,Keyboard,Electronics,2,90.75,181.5,PayPal,Completed,
-CLI0056,Pascual,Arjona,70,bernardacanals@example.com,+34876639144,Valladolid,Principado de Asturias,28163,2022-09-17,2023-04-06,Book,Culture,3,25.09,75.27,PayPal,Completed,
-CLI0057,Julieta,Puente,48,prudencio23@example.com,+34982 68 93 37,Bilbao,Ciudad Autónoma de Ceuta,17866,2022-09-22,2023-09-08,Jacket,Clothing,1,72.1,72.1,Credit card,Pending,5
-CLI0058,Florentino,Oliveras,43,rlobo@example.com,+34 926 388 398,Seville,Andalucía,27193,2021-10-04,2024-05-21,Jacket,Clothing,4,157.75,631.0,PayPal,Completed,1
-CLI0059,Duilio,Arroyo,51,fcanellas@example.org,+34828147099,Palma,Región de Murcia,27375,2023-01-29,2024-12-13,Backpack,Accessories,2,54.01,108.02,Credit card,Cancelled,
-CLI0060,Cesar,Angulo,60,evitalumbreras@example.com,+34980 36 64 76,Las Palmas,Canarias,30751,2021-10-08,2024-04-20,Watch,Accessories,2,104.61,209.22,Cash,Cancelled,4
-CLI0061,Francisca,Miralles,71,perlitacobo@example.net,+34876 995 283,Gijon,Galicia,13373,2023-07-10,2024-03-12,Monitor,Electronics,5,679.75,3398.75,Cash,Pending,4
-CLI0062,Jovita,Bernal,35,maxima33@example.net,+34637531318,Valladolid,Aragón,18860,2023-03-11,2024-10-14,Keyboard,Electronics,2,61.47,122.94,Cash,Pending,3
-CLI0063,Rosendo,Chico,35,mmarmol@example.net,+34731 99 66 36,Malaga,Canarias,40129,2021-10-29,2023-08-29,Keyboard,Electronics,3,32.4,97.2,Bank transfer,Cancelled,
-CLI0064,Maximiliano,Noguera,31,robledodominga@example.com,+34925066201,Madrid,Región de Murcia,35918,2023-07-23,2024-12-24,Shoes,Clothing,2,65.44,130.88,Bizum,Pending,4
-CLI0065,Adela,Talavera,75,pbriones@example.org,+34844007245,Valladolid,Cataluña,25618,2023-08-27,2024-02-03,Headphones,Electronics,4,49.93,199.72,Cash,Completed,5
-CLI0066,Plácido,Ramos,66,tcasals@example.org,+34847890796,Murcia,Extremadura,26659,2022-09-30,2023-11-02,Headphones,Electronics,3,182.63,547.89,Bizum,Cancelled,5
-CLI0067,Narcisa,Alemán,32,francodebora@example.org,+34 806441967,Zaragoza,Cataluña,41514,2023-01-10,2024-05-14,Backpack,Accessories,2,68.26,136.52,Bizum,Pending,
-CLI0068,Consuelo,Jiménez,71,menendezdorita@example.net,+34 872715479,Palma,Illes Balears,10197,2021-06-30,2023-06-19,Camera,Electronics,4,868.87,3475.48,PayPal,Cancelled,4
-CLI0069,Jose Angel,Martin,59,joaquin18@example.com,+34 973273923,Murcia,Comunidad de Madrid,48567,2022-06-02,2023-03-27,Monitor,Electronics,1,516.85,516.85,PayPal,Pending,
-CLI0070,Calixto,Escolano,38,dcalzada@example.net,+34 879 290 914,Malaga,Illes Balears,16745,2022-10-03,2024-04-10,Dress,Clothing,2,64.12,128.24,Bizum,Completed,4
-CLI0071,Eva María,Fiol,65,dnunez@example.com,+34849866520,Las Palmas,Principado de Asturias,19757,2021-06-11,2023-01-20,Dress,Clothing,4,105.14,420.56,Credit card,Completed,
-CLI0072,Dionisio,Rivero,33,aragonesanibal@example.com,+34847425513,Seville,Galicia,45265,2022-08-31,2023-02-01,Trousers,Clothing,1,67.97,67.97,Credit card,Cancelled,
-CLI0073,Jenaro,Beltrán,31,chuchosanmartin@example.net,+34 873750837,Palma,Comunitat Valenciana,21161,2023-12-05,2024-07-31,Shoes,Clothing,1,92.09,92.09,Bank transfer,Completed,
-CLI0074,Andrés,Guijarro,37,ximenajaume@example.com,+34975 41 51 80,Madrid,Ciudad Autónoma de Melilla,24488,2022-07-28,2023-06-17,Monitor,Electronics,1,776.43,776.43,Cash,Completed,5
-CLI0075,Rosalva,Alemán,63,patriciaplana@example.org,+34922 253 592,Seville,Illes Balears,42870,2022-06-27,2024-02-11,Book,Culture,4,32.52,130.08,Credit card,Cancelled,2
-CLI0076,Lisandro,Cañizares,56,ofelia98@example.net,+34 825 500 011,Valladolid,Cantabria,16862,2024-10-05,2024-12-01,Trousers,Clothing,3,63.35,190.05,Credit card,Cancelled,3
-CLI0077,Elisa,Gárate,50,danielpallares@example.net,+34 979099813,Alicante,Cantabria,18284,2022-03-17,2023-03-12,Mouse,Electronics,3,48.55,145.65,Bank transfer,Completed,4
-CLI0078,Azahara,Llopis,75,teodosioibanez@example.com,+34959248706,Vigo,Comunidad Foral de Navarra,22513,2024-09-23,2024-10-12,Trousers,Clothing,3,48.84,146.52,Bizum,Completed,5
-CLI0079,Julieta,Hidalgo,47,candida65@example.net,+34 883 56 00 23,Murcia,Ciudad Autónoma de Melilla,44152,2022-09-16,2024-05-10,Book,Culture,5,15.29,76.45,Cash,Completed,2
-CLI0080,Felicidad,Sola,33,serrajulian@example.com,+34 980236767,Valladolid,Extremadura,45804,2023-03-18,2024-04-06,Watch,Accessories,3,470.58,1411.74,Bizum,Cancelled,4
-CLI0081,Isabela,Quintana,49,lbotella@example.net,+34944 93 54 32,Seville,Cataluña,48080,2022-02-23,2023-07-06,Camera,Electronics,3,228.7,686.1,Bank transfer,Completed,5
-CLI0082,Rebeca,Cabrero,51,planaoctavia@example.net,+34820 96 02 51,Seville,Principado de Asturias,16127,2021-10-17,2023-01-11,Notebook,Culture,5,22.6,113.0,Credit card,Completed,4
-CLI0083,María Jesús,Palomar,63,fulgenciocolom@example.com,+34985340066,Palma,Comunitat Valenciana,48235,2023-10-29,2024-10-23,Mouse,Electronics,4,78.23,312.92,Bizum,Completed,
-CLI0084,María Ángeles,Mínguez,60,begona96@example.net,+34944 58 94 36,Bilbao,Andalucía,10535,2022-03-28,2023-11-10,Jacket,Clothing,2,110.66,221.32,Bank transfer,Pending,3
-CLI0085,Irma,Español,40,almudena18@example.net,+34873979975,Cordoba,Aragón,14413,2022-03-20,2023-12-05,Headphones,Electronics,5,348.92,1744.6,Bizum,Completed,2
-CLI0086,Artemio,Bosch,65,julie27@example.org,+34 878 543 235,Las Palmas,Ciudad Autónoma de Ceuta,29829,2022-11-17,2023-05-03,Trousers,Clothing,3,64.67,194.01,PayPal,Completed,
-CLI0087,Onofre,Bermúdez,56,alcaldeangeles@example.com,+34 935 42 11 34,Zaragoza,Región de Murcia,46229,2021-11-25,2024-06-21,Keyboard,Electronics,5,64.24,321.2,Credit card,Completed,
-CLI0088,Loreto,Ojeda,52,nicolasaespada@example.org,+34800306829,Valencia,Extremadura,27083,2022-09-02,2024-12-26,Camera,Electronics,1,379.44,379.44,Bank transfer,Completed,5
-CLI0089,Chucho,Iborra,73,gvarela@example.org,+34 713392930,Valladolid,Castilla-La Mancha,34025,2022-12-23,2024-10-15,Dress,Clothing,2,92.77,185.54,Bizum,Completed,5
-CLI0090,Nacho,Cañizares,29,isidoramata@example.net,+34 739 94 08 43,Barcelona,Cantabria,18130,2023-05-18,2023-12-15,Dress,Clothing,4,72.25,289.0,Bank transfer,Pending,
-CLI0091,Tecla,Expósito,58,trinidad30@example.com,+34 921 67 64 18,Alicante,Illes Balears,33191,2021-09-30,2024-08-13,Trousers,Clothing,1,47.04,47.04,Credit card,Completed,
-CLI0092,Yésica,Alemany,25,utejedor@example.com,+34 900725053,Las Palmas,Principado de Asturias,10900,2023-06-09,2023-09-12,Monitor,Electronics,1,766.93,766.93,Bizum,Cancelled,5
-CLI0093,Melania,Arnal,46,aparejo@example.org,+34827 64 79 86,Zaragoza,Galicia,48815,2024-03-20,2024-04-06,Jacket,Clothing,4,166.35,665.4,Cash,Pending,5
-CLI0094,Damián,Pinilla,58,ualvarado@example.org,+34886919783,Seville,Canarias,39624,2021-09-17,2023-08-01,T-shirt,Clothing,1,28.29,28.29,Bank transfer,Completed,
-CLI0095,Josep,Garriga,44,pmilla@example.org,+34985829776,Palma,Comunidad de Madrid,02360,2021-10-17,2023-01-03,Shoes,Clothing,2,100.72,201.44,Cash,Pending,
-CLI0096,Manu,Galván,73,fperalta@example.com,+34945 09 06 76,Palma,Comunitat Valenciana,40468,2021-11-19,2024-12-20,Jacket,Clothing,3,93.22,279.66,Credit card,Completed,5
-CLI0097,Mercedes,Sala,25,marcosleon@example.com,+34851049162,Las Palmas,Aragón,46558,2022-05-04,2024-03-11,Book,Culture,2,29.71,59.42,PayPal,Completed,2
-CLI0098,Nidia,Solé,65,zcamps@example.net,+34971 19 48 33,Vigo,Andalucía,45287,2022-05-18,2024-09-01,Trousers,Clothing,3,28.28,84.84,Cash,Completed,4
-CLI0099,Silvestre,Franco,50,roblesnatalio@example.com,+34 985 79 80 40,Las Palmas,Región de Murcia,10974,2021-06-23,2023-10-06,Notebook,Culture,4,11.08,44.32,Bizum,Pending,
-CLI0100,Lupe,Mariscal,34,varaangelino@example.com,+34724 45 76 32,Barcelona,La Rioja,49658,2023-12-30,2024-09-10,T-shirt,Clothing,3,36.68,110.04,Credit card,Completed,5
-CLI0101,Azahar,Ríos,20,fzurita@example.com,+34 945670986,Valladolid,Ciudad Autónoma de Ceuta,21255,2023-05-03,2024-08-13,Monitor,Electronics,3,768.01,2304.03,PayPal,Pending,4
-CLI0102,Francisco Javier,Sáenz,58,mayoelvira@example.com,+34 920 136 229,Vigo,Aragón,09626,2022-01-12,2024-03-22,Perfume,Accessories,5,59.77,298.85,Bizum,Completed,4
-CLI0103,Manuelita,Canet,39,bcastillo@example.org,+34972357129,Murcia,Comunidad Foral de Navarra,19058,2023-02-09,2023-06-14,Camera,Electronics,1,521.06,521.06,Bizum,Completed,4
-CLI0104,Montserrat,Company,23,rogelio53@example.net,+34 983 281 271,Malaga,Ciudad Autónoma de Ceuta,47887,2022-06-20,2024-04-10,Watch,Accessories,1,392.22,392.22,Bank transfer,Completed,
-CLI0105,Evangelina,Salmerón,60,brunorius@example.com,+34 978530386,Vigo,Comunidad de Madrid,34899,2022-07-09,2023-01-02,Backpack,Accessories,5,52.33,261.65,Cash,Pending,2
-CLI0106,Melania,Alvarado,46,lola25@example.net,+34986 91 57 95,Valladolid,Extremadura,08966,2023-07-24,2024-10-02,Mouse,Electronics,4,42.56,170.24,Credit card,Completed,
-CLI0107,Fabiola,Benito,49,teresitabayona@example.com,+34 845 984 241,Madrid,Canarias,47639,2023-08-10,2024-12-16,Shoes,Clothing,4,142.04,568.16,Credit card,Cancelled,2
-CLI0108,Hilda,Plaza,23,espiridion11@example.org,+34 924360624,Seville,Cataluña,05848,2022-08-04,2024-02-22,Dress,Clothing,5,79.58,397.9,Credit card,Pending,2
-CLI0109,Balduino,Juan,63,tluis@example.com,+34 946 78 65 87,Zaragoza,Extremadura,14508,2022-02-20,2024-06-05,Keyboard,Electronics,3,169.22,507.66,Bizum,Pending,2
-CLI0110,Miguel,Iglesia,56,dquero@example.org,+34 877 606 197,Las Palmas,Ciudad Autónoma de Melilla,22864,2022-06-25,2023-07-15,Keyboard,Electronics,4,108.2,432.8,PayPal,Completed,
-CLI0111,Bernardita,Hierro,35,monicaherrera@example.net,+34 977 867 513,Vigo,Illes Balears,35874,2022-04-12,2024-06-03,Backpack,Accessories,3,88.35,265.05,Credit card,Completed,5
-CLI0112,Victoria,Lobato,46,ignacio37@example.org,+34973558191,Las Palmas,La Rioja,29835,2022-02-07,2023-06-02,Monitor,Electronics,4,799.29,3197.16,Bizum,Completed,5
-CLI0113,Emilia,Cabrero,62,folivares@example.org,+34 733284682,Seville,Cataluña,20944,2021-06-30,2023-07-13,Headphones,Electronics,3,175.71,527.13,Cash,Pending,
-CLI0114,Ismael,Goicoechea,63,trinidad78@example.net,+34828 94 07 09,Gijon,País Vasco,24971,2022-12-20,2024-04-29,Backpack,Accessories,3,52.86,158.58,Bizum,Pending,2
-CLI0115,Lorena,Leon,55,baldomero20@example.net,+34 900 022 673,Malaga,Castilla-La Mancha,37919,2022-08-10,2024-05-29,Keyboard,Electronics,2,174.37,348.74,Credit card,Pending,
-CLI0116,Edmundo,Velasco,73,encarnacion31@example.net,+34 944728436,Alicante,Illes Balears,31416,2022-06-21,2024-02-24,Perfume,Accessories,2,82.12,164.24,PayPal,Completed,3
-CLI0117,Sosimo,Pons,23,isacristan@example.com,+34 952 589 053,Vigo,Cataluña,49680,2023-03-06,2024-10-27,Camera,Electronics,4,823.26,3293.04,Bank transfer,Cancelled,3
-CLI0118,Alejandro,Castrillo,20,sebastiangalan@example.net,+34983 696 535,Bilbao,Comunidad Foral de Navarra,31642,2022-11-18,2024-07-08,Book,Culture,4,27.41,109.64,Credit card,Completed,3
-CLI0119,Roxana,Fajardo,66,trini39@example.org,+34 827 197 462,Alicante,Castilla-La Mancha,33145,2022-05-26,2023-04-11,Jacket,Clothing,4,162.01,648.04,Credit card,Pending,
-CLI0120,Máxima,Borrell,68,marcio21@example.net,+34 944278354,Barcelona,Región de Murcia,38720,2021-07-20,2023-11-29,Dress,Clothing,1,111.31,111.31,Bank transfer,Completed,2
-CLI0121,Obdulia,Bolaños,68,flavio22@example.com,+34 842657635,Valencia,Illes Balears,49187,2022-04-06,2024-11-29,Jacket,Clothing,5,129.67,648.35,PayPal,Completed,
-CLI0122,Iker,Quero,55,abigailalfonso@example.com,+34873494271,Valencia,Castilla-La Mancha,44801,2023-12-22,2024-05-24,Watch,Accessories,2,222.14,444.28,PayPal,Pending,4
-CLI0123,Juanita,Cobo,61,millanleandro@example.net,+34 984 225 259,Las Palmas,Aragón,31704,2022-11-14,2023-10-22,Dress,Clothing,4,90.02,360.08,PayPal,Completed,3
-CLI0124,Héctor,Berenguer,34,oliviafonseca@example.net,+34872923613,Palma,Región de Murcia,40574,2023-04-12,2024-12-07,Monitor,Electronics,4,344.45,1377.8,Bank transfer,Completed,4
-CLI0125,Diana,Porta,54,acadenas@example.net,+34 984 22 43 84,Zaragoza,Andalucía,36192,2022-09-04,2024-01-03,Trousers,Clothing,5,38.05,190.25,Bank transfer,Completed,4
-CLI0126,Ildefonso,Aragón,65,palaciomaria-dolores@example.net,+34975 526 486,Palma,Ciudad Autónoma de Ceuta,02224,2022-12-19,2024-09-12,Dress,Clothing,1,30.73,30.73,Bank transfer,Completed,3
-CLI0127,Maximino,Castrillo,61,enriquezvicenta@example.com,+34 886 93 14 08,Valladolid,Aragón,30285,2021-08-24,2023-09-14,Jacket,Clothing,5,145.49,727.45,PayPal,Completed,1
-CLI0128,Celso,Palma,41,guardiolaalmudena@example.com,+34 921735313,Cordoba,Ciudad Autónoma de Ceuta,35244,2023-06-05,2024-08-16,Dress,Clothing,1,100.97,100.97,PayPal,Completed,3
-CLI0129,Fausto,Ribas,68,abelanglada@example.com,+34900455354,Las Palmas,Cantabria,46184,2023-03-07,2023-05-16,Notebook,Culture,2,13.31,26.62,Bank transfer,Cancelled,3
-CLI0130,Joaquín,Ariño,65,sabaterlaura@example.org,+34928 624 968,Vigo,Canarias,35001,2022-11-09,2023-10-30,Watch,Accessories,4,124.04,496.16,Bank transfer,Completed,1
-CLI0131,Herberto,Guardiola,64,qneira@example.com,+34978 722 321,Alicante,Ciudad Autónoma de Melilla,44784,2022-01-09,2024-11-23,Shoes,Clothing,2,122.96,245.92,Bizum,Cancelled,4
-CLI0132,Aránzazu,Murillo,41,madridmaxi@example.net,+34978 15 60 21,Alicante,País Vasco,34291,2022-11-06,2024-04-10,T-shirt,Clothing,1,17.93,17.93,Bank transfer,Cancelled,3
-CLI0133,Ulises,Polo,57,sanzgodofredo@example.net,+34737 189 793,Gijon,Castilla y León,08756,2022-08-29,2023-01-26,Trousers,Clothing,4,62.12,248.48,Cash,Completed,2
-CLI0134,Haroldo,Iniesta,37,cbarbero@example.net,+34872 760 710,Alicante,Comunidad de Madrid,14254,2024-05-22,2024-12-18,Book,Culture,4,9.71,38.84,Bizum,Completed,
-CLI0135,Maxi,Fabra,24,jcadenas@example.org,+34 806317971,Seville,Andalucía,03114,2022-04-16,2023-04-29,T-shirt,Clothing,4,19.13,76.52,Cash,Completed,3
-CLI0136,Mohamed,Berenguer,55,albinomas@example.net,+34945 438 619,Cordoba,Castilla-La Mancha,09700,2022-01-11,2024-03-05,Book,Culture,5,33.63,168.15,PayPal,Pending,4
-CLI0137,Francisca,Carro,62,nidia21@example.net,+34822 32 28 10,Malaga,Extremadura,34303,2021-07-21,2023-02-03,Monitor,Electronics,3,415.28,1245.84,PayPal,Pending,2
-CLI0138,Cipriano,Esparza,75,landajose-carlos@example.com,+34883 172 288,Alicante,País Vasco,22067,2021-07-03,2024-07-11,Watch,Accessories,3,213.21,639.63,Bank transfer,Completed,2
-CLI0139,Oriana,Pardo,60,aparicioana-belen@example.org,+34 922218990,Seville,Región de Murcia,06031,2021-08-07,2023-04-04,Trousers,Clothing,4,77.2,308.8,Cash,Completed,
-CLI0140,Atilio,Cadenas,31,leireleal@example.com,+34887 26 39 90,Madrid,Castilla y León,32007,2023-11-30,2024-08-01,Camera,Electronics,2,443.57,887.14,Cash,Completed,2
-CLI0141,Lucía,Acuña,35,ealegria@example.com,+34823352238,Vigo,Cantabria,11472,2022-09-26,2023-01-03,Camera,Electronics,5,974.37,4871.85,PayPal,Completed,2
-CLI0142,Luisina,Mata,18,casaresalbina@example.org,+34873 99 42 53,Malaga,Illes Balears,03631,2022-12-28,2023-05-15,Trousers,Clothing,1,61.36,61.36,PayPal,Cancelled,2
-CLI0143,Jordana,Sotelo,25,fabregasxavier@example.org,+34 941 066 056,Cordoba,Ciudad Autónoma de Ceuta,29606,2022-04-09,2024-06-22,Dress,Clothing,4,34.72,138.88,Credit card,Pending,3
-CLI0144,Griselda,Bastida,32,perla25@example.net,+34822030041,Bilbao,Extremadura,24926,2023-09-14,2024-05-30,Mouse,Electronics,4,63.43,253.72,Credit card,Cancelled,1
-CLI0145,Nerea,Gibert,61,zrosell@example.net,+34874 071 978,Madrid,Ciudad Autónoma de Ceuta,47571,2022-07-04,2024-03-12,T-shirt,Clothing,4,39.96,159.84,Bizum,Pending,
-CLI0146,Pili,Noriega,26,vasco55@example.net,+34 967097018,Zaragoza,Canarias,31423,2022-04-29,2023-03-09,Trousers,Clothing,2,42.72,85.44,Cash,Cancelled,3
-CLI0147,Herminia,Pereira,47,jose27@example.org,+34 922 91 48 20,Las Palmas,Comunitat Valenciana,14255,2023-02-12,2023-10-29,Headphones,Electronics,5,348.28,1741.4,Cash,Pending,
-CLI0148,Florencio,Ramirez,45,bertajorda@example.net,+34 963 56 09 36,Palma,Comunitat Valenciana,31207,2022-03-17,2023-08-09,Notebook,Culture,5,7.29,36.45,PayPal,Pending,4
-CLI0149,Ainara,Gomez,45,diegofeliciano@example.net,+34 972 010 674,Malaga,Comunitat Valenciana,33077,2023-09-03,2023-11-17,Headphones,Electronics,1,163.12,163.12,Bank transfer,Completed,4
-CLI0150,María Belén,Menéndez,45,bastidanoe@example.org,+34825 638 772,Madrid,Principado de Asturias,27734,2022-01-27,2023-04-06,Trousers,Clothing,1,30.02,30.02,Bank transfer,Completed,5
-CLI0151,Yésica,Gárate,40,catalanlupita@example.com,+34948943718,Vigo,Región de Murcia,04574,2023-03-21,2024-02-25,Mouse,Electronics,1,60.55,60.55,Bizum,Completed,5
-CLI0152,Leandro,Bueno,31,juan-pabloramon@example.com,+34 888 97 80 19,Valencia,País Vasco,06409,2024-05-21,2024-06-03,Dress,Clothing,5,61.65,308.25,Bizum,Completed,3
-CLI0153,Mario,Alarcón,54,rosaura14@example.com,+34835 88 03 03,Seville,Ciudad Autónoma de Ceuta,05511,2022-09-21,2023-10-13,Watch,Accessories,1,300.32,300.32,Bizum,Cancelled,5
-CLI0154,Nicolás,Garzón,56,tgimenez@example.net,+34941 081 930,Gijon,Canarias,08027,2022-05-30,2023-01-27,Monitor,Electronics,5,588.73,2943.65,Bank transfer,Completed,
-CLI0155,Sosimo,Santamaría,18,sarita70@example.net,+34848 593 757,Valencia,Castilla-La Mancha,49781,2023-02-10,2023-12-26,Notebook,Culture,3,20.25,60.75,PayPal,Cancelled,1
-CLI0156,Andrea,Porta,65,lblazquez@example.net,+34944768531,Las Palmas,Galicia,20453,2022-01-11,2023-04-04,Shoes,Clothing,1,121.51,121.51,PayPal,Pending,3
-CLI0157,Alfonso,Revilla,56,mayoleva@example.net,+34887699110,Madrid,Comunitat Valenciana,22865,2022-08-10,2024-08-04,Shoes,Clothing,3,80.71,242.13,Credit card,Completed,
-CLI0158,Amor,Valderrama,46,beltranani@example.com,+34925 382 820,Alicante,Ciudad Autónoma de Melilla,41617,2021-11-18,2023-10-06,Monitor,Electronics,1,182.35,182.35,Bizum,Pending,4
-CLI0159,Gabriel,Canet,40,aragonesmeralda@example.org,+34 841 587 165,Murcia,Castilla y León,33299,2021-08-21,2023-04-27,Dress,Clothing,5,49.4,247.0,Credit card,Completed,5
-CLI0160,Rosalva,Bejarano,32,pomboalbert@example.com,+34 884 03 90 81,Murcia,Comunidad de Madrid,28186,2021-09-28,2023-02-16,Keyboard,Electronics,3,104.31,312.93,Cash,Completed,
-CLI0161,Elisabet,Gimenez,36,peraltarosaura@example.org,+34981 09 65 35,Malaga,Ciudad Autónoma de Melilla,41825,2021-07-30,2023-09-19,Dress,Clothing,2,115.08,230.16,Credit card,Completed,4
-CLI0162,Nydia,Coloma,32,olalla38@example.net,+34 945425443,Las Palmas,Comunitat Valenciana,22344,2024-02-20,2024-12-21,Shoes,Clothing,5,54.21,271.05,Cash,Completed,
-CLI0163,Jesusa,Crespo,47,graciana38@example.com,+34936 735 328,Gijon,Illes Balears,41319,2022-01-05,2023-01-20,Watch,Accessories,4,383.92,1535.68,Credit card,Completed,5
-CLI0164,Baudelio,Portillo,25,ovidiosegovia@example.net,+34 806 292 914,Murcia,Principado de Asturias,33931,2022-06-04,2023-10-24,Headphones,Electronics,4,257.04,1028.16,Credit card,Completed,
-CLI0165,Oriana,Perera,45,reinaarnal@example.net,+34 884504854,Vigo,Ciudad Autónoma de Ceuta,29333,2021-07-03,2023-04-01,Monitor,Electronics,3,449.06,1347.18,Credit card,Completed,4
-CLI0166,Eligio,Lladó,32,luna33@example.com,+34871 667 345,Malaga,Canarias,22598,2023-08-05,2023-12-14,Mouse,Electronics,3,17.08,51.24,PayPal,Completed,1
-CLI0167,Marina,Casanovas,64,feberamirez@example.com,+34984 843 269,Vigo,Castilla-La Mancha,50674,2022-06-19,2023-12-26,Mouse,Electronics,3,55.9,167.7,PayPal,Completed,
-CLI0168,Esther,Burgos,66,herediaale@example.net,+34 886 69 37 53,Valladolid,Galicia,48812,2021-07-31,2023-06-06,Dress,Clothing,5,47.75,238.75,Credit card,Completed,4
-CLI0169,María Pilar,Mulet,61,vergaracosme@example.net,+34978005270,Gijon,Andalucía,27627,2023-11-29,2024-04-04,Keyboard,Electronics,5,140.71,703.55,Cash,Cancelled,3
-CLI0170,Juan,Morales,58,priscilahervas@example.org,+34824 227 725,Zaragoza,Illes Balears,28887,2021-10-15,2024-03-28,Shoes,Clothing,4,88.37,353.48,Bank transfer,Cancelled,
-CLI0171,Esmeralda,Nogués,20,rcarvajal@example.com,+34 845 591 375,Barcelona,Cataluña,13828,2022-02-20,2024-04-07,Mouse,Electronics,4,16.68,66.72,Bank transfer,Completed,
-CLI0172,Eulalia,Jiménez,56,belen23@example.org,+34827 29 38 36,Las Palmas,Castilla-La Mancha,51268,2023-03-18,2024-09-21,Watch,Accessories,1,489.82,489.82,Bizum,Pending,1
-CLI0173,Chita,Vizcaíno,30,qamoros@example.org,+34888393822,Malaga,Extremadura,31387,2024-09-27,2024-10-29,Keyboard,Electronics,5,165.45,827.25,Cash,Pending,1
-CLI0174,Elodia,Camps,50,llorentefrancisco-jose@example.com,+34 707800574,Alicante,Ciudad Autónoma de Ceuta,09856,2021-09-22,2023-03-28,Keyboard,Electronics,3,36.56,109.68,PayPal,Completed,
-CLI0175,Nicodemo,Aliaga,57,pradosabas@example.org,+34847 315 457,Valencia,Castilla-La Mancha,40823,2022-01-24,2024-06-19,Keyboard,Electronics,5,178.56,892.8,Bank transfer,Completed,4
-CLI0176,Feliciana,Sevillano,68,santiagolobo@example.com,+34881513891,Alicante,Comunitat Valenciana,40295,2022-10-06,2023-02-23,Headphones,Electronics,5,277.83,1389.15,Bank transfer,Completed,5
-CLI0177,José,Carreras,56,gonzalezolga@example.net,+34 873 68 48 59,Vigo,Castilla-La Mancha,09419,2022-02-23,2024-11-03,Book,Culture,3,18.44,55.32,PayPal,Completed,
-CLI0178,Jovita,Nadal,59,melisablanch@example.com,+34 948698437,Cordoba,Comunidad de Madrid,31528,2021-11-05,2023-11-14,Book,Culture,3,11.82,35.46,Bizum,Completed,1
-CLI0179,Ignacia,Blázquez,60,ricardoexposito@example.com,+34983385709,Cordoba,Principado de Asturias,50903,2021-11-29,2023-05-11,Dress,Clothing,3,80.3,240.9,Cash,Completed,4
-CLI0180,Narciso,Valenzuela,29,vidal85@example.org,+34987087747,Seville,Castilla y León,03136,2022-11-02,2023-11-13,Mouse,Electronics,3,42.56,127.68,Bank transfer,Pending,
-CLI0181,Sergio,Herrero,50,matearanzazu@example.org,+34 948 44 88 54,Valladolid,Cantabria,02822,2022-11-18,2023-04-14,Shoes,Clothing,3,57.04,171.12,Cash,Cancelled,
-CLI0182,Tania,Bermudez,56,marinaacevedo@example.net,+34 973835794,Murcia,Comunidad Foral de Navarra,11297,2022-06-07,2023-05-15,Camera,Electronics,5,1076.39,5381.95,PayPal,Completed,
-CLI0183,Mauricio,Jerez,20,ltrillo@example.org,+34 971 78 48 25,Murcia,Extremadura,51608,2023-11-27,2024-03-24,Notebook,Culture,2,20.42,40.84,Bank transfer,Completed,5
-CLI0184,Roxana,Leal,52,fernando85@example.net,+34872 63 12 71,Seville,Illes Balears,13266,2022-06-17,2023-08-28,Dress,Clothing,4,97.72,390.88,Bank transfer,Pending,2
-CLI0185,Bruno,Torrents,47,hferran@example.org,+34883 916 952,Valladolid,Aragón,19626,2022-04-28,2024-03-27,Camera,Electronics,5,878.31,4391.55,Bank transfer,Pending,4
-CLI0186,Azahara,Avilés,73,amormorillo@example.com,+34 874 158 180,Zaragoza,Andalucía,20769,2021-07-14,2023-05-22,Shoes,Clothing,5,129.86,649.3,Credit card,Pending,5
-CLI0187,Rosaura,Figueras,36,xpedraza@example.com,+34 962 35 15 05,Madrid,País Vasco,26936,2022-11-21,2023-05-08,Perfume,Accessories,5,37.82,189.1,PayPal,Completed,5
-CLI0188,Raquel,Baeza,70,ariadna40@example.net,+34824 559 154,Palma,Comunitat Valenciana,06862,2023-08-09,2023-08-16,Shoes,Clothing,1,131.42,131.42,Bank transfer,Completed,4
-CLI0189,Cristian,Anguita,41,vguillen@example.com,+34 820 70 41 45,Seville,Ciudad Autónoma de Ceuta,46112,2022-04-27,2023-03-25,Mouse,Electronics,4,43.66,174.64,Credit card,Completed,3
-CLI0190,Ildefonso,Flor,71,hipolitocastilla@example.net,+34848610475,Palma,Canarias,37290,2022-08-05,2023-10-21,Backpack,Accessories,1,31.68,31.68,PayPal,Pending,1
-CLI0191,Chucho,Aragón,71,rmiro@example.net,+34822 69 15 05,Valencia,La Rioja,30617,2021-12-06,2023-08-09,Perfume,Accessories,3,34.9,104.7,Cash,Cancelled,1
-CLI0192,María Jesús,Marco,21,ainarazorrilla@example.org,+34 973 111 724,Seville,Principado de Asturias,41806,2022-01-15,2023-05-05,Backpack,Accessories,3,43.05,129.15,Bizum,Cancelled,1
-CLI0193,José Mari,Piñeiro,19,alcaldeeladio@example.org,+34 886738419,Alicante,Aragón,37752,2024-04-29,2024-07-02,Watch,Accessories,5,457.32,2286.6,Cash,Cancelled,
-CLI0194,Maxi,Bosch,40,mirandaclara@example.com,+34988 69 17 99,Seville,País Vasco,35399,2023-04-17,2024-09-21,Shoes,Clothing,1,72.04,72.04,Cash,Pending,
-CLI0195,Aroa,Rocamora,51,hermenegildo59@example.net,+34 982981103,Las Palmas,La Rioja,22637,2022-03-19,2023-03-11,Book,Culture,3,10.31,30.93,Cash,Cancelled,4
-CLI0196,Emelina,Ríos,34,bmartin@example.org,+34 878880371,Cordoba,Castilla y León,51947,2022-03-24,2024-01-18,Watch,Accessories,4,261.56,1046.24,Credit card,Completed,3
-CLI0197,Nacho,Reig,65,martinezlalo@example.net,+34942 51 27 27,Valladolid,Comunidad de Madrid,40518,2022-11-13,2024-08-18,Jacket,Clothing,1,159.94,159.94,Bank transfer,Completed,
-CLI0198,Isaac,Soriano,47,patricia12@example.net,+34 883204031,Cordoba,Aragón,26033,2022-07-09,2024-12-02,Mouse,Electronics,2,40.47,80.94,Bizum,Completed,1
-CLI0199,Evaristo,Ripoll,36,guiomar82@example.net,+34 981 863 121,Seville,Ciudad Autónoma de Ceuta,03565,2022-11-12,2023-02-07,Notebook,Culture,4,20.52,82.08,Credit card,Completed,3
-CLI0200,Ani,Narváez,48,llobetjeronimo@example.net,+34 850 51 14 32,Zaragoza,Castilla y León,52095,2024-06-14,2024-07-10,Perfume,Accessories,4,63.76,255.04,Credit card,Completed,
-CLI0201,Paco,Ródenas,25,gallarthaydee@example.com,+34973 537 846,Valladolid,Extremadura,02283,2023-07-17,2023-10-07,Watch,Accessories,3,401.38,1204.14,Bank transfer,Pending,4
-CLI0202,Isaac,Sanchez,49,kpina@example.org,+34 885941181,Cordoba,Ciudad Autónoma de Melilla,44444,2023-05-14,2023-07-11,Perfume,Accessories,3,144.56,433.68,Bizum,Completed,5
-CLI0203,Jenaro,Segarra,45,spellicer@example.com,+34 901 976 104,Bilbao,Ciudad Autónoma de Ceuta,51384,2022-06-25,2023-03-22,Dress,Clothing,4,102.1,408.4,PayPal,Cancelled,
-CLI0204,Pepito,Badía,46,cobosrico@example.org,+34 874250177,Bilbao,Aragón,20930,2023-04-11,2023-11-10,Trousers,Clothing,3,29.4,88.2,Bizum,Completed,3
-CLI0205,Pastora,Sevillano,45,casesluis-miguel@example.net,+34645 13 39 27,Zaragoza,Castilla y León,38627,2023-12-09,2024-09-21,Keyboard,Electronics,3,26.78,80.34,Credit card,Completed,4
-CLI0206,Ana,Rodríguez,27,esterbellido@example.net,+34948 35 48 99,Vigo,Illes Balears,33128,2021-07-11,2023-02-01,Camera,Electronics,2,713.09,1426.18,Cash,Pending,
-CLI0207,Verónica,Llorens,42,emmapedro@example.com,+34983 22 45 04,Bilbao,Cantabria,49576,2021-07-29,2024-01-06,Trousers,Clothing,3,37.98,113.94,Credit card,Cancelled,
-CLI0208,Otilia,Catalán,66,scespedes@example.com,+34 934893619,Madrid,Comunitat Valenciana,16624,2023-11-24,2024-03-30,Keyboard,Electronics,3,171.81,515.43,Cash,Completed,4
-CLI0209,Lalo,Barrios,19,lgil@example.org,+34 843608309,Cordoba,Galicia,08376,2022-10-16,2023-04-27,Camera,Electronics,2,849.56,1699.12,PayPal,Pending,5
-CLI0210,Camila,Pozo,46,iris31@example.org,+34 987 149 373,Seville,Comunidad de Madrid,04484,2022-09-01,2024-12-21,Trousers,Clothing,3,39.4,118.2,Cash,Completed,4
-CLI0211,Zaida,Ponce,29,bustosrosalinda@example.org,+34 900 482 897,Gijon,Ciudad Autónoma de Melilla,38780,2023-02-14,2024-04-07,Jacket,Clothing,1,68.4,68.4,Bizum,Completed,3
-CLI0212,Azeneth,Arellano,52,arcelia04@example.com,+34821 29 31 51,Zaragoza,Comunidad Foral de Navarra,10240,2023-11-04,2024-07-17,Book,Culture,1,17.38,17.38,Bank transfer,Completed,2
-CLI0213,Evita,Alcalá,30,hurtadoroman@example.com,+34902326515,Valladolid,Cantabria,32776,2023-01-23,2023-05-05,Backpack,Accessories,2,48.92,97.84,PayPal,Completed,1
-CLI0214,Jose Angel,Carrera,69,salome28@example.com,+34 941 56 48 47,Las Palmas,Comunidad Foral de Navarra,17632,2022-11-16,2024-04-23,Camera,Electronics,3,754.02,2262.06,PayPal,Cancelled,1
-CLI0215,Nydia,Pelayo,44,brigida04@example.net,+34 920 97 26 22,Valladolid,Ciudad Autónoma de Melilla,05740,2021-06-11,2024-06-22,Dress,Clothing,4,65.83,263.32,Bizum,Cancelled,
-CLI0216,Florentino,Aller,61,otilia27@example.net,+34823 636 928,Las Palmas,Cantabria,21108,2022-12-20,2024-04-22,Camera,Electronics,4,842.34,3369.36,Bank transfer,Completed,5
-CLI0217,Josefa,Solera,50,cabrerosebastian@example.com,+34712 710 651,Gijon,Extremadura,48050,2023-08-01,2024-03-19,Book,Culture,2,23.87,47.74,Credit card,Completed,3
-CLI0218,Custodia,Bárcena,51,carpiogaspar@example.com,+34881 43 55 24,Gijon,Canarias,25715,2023-12-16,2023-12-21,Shoes,Clothing,2,57.82,115.64,Bank transfer,Completed,
-CLI0219,Guadalupe,Torrecilla,58,benitalozano@example.org,+34 729 56 42 92,Zaragoza,Castilla y León,38181,2022-04-27,2023-05-09,Book,Culture,3,33.82,101.46,Cash,Cancelled,
-CLI0220,Hermenegildo,Adadia,28,campoyencarnacion@example.com,+34 986996726,Alicante,Illes Balears,03191,2021-11-07,2023-06-07,Book,Culture,5,12.55,62.75,Cash,Cancelled,5
-CLI0221,Amaro,Reina,20,matias25@example.net,+34831 05 85 93,Alicante,Cataluña,33337,2022-09-02,2023-03-25,T-shirt,Clothing,1,34.76,34.76,Cash,Completed,5
-CLI0222,Onofre,Guerrero,74,badiajuan-bautista@example.net,+34834 796 078,Alicante,Cantabria,39941,2021-11-12,2024-05-24,Headphones,Electronics,1,227.79,227.79,Cash,Completed,3
-CLI0223,Gervasio,Cobo,47,hector74@example.com,+34920 111 681,Madrid,Cantabria,26734,2022-06-22,2023-11-01,Keyboard,Electronics,4,59.18,236.72,Credit card,Completed,4
-CLI0224,Natanael,Figuerola,38,ecastells@example.org,+34 920 459 084,Vigo,Ciudad Autónoma de Melilla,39788,2022-02-06,2023-05-28,Keyboard,Electronics,5,52.64,263.2,Bank transfer,Completed,2
-CLI0225,Porfirio,Silva,38,talaverasocorro@example.org,+34 864 303 794,Seville,Canarias,09265,2022-05-04,2023-04-19,Backpack,Accessories,5,49.64,248.2,Bizum,Completed,
-CLI0226,Rosario,Escribano,42,herbertofalco@example.net,+34 987 906 829,Vigo,Castilla y León,48766,2021-08-12,2023-10-25,Jacket,Clothing,1,71.13,71.13,Cash,Pending,
-CLI0227,Esmeralda,Tomas,64,adanlupita@example.com,+34730483981,Malaga,La Rioja,38579,2021-07-16,2024-08-14,Watch,Accessories,3,456.04,1368.12,PayPal,Completed,5
-CLI0228,Victor,Escribano,19,amancio01@example.org,+34 821706543,Madrid,Galicia,46274,2024-02-09,2024-05-24,Keyboard,Electronics,3,99.8,299.4,Bizum,Cancelled,2
-CLI0229,Iris,Batalla,36,reynaldo24@example.net,+34 845 861 087,Palma,La Rioja,12373,2023-01-13,2023-02-21,Jacket,Clothing,1,137.5,137.5,Cash,Pending,
-CLI0230,Quirino,Cortés,74,fabraglauco@example.org,+34 727 33 00 86,Zaragoza,Ciudad Autónoma de Melilla,38114,2021-11-20,2023-05-18,T-shirt,Clothing,4,35.42,141.68,Bank transfer,Pending,4
-CLI0231,Ainoa,Valentín,53,qlledo@example.com,+34841918612,Zaragoza,Región de Murcia,01957,2022-07-25,2024-01-07,T-shirt,Clothing,2,27.11,54.22,Credit card,Pending,5
-CLI0232,Severo,Valcárcel,57,matildecaceres@example.org,+34955921939,Madrid,Canarias,32202,2024-10-28,2024-11-27,Dress,Clothing,5,104.28,521.4,PayPal,Completed,3
-CLI0233,Ema,Blanca,56,macariomoreno@example.org,+34882 845 071,Las Palmas,Ciudad Autónoma de Melilla,18073,2023-07-18,2023-07-23,Mouse,Electronics,2,94.51,189.02,Bizum,Cancelled,
-CLI0234,Mirta,Andrade,51,graciacantero@example.org,+34 814 015 409,Palma,País Vasco,15127,2023-07-19,2024-04-30,T-shirt,Clothing,3,14.11,42.33,PayPal,Cancelled,2
-CLI0235,Ariel,Arrieta,43,josefinafigueroa@example.com,+34 841 86 57 07,Bilbao,Principado de Asturias,11330,2023-04-20,2023-06-16,Camera,Electronics,3,1131.37,3394.11,Bank transfer,Cancelled,5
-CLI0236,Azeneth,Bolaños,48,omartin@example.org,+34 882 46 62 82,Vigo,Cantabria,02024,2023-01-09,2023-11-03,Mouse,Electronics,5,54.09,270.45,Credit card,Completed,1
-CLI0237,Evangelina,Carvajal,48,aitanasanjuan@example.com,+34943 350 265,Zaragoza,Cataluña,11489,2021-09-20,2024-09-03,Headphones,Electronics,1,216.78,216.78,Cash,Cancelled,
-CLI0238,Ismael,Ayllón,58,torralbarafael@example.net,+34 960 51 03 05,Cordoba,Cataluña,19088,2022-10-10,2024-06-20,T-shirt,Clothing,2,27.51,55.02,Cash,Pending,
-CLI0239,Rosa María,Saldaña,25,canetelisandro@example.com,+34982130445,Seville,Región de Murcia,10009,2023-04-14,2024-12-18,Book,Culture,5,14.54,72.7,Credit card,Pending,2
-CLI0240,Renata,Coca,67,jafet45@example.org,+34 971634144,Bilbao,Extremadura,01734,2024-01-16,2024-05-28,Headphones,Electronics,4,250.96,1003.84,Bizum,Completed,5
-CLI0241,María Jesús,Colomer,42,upaez@example.org,+34887 44 22 85,Malaga,Extremadura,26087,2023-06-23,2024-06-22,Jacket,Clothing,4,134.13,536.52,PayPal,Pending,3
-CLI0242,Águeda,Llopis,48,pereirajavier@example.org,+34926 90 94 48,Seville,Extremadura,34478,2023-09-10,2024-09-16,Mouse,Electronics,3,41.89,125.67,PayPal,Completed,2
-CLI0243,Jesusa,Montoya,63,emma43@example.com,+34 941 48 79 57,Palma,Comunitat Valenciana,49607,2023-06-08,2024-12-07,Dress,Clothing,2,99.41,198.82,Bank transfer,Pending,3
-CLI0244,Máxima,Pont,75,tere22@example.com,+34985266019,Murcia,Extremadura,25847,2023-10-15,2024-01-24,Dress,Clothing,5,40.97,204.85,Bank transfer,Completed,
-CLI0245,Sosimo,Andrade,46,geraldogilabert@example.com,+34 820 318 188,Alicante,Comunitat Valenciana,12262,2023-06-11,2023-12-21,Dress,Clothing,1,115.98,115.98,Bank transfer,Pending,
-CLI0246,Bautista,Carballo,35,lope32@example.com,+34717 93 84 48,Valencia,País Vasco,24804,2023-12-19,2024-12-13,Watch,Accessories,5,292.36,1461.8,Credit card,Cancelled,2
-CLI0247,Ignacio,Quirós,58,ylasa@example.com,+34882 68 50 41,Seville,Comunidad Foral de Navarra,47210,2023-01-31,2023-08-20,Jacket,Clothing,5,57.61,288.05,Credit card,Completed,4
-CLI0248,Pili,Canals,53,jacinto42@example.org,+34871 76 64 82,Gijon,Comunitat Valenciana,14436,2021-09-19,2023-01-06,Trousers,Clothing,2,62.47,124.94,PayPal,Pending,4
-CLI0249,Tecla,Espinosa,36,trinidadferrer@example.org,+34943 103 338,Alicante,Canarias,19977,2022-11-23,2023-11-25,Keyboard,Electronics,3,124.09,372.27,Credit card,Completed,2
-CLI0250,Mayte,Acosta,44,corbacholeocadia@example.org,+34983366979,Gijon,Comunidad de Madrid,20121,2021-10-09,2023-06-29,Mouse,Electronics,1,76.48,76.48,PayPal,Completed,4
-CLI0251,Obdulia,Méndez,18,violeta59@example.com,+34883795250,Zaragoza,Región de Murcia,09754,2022-05-21,2023-02-08,Backpack,Accessories,3,59.63,178.89,Cash,Cancelled,
-CLI0252,Bernardo,Carlos,49,xsantiago@example.com,+34 947 591 620,Gijon,Cataluña,03061,2024-01-22,2024-06-20,Camera,Electronics,5,484.56,2422.8,PayPal,Cancelled,2
-CLI0253,Vito,Novoa,59,ramisleandra@example.net,+34803 60 26 26,Zaragoza,País Vasco,48570,2023-01-19,2024-04-14,Backpack,Accessories,2,29.01,58.02,PayPal,Completed,3
-CLI0254,Amalia,Ferrán,57,navarreteblas@example.net,+34849 77 00 67,Vigo,Castilla-La Mancha,44331,2023-05-05,2023-06-29,Monitor,Electronics,2,588.36,1176.72,Bizum,Pending,1
-CLI0255,Jose Miguel,Pazos,48,vegea@example.org,+34 981 442 443,Malaga,Illes Balears,07381,2022-10-14,2023-05-24,Headphones,Electronics,2,244.16,488.32,PayPal,Completed,
-CLI0256,Felicia,Peiró,37,zsantos@example.com,+34846 68 70 89,Bilbao,La Rioja,23453,2023-08-30,2023-12-04,Jacket,Clothing,3,117.01,351.03,Cash,Completed,
-CLI0257,Prudencio,Piñeiro,25,alfonsomagdalena@example.org,+34842533233,Palma,Cantabria,32681,2023-09-18,2024-11-14,Camera,Electronics,1,892.77,892.77,Bank transfer,Completed,5
-CLI0258,Lope,Chamorro,25,nacho37@example.com,+34943742507,Alicante,Castilla-La Mancha,18931,2021-11-14,2024-12-07,Perfume,Accessories,3,136.89,410.67,Bank transfer,Completed,2
-CLI0259,Celestino,Carmona,41,ruyperez@example.org,+34 847 93 46 62,Murcia,País Vasco,51650,2022-11-20,2024-09-12,Shoes,Clothing,4,92.6,370.4,Cash,Pending,2
-CLI0260,Carolina,Villalobos,51,candela80@example.org,+34 883 431 103,Palma,Comunidad de Madrid,03901,2021-09-20,2023-03-25,Backpack,Accessories,5,39.8,199.0,Cash,Completed,
-CLI0261,Esmeralda,Águila,30,ofelia70@example.com,+34927 713 358,Bilbao,Comunidad de Madrid,13661,2022-12-16,2024-06-01,Monitor,Electronics,5,222.94,1114.7,Cash,Completed,
-CLI0262,Pío,Pérez,31,sferrando@example.org,+34887 913 276,Cordoba,Principado de Asturias,18429,2021-12-25,2024-11-27,Watch,Accessories,1,284.15,284.15,Cash,Pending,
-CLI0263,Vicente,Pinto,26,consuelasotelo@example.com,+34 820472732,Las Palmas,Andalucía,33691,2021-10-13,2024-04-09,Mouse,Electronics,1,50.09,50.09,Bizum,Pending,5
-CLI0264,Eli,Oliveras,43,palomareshector@example.net,+34888634687,Zaragoza,Aragón,29349,2022-09-19,2023-01-23,Keyboard,Electronics,3,127.64,382.92,Credit card,Completed,1
-CLI0265,Ibán,Cañizares,21,porfiriomanzano@example.net,+34 828 221 866,Gijon,Aragón,32755,2024-04-13,2024-07-08,Headphones,Electronics,1,140.25,140.25,Credit card,Pending,
-CLI0266,Aurelio,Cuevas,64,tecla43@example.com,+34 823 99 44 21,Alicante,Cataluña,35560,2022-02-10,2024-10-18,Headphones,Electronics,2,87.59,175.18,Bizum,Completed,4
-CLI0267,Alejandro,Almagro,23,rochagracia@example.org,+34933 05 62 73,Alicante,Comunidad de Madrid,29897,2021-11-09,2024-01-20,Keyboard,Electronics,4,159.14,636.56,Cash,Completed,3
-CLI0268,Apolinar,Ugarte,51,uvelez@example.net,+34 920 164 288,Valencia,Comunidad Foral de Navarra,20210,2022-12-24,2024-02-07,Trousers,Clothing,5,34.82,174.1,PayPal,Completed,3
-CLI0269,Chus,Mariño,52,jacintaleal@example.org,+34 841 82 08 43,Murcia,Illes Balears,11364,2021-12-16,2024-03-10,Keyboard,Electronics,5,127.76,638.8,PayPal,Completed,2
-CLI0270,Paloma,Piñol,69,gervasiovall@example.org,+34 927 48 07 00,Alicante,País Vasco,06190,2021-12-14,2023-02-02,Dress,Clothing,1,46.96,46.96,Bizum,Cancelled,1
-CLI0271,José Manuel,Lara,20,jafetsosa@example.com,+34 985 44 54 27,Palma,Andalucía,07727,2022-07-28,2024-08-31,Jacket,Clothing,1,80.91,80.91,Cash,Completed,
-CLI0272,Aarón,Miró,31,polbienvenida@example.com,+34 700 213 344,Valladolid,Andalucía,23760,2021-09-30,2024-07-06,T-shirt,Clothing,2,22.07,44.14,Credit card,Completed,3
-CLI0273,Piedad,Larrañaga,54,fgallo@example.com,+34883 99 81 44,Bilbao,Canarias,44595,2022-02-01,2023-11-23,Jacket,Clothing,5,172.37,861.85,Bank transfer,Completed,2
-CLI0274,Néstor,Real,35,calderongraciana@example.com,+34 881 447 968,Barcelona,Ciudad Autónoma de Melilla,32066,2021-08-12,2023-11-04,Book,Culture,4,22.07,88.28,Cash,Cancelled,2
-CLI0275,Imelda,Manrique,21,miguelalucena@example.com,+34 873 145 673,Malaga,Cataluña,20599,2022-02-07,2024-05-22,Book,Culture,5,26.33,131.65,Bizum,Cancelled,4
-CLI0276,Nilo,Almazán,66,guadalupe62@example.net,+34972 120 781,Las Palmas,Canarias,30866,2023-06-08,2023-07-08,Headphones,Electronics,4,77.75,311.0,Bizum,Completed,3
-CLI0277,Esther,Prats,53,fcarranza@example.com,+34811805066,Murcia,Comunidad Foral de Navarra,27603,2023-01-01,2023-03-01,Watch,Accessories,4,368.41,1473.64,Bizum,Cancelled,4
-CLI0278,Ricardo,Company,23,zhierro@example.org,+34 924 73 92 36,Gijon,Canarias,38104,2022-07-05,2024-10-24,Jacket,Clothing,3,88.25,264.75,Bizum,Completed,
-CLI0279,Luis Ángel,Peral,42,tomasasantiago@example.com,+34 947 91 08 59,Alicante,Cataluña,08719,2022-04-11,2023-10-02,Notebook,Culture,1,21.59,21.59,Cash,Cancelled,
-CLI0280,Félix,Tirado,53,bamigo@example.com,+34 920 21 85 90,Seville,Aragón,33756,2021-12-29,2024-11-18,Trousers,Clothing,5,35.35,176.75,Bizum,Completed,3
-CLI0281,Inés,Nogués,30,atilio84@example.com,+34827 86 49 83,Cordoba,Aragón,02204,2023-08-04,2023-08-05,Dress,Clothing,1,116.13,116.13,Credit card,Pending,5
-CLI0282,Visitación,Diez,38,kesteban@example.net,+34823470612,Valladolid,La Rioja,07795,2023-02-16,2024-07-19,Notebook,Culture,2,9.09,18.18,Bank transfer,Pending,3
-CLI0283,Maricruz,Ordóñez,47,gomilaguadalupe@example.org,+34 883 18 84 03,Madrid,Canarias,14779,2022-08-10,2024-05-24,Dress,Clothing,5,53.54,267.7,Bizum,Completed,3
-CLI0284,Eusebia,Alcázar,65,ygomila@example.net,+34 718 614 940,Valencia,Principado de Asturias,24317,2023-03-04,2023-08-15,Camera,Electronics,5,613.93,3069.65,Credit card,Completed,5
-CLI0285,Leire,Perera,30,cruzfeijoo@example.com,+34984 604 146,Malaga,Illes Balears,28425,2021-09-27,2023-06-06,Monitor,Electronics,3,618.01,1854.03,PayPal,Pending,2
-CLI0286,Javi,Bolaños,66,tristanbautista@example.net,+34902 373 982,Vigo,Illes Balears,39988,2023-02-10,2023-09-21,Keyboard,Electronics,3,108.1,324.3,Bizum,Pending,3
-CLI0287,Jose Ramón,Carreras,29,santanamartina@example.net,+34943 62 05 08,Gijon,Castilla-La Mancha,27639,2022-03-12,2024-05-15,Shoes,Clothing,5,55.4,277.0,Cash,Completed,1
-CLI0288,Martín,Bermejo,26,paula22@example.org,+34 926344589,Vigo,La Rioja,45674,2021-09-17,2024-02-27,Watch,Accessories,1,350.7,350.7,PayPal,Completed,1
-CLI0289,Dafne,Tejedor,57,almazanluisa@example.com,+34 869 862 316,Alicante,Ciudad Autónoma de Ceuta,14541,2022-07-29,2023-03-03,Jacket,Clothing,3,125.86,377.58,Cash,Pending,1
-CLI0290,Brígida,Morata,19,marisaalegria@example.net,+34845 52 73 78,Las Palmas,Principado de Asturias,42616,2022-05-29,2023-01-13,T-shirt,Clothing,4,25.97,103.88,Bank transfer,Cancelled,1
-CLI0291,Mirta,Blanco,24,dabascal@example.org,+34 885539492,Gijon,Illes Balears,28331,2023-04-01,2023-07-03,Mouse,Electronics,4,83.18,332.72,Credit card,Cancelled,
-CLI0292,León,Díaz,35,nidia54@example.com,+34 902 61 00 97,Valladolid,Extremadura,47782,2021-07-11,2023-12-29,Jacket,Clothing,3,142.97,428.91,Bizum,Completed,4
-CLI0293,Moisés,Casares,61,hhuguet@example.org,+34 974 27 02 65,Vigo,Aragón,31430,2021-10-17,2023-11-04,Keyboard,Electronics,2,110.4,220.8,Credit card,Completed,
-CLI0294,Pacífica,Corral,58,martina69@example.com,+34 864 90 25 39,Barcelona,Cataluña,02947,2021-09-29,2023-02-27,Headphones,Electronics,4,150.69,602.76,PayPal,Completed,4
-CLI0295,Emilia,Perera,75,gilberto87@example.com,+34828 803 571,Las Palmas,La Rioja,25594,2022-07-26,2023-04-08,Book,Culture,5,29.18,145.9,Credit card,Completed,
-CLI0296,Segismundo,Herrera,35,descobar@example.com,+34 983 287 476,Barcelona,Castilla y León,24246,2023-03-07,2024-05-01,Watch,Accessories,5,361.53,1807.65,Credit card,Completed,5
-CLI0297,Carlota,Lillo,31,hamoros@example.org,+34971 86 29 83,Bilbao,Andalucía,03642,2022-11-29,2023-01-17,Book,Culture,3,8.89,26.67,PayPal,Pending,3
-CLI0298,Montserrat,Tena,61,andres-felipe98@example.net,+34 977 81 44 83,Gijon,Illes Balears,05205,2023-05-08,2024-02-03,Shoes,Clothing,5,102.04,510.2,Cash,Completed,2
-CLI0299,Ignacio,Galan,65,moratawilfredo@example.org,+34 848 846 545,Malaga,País Vasco,13517,2024-01-06,2024-05-27,Backpack,Accessories,1,99.08,99.08,Credit card,Completed,1
-CLI0300,Basilio,Fábregas,43,catalina50@example.net,+34 856 75 84 19,Valladolid,País Vasco,06086,2022-08-19,2024-09-01,Camera,Electronics,5,805.17,4025.85,Bank transfer,Completed,4
-CLI0301,Cruz,Isern,45,renatoferrando@example.com,+34 872 110 292,Valencia,Región de Murcia,35250,2021-08-12,2024-01-20,Keyboard,Electronics,5,56.5,282.5,Cash,Pending,
-CLI0302,Jose Miguel,Jerez,22,domenechangelina@example.org,+34 822 72 45 97,Madrid,Canarias,26273,2022-11-08,2024-12-31,Monitor,Electronics,2,342.0,684.0,Bank transfer,Completed,2
-CLI0303,Salvador,Tenorio,23,robertoalcazar@example.net,+34822 574 211,Barcelona,Región de Murcia,40727,2021-07-12,2023-04-20,Notebook,Culture,3,12.79,38.37,Bank transfer,Pending,3
-CLI0304,Albert,Cabrero,46,amaliapuerta@example.com,+34 879 084 329,Las Palmas,Canarias,49958,2022-07-26,2024-03-17,Trousers,Clothing,2,32.29,64.58,Cash,Cancelled,1
-CLI0305,Anna,Abascal,56,oquintero@example.org,+34922994210,Valladolid,Cataluña,45621,2023-04-02,2024-09-03,Trousers,Clothing,1,44.47,44.47,Bank transfer,Pending,
-CLI0306,Mateo,Iglesias,75,haroldo45@example.net,+34635 80 18 44,Seville,Ciudad Autónoma de Ceuta,51268,2022-05-13,2024-07-26,Headphones,Electronics,1,154.1,154.1,Cash,Cancelled,
-CLI0307,Godofredo,Pallarès,35,gramirez@example.org,+34828254776,Palma,Comunidad Foral de Navarra,38774,2023-05-14,2023-11-05,Headphones,Electronics,3,84.24,252.72,PayPal,Completed,
-CLI0308,Benita,Raya,41,benigna65@example.com,+34 719462834,Zaragoza,Illes Balears,25846,2022-06-07,2023-03-20,Dress,Clothing,4,67.9,271.6,PayPal,Pending,2
-CLI0309,Hermenegildo,Santiago,43,manuelitadiego@example.net,+34 926 385 347,Malaga,Castilla-La Mancha,18395,2022-02-21,2023-01-07,Keyboard,Electronics,3,37.12,111.36,Cash,Pending,3
-CLI0310,Leocadia,Cervera,37,maricela05@example.net,+34 841 453 901,Malaga,Comunidad de Madrid,50141,2022-09-11,2023-05-20,Keyboard,Electronics,5,73.56,367.8,Cash,Completed,2
-CLI0311,Gaspar,Aguirre,58,naranjofederico@example.net,+34 884 95 86 23,Palma,Illes Balears,12959,2023-09-19,2024-12-12,Headphones,Electronics,3,339.99,1019.97,Cash,Completed,3
-CLI0312,Alcides,Nicolás,54,galberola@example.net,+34 920885045,Seville,Illes Balears,02007,2023-01-07,2023-04-27,Watch,Accessories,3,403.64,1210.92,Cash,Cancelled,
-CLI0313,Federico,Villalobos,31,nazariogimeno@example.net,+34 942 565 892,Palma,País Vasco,14847,2023-10-18,2024-12-26,Backpack,Accessories,4,64.01,256.04,Bank transfer,Completed,4
-CLI0314,Manuela,Cuervo,34,montesinosclemente@example.net,+34942259503,Alicante,Illes Balears,51774,2023-03-11,2023-09-05,Book,Culture,3,21.48,64.44,PayPal,Pending,1
-CLI0315,Apolinar,Alcaraz,43,nosorio@example.net,+34 879 302 958,Las Palmas,Comunitat Valenciana,17328,2024-01-24,2024-08-19,Keyboard,Electronics,4,178.51,714.04,Cash,Pending,3
-CLI0316,Socorro,Rocamora,58,flora19@example.org,+34 926 483 454,Gijon,País Vasco,26186,2023-11-15,2024-08-31,Notebook,Culture,5,22.91,114.55,Credit card,Completed,3
-CLI0317,Nereida,Aranda,59,alondra42@example.com,+34 923343836,Alicante,Ciudad Autónoma de Ceuta,02069,2022-03-24,2024-07-30,Shoes,Clothing,1,111.17,111.17,Bizum,Completed,4
-CLI0318,Héctor,Palomares,50,tito41@example.com,+34 884439562,Cordoba,Comunidad de Madrid,43659,2023-04-28,2023-08-16,Trousers,Clothing,3,25.58,76.74,Cash,Cancelled,5
-CLI0319,Ramón,Hernandez,67,dazajenny@example.com,+34915 18 17 67,Alicante,Comunidad Foral de Navarra,22401,2023-09-06,2024-04-19,Jacket,Clothing,4,116.87,467.48,Cash,Cancelled,
-CLI0320,Bárbara,Sarabia,23,africavendrell@example.com,+34884 60 11 23,Madrid,Galicia,19333,2022-04-08,2024-03-01,T-shirt,Clothing,3,24.48,73.44,PayPal,Completed,4
-CLI0321,Noa,Pallarès,48,tere37@example.org,+34876582859,Madrid,Ciudad Autónoma de Melilla,28418,2023-12-21,2023-12-23,Backpack,Accessories,4,36.55,146.2,Bizum,Pending,3
-CLI0322,Áurea,Almeida,72,amparo65@example.org,+34847 826 277,Malaga,Ciudad Autónoma de Ceuta,49653,2021-09-22,2023-01-24,T-shirt,Clothing,1,34.31,34.31,Credit card,Completed,2
-CLI0323,Paz,Angulo,53,nbenito@example.com,+34822650626,Murcia,País Vasco,03630,2021-12-31,2023-12-05,Mouse,Electronics,2,25.7,51.4,Bizum,Completed,2
-CLI0324,Isidro,Pol,19,unaranjo@example.com,+34 807 613 875,Cordoba,Cantabria,09805,2023-06-14,2024-02-10,Shoes,Clothing,4,110.45,441.8,Cash,Completed,4
-CLI0325,Ceferino,Barroso,35,susanapoza@example.net,+34 849395729,Valladolid,Aragón,18401,2021-08-19,2023-07-30,Headphones,Electronics,2,31.42,62.84,Credit card,Cancelled,
-CLI0326,Imelda,Villalba,30,kike42@example.org,+34 973 106 150,Palma,Castilla y León,28449,2022-07-13,2023-11-30,Watch,Accessories,3,291.6,874.8,Credit card,Completed,4
-CLI0327,María Manuela,Vilaplana,42,teo15@example.org,+34959 46 94 58,Bilbao,Región de Murcia,25827,2021-08-05,2024-09-03,Mouse,Electronics,3,96.93,290.79,Bizum,Cancelled,
-CLI0328,Fátima,Toledo,70,piedad40@example.com,+34945001835,Alicante,Ciudad Autónoma de Ceuta,19439,2022-01-31,2023-06-26,Camera,Electronics,5,1045.52,5227.6,Bank transfer,Cancelled,2
-CLI0329,Estefanía,Miranda,29,valenciatania@example.net,+34 982 165 513,Malaga,Comunitat Valenciana,36747,2022-05-15,2023-04-30,Camera,Electronics,3,317.86,953.58,PayPal,Cancelled,5
-CLI0330,Hipólito,Guerrero,49,ulopez@example.org,+34703 50 02 10,Alicante,Extremadura,40907,2023-01-18,2023-07-10,Shoes,Clothing,4,103.23,412.92,Cash,Completed,4
-CLI0331,Albano,Sastre,57,mbayona@example.com,+34844 857 048,Barcelona,Ciudad Autónoma de Ceuta,28612,2021-08-09,2024-04-06,Dress,Clothing,3,42.63,127.89,Bank transfer,Completed,2
-CLI0332,Máximo,Gallart,59,demetrio05@example.net,+34845 46 71 11,Palma,Cantabria,41395,2021-10-28,2024-06-01,Watch,Accessories,5,222.77,1113.85,Bizum,Pending,4
-CLI0333,Feliciana,Coca,68,gilbertoamo@example.com,+34 827 058 707,Valladolid,Illes Balears,35216,2021-09-11,2023-02-01,Keyboard,Electronics,5,46.76,233.8,PayPal,Completed,
-CLI0334,Perla,Cárdenas,54,vilaltavinicio@example.net,+34 821 797 824,Cordoba,Ciudad Autónoma de Ceuta,46713,2022-03-09,2024-04-13,Jacket,Clothing,2,130.64,261.28,Bizum,Cancelled,5
-CLI0335,Ale,Monreal,52,tpaz@example.com,+34877 91 34 31,Vigo,Extremadura,25743,2023-03-21,2024-01-11,Trousers,Clothing,5,39.73,198.65,Credit card,Pending,4
-CLI0336,Sancho,Carlos,73,severino98@example.net,+34 881808459,Barcelona,Andalucía,04646,2021-11-30,2023-11-01,Trousers,Clothing,2,65.48,130.96,Bizum,Completed,1
-CLI0337,Candelaria,Donoso,31,abril47@example.com,+34 879 592 734,Valladolid,Illes Balears,44756,2021-10-30,2023-08-31,Keyboard,Electronics,1,158.45,158.45,Cash,Completed,5
-CLI0338,Alonso,Rincón,68,nledesma@example.com,+34 833 244 863,Seville,Comunidad Foral de Navarra,19531,2022-08-25,2023-05-23,Book,Culture,5,19.56,97.8,PayPal,Completed,5
-CLI0339,Florencia,Adán,63,calderoneugenia@example.org,+34949 81 86 43,Zaragoza,La Rioja,28905,2023-06-12,2023-11-28,Dress,Clothing,2,83.72,167.44,Bank transfer,Cancelled,
-CLI0340,Mireia,Bejarano,66,azucenaalfaro@example.org,+34 845 75 03 57,Valladolid,Aragón,01290,2022-02-14,2023-05-19,Watch,Accessories,1,281.49,281.49,Bizum,Completed,2
-CLI0341,Marcela,Galván,63,acarbajo@example.org,+34 735062701,Malaga,Comunidad de Madrid,04362,2022-08-18,2023-05-30,Notebook,Culture,2,22.32,44.64,PayPal,Pending,5
-CLI0342,Paulina,Palmer,46,lastracruz@example.com,+34 820959047,Madrid,Aragón,15588,2022-03-25,2024-01-20,Book,Culture,4,15.26,61.04,Credit card,Pending,3
-CLI0343,Irene,Cantón,49,wisern@example.com,+34924 989 144,Malaga,Comunidad de Madrid,16443,2021-10-11,2024-04-10,Notebook,Culture,3,23.73,71.19,Cash,Completed,1
-CLI0344,Eligia,Vera,68,hprada@example.com,+34 923 818 940,Las Palmas,Comunidad de Madrid,14168,2022-01-29,2023-03-06,Notebook,Culture,3,24.44,73.32,Bizum,Completed,2
-CLI0345,Gonzalo,Alberto,53,leocadio25@example.net,+34 975425170,Bilbao,Extremadura,01906,2022-02-27,2023-12-12,Keyboard,Electronics,3,62.97,188.91,PayPal,Cancelled,3
-CLI0346,Jacinta,Cid,24,tadeoolivera@example.net,+34 728 947 627,Alicante,Principado de Asturias,10698,2023-01-24,2023-02-17,Perfume,Accessories,1,110.32,110.32,Bizum,Completed,
-CLI0347,Carolina,Benavides,45,belmonterodrigo@example.net,+34 884 888 775,Seville,Illes Balears,37845,2022-12-17,2023-01-01,Watch,Accessories,4,121.09,484.36,PayPal,Completed,
-CLI0348,Celestina,Prat,41,rociodaza@example.org,+34920081283,Zaragoza,Ciudad Autónoma de Ceuta,36555,2021-12-21,2024-11-01,Perfume,Accessories,1,134.57,134.57,Credit card,Completed,2
-CLI0349,Ignacio,Ordóñez,66,sernaabigail@example.net,+34921261559,Seville,País Vasco,42037,2023-12-14,2024-12-17,T-shirt,Clothing,3,21.89,65.67,Bizum,Completed,1
-CLI0350,Seve,Barrena,32,manolobravo@example.net,+34 887 37 71 77,Las Palmas,Castilla y León,41128,2022-10-15,2024-08-30,Jacket,Clothing,2,121.52,243.04,Bizum,Completed,
-CLI0351,Chema,Sabater,26,eladio15@example.org,+34 979440160,Palma,País Vasco,04070,2021-10-04,2024-12-11,Camera,Electronics,4,1017.11,4068.44,Credit card,Completed,1
-CLI0352,Brunilda,Guzman,42,csaavedra@example.com,+34 949231336,Valladolid,Principado de Asturias,32734,2021-12-21,2023-05-21,Trousers,Clothing,3,42.23,126.69,PayPal,Completed,
-CLI0353,Purificación,Vazquez,40,ferrandomar@example.net,+34885 848 848,Cordoba,Comunitat Valenciana,06170,2022-08-09,2024-03-26,Monitor,Electronics,2,155.51,311.02,PayPal,Completed,5
-CLI0354,Aurelio,Beltrán,75,tolivares@example.net,+34823 09 31 41,Madrid,Región de Murcia,18830,2022-03-25,2023-03-30,Book,Culture,2,19.94,39.88,PayPal,Completed,4
-CLI0355,Urbano,Gomis,33,odalysmatas@example.net,+34 927 069 638,Zaragoza,Andalucía,20157,2022-10-16,2023-05-24,Camera,Electronics,3,1163.25,3489.75,Credit card,Completed,5
-CLI0356,Flavio,Tudela,74,carlahuertas@example.com,+34 884831863,Zaragoza,País Vasco,23147,2024-08-02,2024-11-05,Notebook,Culture,1,17.15,17.15,PayPal,Cancelled,2
-CLI0357,Marisol,Estevez,49,benignarey@example.net,+34 925 287 582,Murcia,Comunidad de Madrid,35609,2022-07-31,2023-09-03,Notebook,Culture,1,12.84,12.84,Credit card,Completed,5
-CLI0358,Ale,España,38,quique56@example.org,+34874 59 88 78,Valencia,Principado de Asturias,25382,2023-10-24,2024-01-05,Trousers,Clothing,1,54.06,54.06,Bizum,Cancelled,5
-CLI0359,Ariel,Barriga,19,jalcantara@example.com,+34867 38 36 73,Bilbao,Comunidad de Madrid,04723,2021-11-02,2023-03-16,Book,Culture,4,12.66,50.64,Credit card,Completed,
-CLI0360,Noa,Silva,36,annacortes@example.org,+34981 11 45 44,Alicante,La Rioja,33405,2022-12-31,2024-06-02,T-shirt,Clothing,4,37.68,150.72,Cash,Pending,4
-CLI0361,Carlito,Riba,27,peralesascension@example.org,+34 974 179 806,Zaragoza,Andalucía,21703,2024-06-04,2024-09-22,Trousers,Clothing,5,60.23,301.15,Credit card,Completed,
-CLI0362,Dani,Bonet,38,lidiaabella@example.net,+34941302833,Murcia,Región de Murcia,30062,2023-12-02,2024-07-03,Perfume,Accessories,2,50.4,100.8,Cash,Completed,4
-CLI0363,Victor Manuel,Tejada,33,aramburumamen@example.org,+34803 45 05 19,Madrid,Castilla y León,23836,2022-10-15,2023-03-01,Notebook,Culture,2,24.07,48.14,Bizum,Completed,5
-CLI0364,Maximiano,Martí,18,palomaresfrancisco-javier@example.net,+34749 325 633,Cordoba,Comunitat Valenciana,09752,2022-06-03,2023-05-03,T-shirt,Clothing,2,19.28,38.56,PayPal,Completed,
-CLI0365,Eliana,Guzmán,41,barias@example.com,+34 928 16 57 08,Valencia,Castilla y León,34776,2023-01-16,2023-06-20,Camera,Electronics,3,723.01,2169.03,Bank transfer,Completed,1
-CLI0366,Paulino,Oliver,22,zairaperea@example.com,+34946 845 774,Zaragoza,Extremadura,30795,2023-02-11,2024-06-20,Camera,Electronics,3,1007.11,3021.33,Cash,Completed,5
-CLI0367,Cosme,Abril,41,jibarra@example.net,+34 926 07 89 85,Valencia,Principado de Asturias,18445,2023-05-03,2023-06-20,Camera,Electronics,5,255.44,1277.2,Bank transfer,Completed,1
-CLI0368,Rosaura,Aguilar,72,eleuterioescamilla@example.org,+34 900 541 408,Vigo,Illes Balears,48965,2021-09-03,2023-02-15,Jacket,Clothing,1,161.12,161.12,Credit card,Completed,
-CLI0369,Imelda,Alemán,72,nilo21@example.com,+34 825 954 386,Barcelona,Aragón,01257,2022-08-22,2023-07-03,Camera,Electronics,2,582.98,1165.96,Cash,Pending,
-CLI0370,Nereida,Esteve,70,cosme61@example.net,+34 822 836 170,Madrid,Comunitat Valenciana,47008,2022-11-17,2023-10-05,Jacket,Clothing,3,112.44,337.32,Cash,Completed,
-CLI0371,Víctor,Conde,69,modesto30@example.com,+34711608722,Las Palmas,Cataluña,50119,2022-03-08,2023-08-17,Book,Culture,2,32.35,64.7,Credit card,Pending,
-CLI0372,Marcela,Araujo,23,pascuala78@example.com,+34 806 25 03 43,Las Palmas,Ciudad Autónoma de Melilla,47068,2022-02-18,2023-12-02,Keyboard,Electronics,3,158.57,475.71,Bizum,Completed,3
-CLI0373,Dionisia,Arrieta,47,adoracion25@example.com,+34 824 212 277,Malaga,Comunidad de Madrid,27193,2022-05-02,2023-09-06,Monitor,Electronics,5,659.93,3299.65,Cash,Pending,2
-CLI0374,Cristian,Donaire,18,cespedesisidora@example.net,+34 871 72 15 28,Gijon,Ciudad Autónoma de Ceuta,23962,2022-07-18,2023-06-04,Notebook,Culture,2,23.01,46.02,Bizum,Completed,
-CLI0375,Martina,Sáenz,18,mateomerino@example.org,+34838405113,Valladolid,Galicia,39179,2023-05-11,2023-12-10,Camera,Electronics,1,835.94,835.94,Bizum,Completed,
-CLI0376,Piedad,Fuentes,21,farrexiomara@example.org,+34982 54 53 41,Valencia,Castilla-La Mancha,12324,2022-02-26,2024-05-18,Mouse,Electronics,4,98.48,393.92,Bank transfer,Completed,
-CLI0377,Reyes,Bárcena,62,taniagual@example.com,+34 803 303 886,Gijon,La Rioja,29315,2023-07-26,2024-02-27,Jacket,Clothing,5,184.59,922.95,Bank transfer,Pending,1
-CLI0378,Melania,Terrón,70,purificacion33@example.com,+34928 79 15 49,Murcia,Comunidad Foral de Navarra,18813,2021-10-22,2024-10-14,Monitor,Electronics,2,212.13,424.26,Credit card,Cancelled,4
-CLI0379,José Luis,Gallo,34,ciprianoquesada@example.net,+34986 56 22 34,Vigo,Comunidad Foral de Navarra,29727,2021-11-01,2023-10-26,Book,Culture,2,34.03,68.06,Bank transfer,Pending,3
-CLI0380,Morena,Barrio,30,rocioluna@example.com,+34820 67 83 14,Valencia,Cantabria,21054,2021-12-27,2023-03-18,Camera,Electronics,2,652.76,1305.52,Cash,Completed,
-CLI0381,Amor,Guardiola,25,armando39@example.com,+34 849 13 20 85,Las Palmas,País Vasco,23965,2023-11-11,2024-02-21,Shoes,Clothing,3,89.45,268.35,Bank transfer,Completed,4
-CLI0382,Pastora,Moll,69,modestasaez@example.net,+34887 135 892,Alicante,Región de Murcia,50572,2021-07-17,2023-06-11,Dress,Clothing,1,106.72,106.72,Bank transfer,Cancelled,
-CLI0383,Maribel,Rius,63,nievesmayo@example.net,+34943474585,Seville,Cataluña,49141,2022-05-04,2023-04-04,Watch,Accessories,2,435.46,870.92,Bank transfer,Pending,3
-CLI0384,Lupita,Pavón,43,modesta94@example.net,+34846887212,Vigo,Galicia,11359,2021-12-19,2023-02-01,Dress,Clothing,2,103.81,207.62,Bizum,Cancelled,2
-CLI0385,Gerardo,Torrent,18,candelarioponce@example.org,+34 946 017 600,Barcelona,Castilla y León,13375,2023-01-20,2023-05-05,Trousers,Clothing,2,50.41,100.82,PayPal,Completed,
-CLI0386,Sabina,Barrera,55,simonrosales@example.net,+34806 083 624,Zaragoza,Comunidad de Madrid,38201,2024-03-17,2024-08-19,Headphones,Electronics,1,149.12,149.12,Credit card,Completed,2
-CLI0387,Jenny,Caro,75,ainara94@example.net,+34984615143,Vigo,Comunidad Foral de Navarra,42501,2021-12-06,2023-04-05,Perfume,Accessories,2,105.75,211.5,Bank transfer,Completed,
-CLI0388,Íñigo,Calzada,70,carlasantana@example.com,+34883 605 730,Cordoba,Cataluña,05655,2022-12-15,2024-03-19,Keyboard,Electronics,5,28.1,140.5,Bizum,Pending,
-CLI0389,Gerónimo,Blazquez,29,armengolnacho@example.org,+34 709 63 62 73,Zaragoza,La Rioja,06206,2023-06-12,2023-08-08,Book,Culture,3,19.52,58.56,Bank transfer,Pending,1
-CLI0390,Emelina,Cabeza,36,wduenas@example.com,+34987 827 393,Palma,Ciudad Autónoma de Ceuta,16249,2023-05-07,2024-10-24,Monitor,Electronics,2,552.46,1104.92,Bizum,Cancelled,1
-CLI0391,Marco,Bilbao,59,benetflor@example.org,+34806 64 15 79,Gijon,Comunidad de Madrid,06876,2022-10-11,2023-07-24,Dress,Clothing,4,64.47,257.88,Cash,Completed,5
-CLI0392,Heriberto,Valle,40,vendrellligia@example.net,+34803 020 790,Palma,Extremadura,51887,2023-03-18,2024-12-31,Backpack,Accessories,4,21.56,86.24,Cash,Pending,5
-CLI0393,Alcides,Plaza,19,mayte69@example.net,+34 987 49 99 98,Malaga,Ciudad Autónoma de Melilla,02542,2021-12-04,2023-07-04,Mouse,Electronics,3,38.94,116.82,Cash,Completed,
-CLI0394,Candelario,Torrents,51,apariciobibiana@example.com,+34 884 412 934,Malaga,La Rioja,17802,2022-05-27,2024-04-28,Backpack,Accessories,1,82.28,82.28,Cash,Completed,1
-CLI0395,Perla,Miró,70,chaparromauricio@example.org,+34 987 957 557,Valladolid,Andalucía,25873,2024-02-02,2024-06-30,Jacket,Clothing,3,148.53,445.59,Credit card,Completed,4
-CLI0396,Irma,Barros,33,roxana98@example.net,+34 978 021 713,Bilbao,Castilla y León,08804,2022-02-04,2023-06-30,Camera,Electronics,2,1135.21,2270.42,Bank transfer,Completed,1
-CLI0397,Juan José,Andres,27,jesusacabrero@example.net,+34 902658722,Bilbao,Canarias,07802,2021-11-14,2024-07-31,Notebook,Culture,5,19.01,95.05,PayPal,Pending,2
-CLI0398,Eva,Mur,56,sayala@example.org,+34 824087042,Seville,Comunitat Valenciana,16452,2022-08-04,2023-08-27,Keyboard,Electronics,1,26.07,26.07,Credit card,Cancelled,3
-CLI0399,Mauricio,Iniesta,63,pililedesma@example.org,+34 986 58 34 45,Valencia,Andalucía,03237,2023-06-21,2023-12-15,Perfume,Accessories,2,101.77,203.54,Bank transfer,Completed,
-CLI0400,Adelardo,Alsina,72,vazquezbarbara@example.org,+34839 571 675,Las Palmas,Canarias,09136,2022-06-03,2023-04-24,Monitor,Electronics,2,608.05,1216.1,Bank transfer,Completed,4
-CLI0401,Áurea,Pascual,26,uasensio@example.net,+34942 183 491,Valencia,Comunitat Valenciana,32018,2021-11-10,2023-11-27,Monitor,Electronics,3,215.67,647.01,Bizum,Pending,2
-CLI0402,Gervasio,Arenas,32,jcarrera@example.org,+34878 959 973,Alicante,Cataluña,31370,2023-01-08,2024-01-01,Notebook,Culture,5,24.37,121.85,Cash,Completed,3
-CLI0403,Consuelo,Ródenas,54,joan34@example.net,+34926286638,Murcia,Ciudad Autónoma de Ceuta,44440,2022-01-28,2024-12-19,Shoes,Clothing,1,59.55,59.55,Cash,Completed,
-CLI0404,Mariano,Criado,58,ofeliarojas@example.net,+34 942488705,Bilbao,Comunidad de Madrid,43127,2023-07-02,2023-08-15,Camera,Electronics,5,1121.04,5605.2,Credit card,Pending,
-CLI0405,Leocadia,Sabater,28,mesabernardita@example.net,+34971 378 100,Alicante,La Rioja,24113,2023-02-06,2023-11-24,Notebook,Culture,3,6.56,19.68,Credit card,Completed,3
-CLI0406,Caridad,Ballester,34,ssaez@example.org,+34944 83 53 57,Valladolid,Región de Murcia,02697,2022-04-12,2023-12-25,Jacket,Clothing,1,87.43,87.43,Credit card,Completed,
-CLI0407,Águeda,Cuervo,49,dbonet@example.net,+34902991198,Gijon,Andalucía,47085,2023-05-12,2024-02-28,Keyboard,Electronics,2,137.21,274.42,Bizum,Completed,1
-CLI0408,Bernardino,Martin,66,panfilollano@example.org,+34842 19 87 23,Alicante,Castilla-La Mancha,47192,2021-09-12,2024-10-28,Watch,Accessories,5,265.77,1328.85,PayPal,Completed,1
-CLI0409,José,Frutos,22,garciafelicia@example.org,+34 871674305,Malaga,Comunitat Valenciana,23304,2022-08-03,2023-04-18,Dress,Clothing,3,31.81,95.43,PayPal,Pending,
-CLI0410,Rafaela,Giner,56,wfranco@example.com,+34876 320 156,Bilbao,Castilla-La Mancha,17722,2022-06-18,2023-12-13,Trousers,Clothing,1,55.09,55.09,Bizum,Completed,2
-CLI0411,Casemiro,Segovia,24,berto44@example.org,+34 873 11 62 62,Malaga,Cataluña,47025,2021-08-01,2023-02-24,Monitor,Electronics,2,728.34,1456.68,PayPal,Completed,5
-CLI0412,Camilo,Roig,60,lmaza@example.net,+34924038586,Zaragoza,Cataluña,16338,2021-09-02,2023-09-29,Notebook,Culture,5,23.51,117.55,Bank transfer,Completed,
-CLI0413,América,Doménech,21,gnebot@example.net,+34980 415 935,Malaga,Illes Balears,02003,2021-10-29,2023-06-07,Headphones,Electronics,4,212.97,851.88,Credit card,Pending,
-CLI0414,Maricela,Marcos,30,elvira59@example.net,+34879 60 02 67,Madrid,Comunidad Foral de Navarra,33259,2022-07-31,2024-05-06,Watch,Accessories,5,347.91,1739.55,Credit card,Completed,
-CLI0415,Bárbara,Torrijos,37,eligiohigueras@example.com,+34 911 411 608,Valladolid,Cantabria,25429,2022-04-13,2023-04-29,Dress,Clothing,4,117.94,471.76,Bizum,Pending,3
-CLI0416,Leandra,Verdú,41,diegoamat@example.com,+34 817 99 19 81,Gijon,Galicia,22592,2023-05-06,2023-07-09,Trousers,Clothing,4,60.3,241.2,Bizum,Completed,
-CLI0417,Dora,Cantón,32,nicolauoctavia@example.com,+34 974 556 182,Vigo,Andalucía,04283,2022-09-03,2023-09-27,T-shirt,Clothing,4,17.9,71.6,Bank transfer,Cancelled,
-CLI0418,Lupe,Ródenas,60,teresa10@example.com,+34928 66 99 31,Malaga,Comunidad de Madrid,50717,2022-12-18,2023-03-29,Backpack,Accessories,1,75.72,75.72,Cash,Pending,5
-CLI0419,Matías,Múgica,44,cdiego@example.com,+34 974 833 034,Las Palmas,Andalucía,40071,2022-02-26,2024-06-19,Jacket,Clothing,4,133.04,532.16,Bizum,Cancelled,4
-CLI0420,Julio,Morata,54,eliasjuliana@example.com,+34 846 66 18 79,Gijon,Illes Balears,24239,2022-10-20,2024-05-29,Dress,Clothing,1,37.11,37.11,Cash,Cancelled,5
-CLI0421,Germán,Amat,28,cristobalferrera@example.com,+34807433476,Seville,Ciudad Autónoma de Ceuta,18796,2022-10-13,2023-06-27,Shoes,Clothing,4,53.23,212.92,PayPal,Completed,
-CLI0422,Segismundo,Quevedo,70,ana-sofiasuarez@example.org,+34 883 722 005,Alicante,Aragón,03028,2022-11-16,2023-07-26,Trousers,Clothing,4,79.36,317.44,PayPal,Cancelled,
-CLI0423,Modesta,Albero,42,pontpilar@example.net,+34 983 314 516,Las Palmas,Aragón,33298,2022-12-12,2023-03-31,Perfume,Accessories,1,115.89,115.89,Bizum,Cancelled,3
-CLI0424,Lucila,Palmer,57,eusebio57@example.com,+34922 067 394,Bilbao,Canarias,42738,2022-05-22,2024-12-18,Mouse,Electronics,1,51.23,51.23,Cash,Pending,
-CLI0425,Lidia,Ojeda,66,dalfonso@example.net,+34 983 52 61 42,Madrid,Región de Murcia,07908,2024-04-21,2024-08-19,Shoes,Clothing,5,56.3,281.5,Credit card,Cancelled,3
-CLI0426,Rodolfo,Garay,34,mirtamontenegro@example.com,+34827 538 005,Murcia,Principado de Asturias,06470,2021-06-15,2024-02-25,Watch,Accessories,3,291.04,873.12,Bizum,Cancelled,1
-CLI0427,Victor Manuel,Heredia,56,ciriacobejarano@example.org,+34 941 94 17 61,Alicante,Ciudad Autónoma de Melilla,09129,2024-05-11,2024-09-25,Shoes,Clothing,2,70.3,140.6,Bizum,Completed,3
-CLI0428,Salomé,Dávila,75,moreno28@example.org,+34821 365 662,Malaga,Castilla-La Mancha,30867,2022-08-06,2023-10-03,Notebook,Culture,4,9.75,39.0,Credit card,Completed,3
-CLI0429,Natalio,Núñez,61,montenegromarc@example.net,+34 925 516 693,Madrid,Galicia,10332,2024-07-04,2024-12-13,Dress,Clothing,4,55.23,220.92,PayPal,Completed,4
-CLI0430,Gema,Aguado,56,marianogonzalez@example.org,+34921106162,Alicante,Cantabria,40291,2023-03-24,2024-03-02,Backpack,Accessories,3,86.07,258.21,Credit card,Completed,4
-CLI0431,Maricruz,Gracia,70,esantiago@example.net,+34 828 76 03 38,Barcelona,Región de Murcia,22497,2023-11-11,2024-01-18,Notebook,Culture,5,14.69,73.45,Cash,Completed,
-CLI0432,Urbano,Calatayud,74,cardenassegismundo@example.net,+34732 133 632,Bilbao,Andalucía,23356,2021-08-23,2024-06-20,Notebook,Culture,2,15.14,30.28,Credit card,Completed,
-CLI0433,Feliciano,Campillo,20,josefabarbera@example.org,+34 873566336,Palma,Comunitat Valenciana,32295,2023-02-02,2023-09-13,Watch,Accessories,1,140.33,140.33,Credit card,Completed,3
-CLI0434,Mariana,Vicens,58,luisina15@example.net,+34943 95 47 32,Gijon,Castilla-La Mancha,18003,2023-04-15,2024-02-11,Camera,Electronics,5,1023.51,5117.55,Credit card,Completed,
-CLI0435,Maristela,Guzmán,55,fabian66@example.org,+34877141691,Las Palmas,Comunitat Valenciana,49491,2022-08-08,2024-04-30,Keyboard,Electronics,2,115.05,230.1,Bank transfer,Completed,
-CLI0436,Severino,Benavente,19,zoraidasegui@example.org,+34972 43 48 23,Murcia,Cantabria,08196,2022-05-28,2023-10-19,Perfume,Accessories,1,57.33,57.33,Credit card,Completed,2
-CLI0437,Francisca,Barco,31,troman@example.net,+34880860107,Zaragoza,Comunidad de Madrid,19868,2021-07-16,2024-11-24,Watch,Accessories,2,149.61,299.22,Bizum,Cancelled,
-CLI0438,Luís,Perea,26,joaquinperello@example.net,+34880 692 279,Alicante,Extremadura,42090,2023-05-02,2024-04-30,Backpack,Accessories,1,97.37,97.37,PayPal,Cancelled,2
-CLI0439,Marta,Vallés,63,cristiancespedes@example.com,+34877 63 05 61,Alicante,Extremadura,42926,2022-03-01,2024-12-30,Dress,Clothing,3,84.75,254.25,Bank transfer,Pending,3
-CLI0440,Nando,Pozo,61,azucenacazorla@example.net,+34842 891 015,Las Palmas,Castilla y León,44228,2021-10-04,2023-11-06,Keyboard,Electronics,4,60.32,241.28,Cash,Pending,1
-CLI0441,Alex,Hervás,59,eduardotorrecilla@example.com,+34872118716,Bilbao,Cataluña,34247,2022-10-05,2024-07-28,Mouse,Electronics,3,99.95,299.85,Cash,Completed,
-CLI0442,Manu,Amigó,58,gisela12@example.net,+34 974 484 829,Malaga,Andalucía,08847,2022-04-12,2023-10-11,Trousers,Clothing,3,51.5,154.5,Bank transfer,Completed,3
-CLI0443,Ernesto,Espinosa,69,rbarrera@example.net,+34936229762,Vigo,Comunitat Valenciana,19296,2022-02-12,2023-02-28,Jacket,Clothing,2,72.49,144.98,Cash,Pending,2
-CLI0444,Juan Antonio,Rius,34,herbertosanmiguel@example.com,+34847131722,Gijon,Castilla-La Mancha,05179,2021-12-24,2023-10-30,Notebook,Culture,4,5.51,22.04,Bizum,Pending,1
-CLI0445,Clara,Escribano,39,alvarezpancho@example.net,+34 732 164 747,Cordoba,Castilla y León,27554,2022-01-24,2023-07-14,Monitor,Electronics,5,610.24,3051.2,PayPal,Cancelled,4
-CLI0446,Jose Angel,Villalonga,37,angelitapomares@example.net,+34 946 991 446,Vigo,Extremadura,43709,2022-03-11,2024-06-03,Perfume,Accessories,3,142.58,427.74,PayPal,Cancelled,
-CLI0447,Elodia,Escalona,66,gironaamado@example.org,+34871283289,Gijon,Cantabria,38392,2024-01-13,2024-07-26,Trousers,Clothing,3,50.89,152.67,PayPal,Completed,2
-CLI0448,Atilio,Gutiérrez,68,linaresgabriel@example.net,+34 977802932,Gijon,Región de Murcia,42766,2022-01-16,2024-03-06,Camera,Electronics,3,423.33,1269.99,Bank transfer,Completed,
-CLI0449,Alejandra,Moraleda,21,vsantos@example.com,+34901 28 28 40,Vigo,Cataluña,05043,2023-05-15,2024-04-26,Dress,Clothing,1,71.74,71.74,Cash,Cancelled,1
-CLI0450,Cloe,Jaume,73,gerardo65@example.org,+34 945513613,Alicante,Comunidad Foral de Navarra,25947,2023-03-29,2023-05-03,Keyboard,Electronics,5,162.31,811.55,Bizum,Cancelled,
-CLI0451,Marcio,Valentín,30,esparzanydia@example.org,+34 849 37 61 82,Malaga,Comunitat Valenciana,03316,2023-05-04,2023-05-21,T-shirt,Clothing,2,36.13,72.26,Bizum,Cancelled,4
-CLI0452,Amor,Salazar,49,jodarvalentin@example.com,+34979316426,Malaga,Canarias,15137,2021-07-01,2023-03-24,Shoes,Clothing,2,74.8,149.6,PayPal,Completed,1
-CLI0453,Quirino,Galan,66,casemiroamoros@example.org,+34823829976,Valencia,Región de Murcia,27185,2024-07-14,2024-08-13,Keyboard,Electronics,2,63.76,127.52,Bizum,Completed,
-CLI0454,Casandra,Cortés,48,uvalbuena@example.org,+34806 041 281,Murcia,Comunidad Foral de Navarra,51185,2022-03-11,2024-03-15,Headphones,Electronics,4,232.72,930.88,Credit card,Completed,3
-CLI0455,Esther,Albero,19,cpiquer@example.com,+34926 42 18 63,Alicante,Extremadura,27140,2021-06-20,2023-07-15,T-shirt,Clothing,5,36.76,183.8,Credit card,Completed,
-CLI0456,Leonel,Mesa,42,krosello@example.org,+34 823 016 577,Las Palmas,Andalucía,41162,2021-10-16,2023-04-16,Perfume,Accessories,2,68.04,136.08,Cash,Completed,
-CLI0457,Melchor,Nogués,64,elena09@example.net,+34874 04 62 70,Las Palmas,País Vasco,08066,2024-02-23,2024-04-11,Watch,Accessories,3,70.57,211.71,Cash,Cancelled,2
-CLI0458,Pili,Briones,66,isidro63@example.com,+34822 47 33 58,Seville,Cataluña,37515,2022-04-27,2024-01-03,Camera,Electronics,4,1196.14,4784.56,PayPal,Pending,
-CLI0459,Nadia,Galán,64,ealegria@example.org,+34945 67 91 88,Barcelona,Principado de Asturias,41642,2021-12-30,2023-08-05,Jacket,Clothing,2,159.08,318.16,Cash,Cancelled,
-CLI0460,Reynaldo,Guzman,74,adeliatovar@example.com,+34 726 27 59 96,Alicante,Comunitat Valenciana,10123,2023-12-13,2024-01-20,Camera,Electronics,1,911.11,911.11,Bank transfer,Cancelled,5
-CLI0461,Emiliana,Mosquera,62,plinio77@example.com,+34803 479 076,Madrid,Ciudad Autónoma de Ceuta,28836,2022-02-07,2023-02-19,T-shirt,Clothing,1,29.86,29.86,Bizum,Pending,5
-CLI0462,Cleto,Cuevas,62,melisa07@example.com,+34827 235 484,Alicante,Comunitat Valenciana,29985,2022-06-25,2023-07-30,Dress,Clothing,2,72.7,145.4,Credit card,Completed,1
-CLI0463,Felix,Quintana,62,ylarranaga@example.net,+34 827 112 864,Valencia,Canarias,30842,2024-01-01,2024-09-12,Book,Culture,5,22.05,110.25,Bizum,Completed,5
-CLI0464,Emelina,Ferrero,30,suarezdafne@example.com,+34 748 487 496,Bilbao,Canarias,18944,2024-02-10,2024-05-24,Trousers,Clothing,1,40.55,40.55,PayPal,Completed,2
-CLI0465,Silvestre,Sedano,20,linovilla@example.net,+34 885 18 76 38,Las Palmas,Cataluña,16842,2022-12-22,2023-06-14,Camera,Electronics,3,903.44,2710.32,Bizum,Completed,4
-CLI0466,Eutimio,Olmo,23,obenito@example.com,+34 828 162 054,Gijon,País Vasco,21779,2024-03-08,2024-11-18,Camera,Electronics,1,434.51,434.51,Credit card,Cancelled,2
-CLI0467,Yago,Coloma,75,edgardo68@example.net,+34 942 322 069,Zaragoza,Cantabria,23216,2023-02-09,2023-04-14,Trousers,Clothing,1,67.87,67.87,PayPal,Pending,3
-CLI0468,Leocadia,Aparicio,73,abrahamsoria@example.com,+34 982 48 81 94,Barcelona,Galicia,05032,2022-12-01,2023-06-28,Dress,Clothing,1,71.78,71.78,Bank transfer,Completed,3
-CLI0469,Marisol,García,18,jtrillo@example.com,+34947 12 43 10,Vigo,Región de Murcia,11798,2022-07-30,2023-02-16,Headphones,Electronics,1,266.33,266.33,PayPal,Completed,4
-CLI0470,Isa,Sebastián,70,pujadasconsuela@example.net,+34 822 240 275,Malaga,Illes Balears,25810,2023-12-04,2024-01-17,Monitor,Electronics,1,324.4,324.4,PayPal,Completed,4
-CLI0471,Ariel,Fuertes,59,luisvazquez@example.org,+34901 55 58 22,Gijon,Galicia,46352,2022-01-28,2024-03-07,Dress,Clothing,4,105.21,420.84,PayPal,Completed,
-CLI0472,Ciro,Falcón,44,cechevarria@example.com,+34 932 90 86 11,Gijon,Aragón,12306,2022-05-17,2023-04-17,Notebook,Culture,2,6.17,12.34,Cash,Pending,4
-CLI0473,Felix,Herranz,19,vegaariel@example.com,+34979 53 36 50,Vigo,Extremadura,09018,2024-07-27,2024-09-18,Shoes,Clothing,3,107.25,321.75,PayPal,Pending,1
-CLI0474,Esther,Arribas,34,abelmontalban@example.org,+34901357557,Alicante,Cataluña,05966,2021-09-17,2023-03-06,Perfume,Accessories,1,76.41,76.41,Bank transfer,Completed,5
-CLI0475,Dimas,Palacio,60,nsegarra@example.net,+34920487072,Vigo,Andalucía,35303,2021-10-01,2023-08-18,Backpack,Accessories,5,79.49,397.45,Bank transfer,Cancelled,5
-CLI0476,Chuy,Carrasco,40,lpozo@example.org,+34879 21 41 41,Alicante,Principado de Asturias,41733,2022-10-23,2024-05-08,Trousers,Clothing,2,48.81,97.62,Bizum,Completed,5
-CLI0477,Ana,Montoya,59,urenamaria-carmen@example.com,+34 977 458 526,Gijon,Aragón,38612,2021-08-28,2023-01-12,Perfume,Accessories,1,148.47,148.47,PayPal,Cancelled,4
-CLI0478,Juanito,Fernández,33,ambaralcaraz@example.org,+34922318194,Malaga,Región de Murcia,11438,2023-07-16,2023-11-25,Watch,Accessories,4,124.43,497.72,Bank transfer,Completed,5
-CLI0479,Jose Carlos,Costa,47,benitoatilio@example.net,+34900977264,Palma,Galicia,44569,2022-06-14,2023-03-22,Book,Culture,2,18.22,36.44,Cash,Pending,
-CLI0480,Andrés Felipe,Azcona,65,gloria87@example.org,+34730 78 73 46,Alicante,Castilla y León,25766,2023-09-22,2024-05-24,Keyboard,Electronics,1,91.53,91.53,Credit card,Completed,1
-CLI0481,Susanita,Taboada,57,eligia57@example.org,+34 844 616 457,Alicante,Comunidad de Madrid,27804,2021-11-20,2024-09-10,Mouse,Electronics,1,59.42,59.42,Bank transfer,Cancelled,4
-CLI0482,Candela,Fabregat,72,tenaluisa@example.com,+34841 964 616,Palma,Castilla-La Mancha,40375,2022-06-16,2023-08-17,Camera,Electronics,1,563.34,563.34,Bank transfer,Cancelled,5
-CLI0483,Asdrubal,Gomez,25,carlitobueno@example.org,+34 880 684 052,Madrid,Illes Balears,09411,2022-05-11,2024-04-08,Keyboard,Electronics,3,134.67,404.01,PayPal,Completed,3
-CLI0484,Candelas,Buendía,75,olleremiliano@example.com,+34919 86 35 09,Valencia,País Vasco,43841,2021-11-12,2023-02-16,Mouse,Electronics,1,56.98,56.98,Bizum,Completed,4
-CLI0485,Gloria,Barragán,25,teofilocalatayud@example.com,+34 823538933,Gijon,País Vasco,15769,2022-09-18,2023-07-12,Trousers,Clothing,2,38.99,77.98,Bizum,Completed,2
-CLI0486,Herminia,Serra,58,fusterlaura@example.com,+34879485754,Vigo,Cantabria,43424,2022-07-19,2023-02-17,Notebook,Culture,4,11.76,47.04,Cash,Completed,4
-CLI0487,Judith,Pinilla,49,patricianebot@example.com,+34739 092 087,Barcelona,La Rioja,05623,2021-11-06,2023-05-18,Keyboard,Electronics,5,125.35,626.75,Cash,Completed,4
-CLI0488,Gastón,Pomares,62,climacogutierrez@example.net,+34 900 89 65 37,Bilbao,Comunidad de Madrid,33042,2023-04-05,2023-07-01,Watch,Accessories,5,313.3,1566.5,PayPal,Completed,
-CLI0489,Lucas,Anaya,74,lorenzo10@example.org,+34709 13 83 30,Murcia,La Rioja,05898,2022-01-20,2024-05-31,Book,Culture,3,24.21,72.63,Bizum,Cancelled,2
-CLI0490,Cipriano,Marti,46,marisolmateos@example.com,+34 843 303 005,Valladolid,Cantabria,51271,2022-05-08,2023-10-29,Dress,Clothing,3,65.81,197.43,PayPal,Completed,5
-CLI0491,Mateo,Rosales,63,osureda@example.com,+34947 872 969,Cordoba,Principado de Asturias,11938,2022-12-06,2023-11-18,Dress,Clothing,5,105.88,529.4,Cash,Completed,
-CLI0492,Cruz,Castrillo,26,saradiaz@example.org,+34 924 01 24 28,Cordoba,Región de Murcia,46653,2023-12-13,2024-11-19,Monitor,Electronics,3,614.35,1843.05,PayPal,Cancelled,3
-CLI0493,Josué,Alcaraz,48,uriajose-angel@example.net,+34 887 59 22 33,Bilbao,Castilla-La Mancha,48747,2022-01-30,2024-07-29,Notebook,Culture,3,7.31,21.93,Cash,Pending,5
-CLI0494,Cosme,Bernal,51,abrilfelix@example.com,+34 949605952,Madrid,Aragón,32659,2022-12-12,2023-01-14,Dress,Clothing,4,108.97,435.88,Credit card,Pending,
-CLI0495,Nereida,Andrés,36,kparedes@example.com,+34927793432,Alicante,Región de Murcia,39820,2022-09-15,2023-06-14,Book,Culture,3,9.53,28.59,Bank transfer,Completed,3
-CLI0496,Felicia,Arenas,70,huguetjesusa@example.net,+34 837456381,Palma,Castilla y León,28362,2022-10-24,2024-01-03,Jacket,Clothing,1,163.04,163.04,Credit card,Cancelled,5
-CLI0497,Luis Miguel,Urrutia,33,jsantos@example.net,+34 827131227,Las Palmas,Comunidad de Madrid,30444,2022-07-11,2024-02-03,Watch,Accessories,5,150.94,754.7,Bank transfer,Completed,4
-CLI0498,Almudena,Marti,21,ivilaplana@example.org,+34 887358896,Barcelona,Región de Murcia,22847,2023-08-05,2024-07-19,Headphones,Electronics,3,336.14,1008.42,Bank transfer,Completed,4
-CLI0499,Ana Belén,Priego,52,asuncionpavon@example.net,+34 821 869 094,Cordoba,Canarias,22115,2024-06-27,2024-08-25,Watch,Accessories,3,151.5,454.5,Cash,Completed,2
-CLI0500,Severiano,Gelabert,29,pfalco@example.org,+34 871 060 925,Cordoba,Galicia,20212,2023-05-23,2023-07-11,Dress,Clothing,1,70.39,70.39,Cash,Completed,4
+CLI0001,Bernarda,Comas,32,moises66@example.org,+34 886 632 788,Valencia,Valencian Community,23817,2022-11-19,2023-09-08,Book,Culture,3,11.01,33.03,Credit card,Cancelled,
+CLI0002,Daniela,Carbajo,32,ysolano@example.net,+34846 78 01 23,Las Palmas,Canary Islands,35261,2021-11-17,2023-08-12,Headphones,Electronics,1,40.17,40.17,Cash,Completed,5
+CLI0003,Lalo,Mateos,69,kjauregui@example.org,+34 814024598,Vigo,Galicia,51291,2021-10-21,2023-10-12,Headphones,Electronics,5,100.54,502.7,Credit card,Completed,3
+CLI0004,Felipa,Ferrer,23,brionespaula@example.com,+34887 18 79 21,Murcia,Region of Murcia,10361,2021-10-02,2023-04-15,Dress,Clothing,3,43.99,131.97,Credit card,Completed,5
+CLI0005,Pepito,Salcedo,25,pujadasroberto@example.com,+34 800 244 264,Gijon,Asturias,34812,2024-04-11,2024-07-03,Dress,Clothing,4,102.64,410.56,Bizum,Completed,5
+CLI0006,Luis,Moll,63,cintia08@example.net,+34979 83 15 63,Madrid,Community of Madrid,02273,2021-11-18,2023-07-16,Perfume,Accessories,5,132.71,663.55,Credit card,Completed,1
+CLI0007,Heriberto,Rosell,35,enriquezaitana@example.com,+34 828 92 08 60,Palma,Balearic Islands,47772,2023-07-12,2024-01-25,Watch,Accessories,1,154.76,154.76,Bank transfer,Completed,2
+CLI0008,Seve,Miguel,58,xprada@example.net,+34846643147,Valencia,Valencian Community,20597,2022-11-28,2024-09-15,Book,Culture,1,15.21,15.21,Cash,Completed,
+CLI0009,Paca,Montoya,61,ildefonsorecio@example.com,+34823 27 27 40,Malaga,Andalusia,37483,2023-04-10,2023-08-13,Headphones,Electronics,5,116.38,581.9,Credit card,Completed,3
+CLI0010,Noelia,Cerdá,74,maria-fernanda36@example.net,+34849 24 28 43,Cordoba,Andalusia,05815,2023-12-16,2024-08-03,Headphones,Electronics,2,115.68,231.36,Bank transfer,Completed,4
+CLI0011,Georgina,Huertas,34,casanovascasandra@example.net,+34 844 39 25 89,Valencia,Valencian Community,39297,2021-12-02,2023-05-27,Perfume,Accessories,4,139.32,557.28,PayPal,Cancelled,5
+CLI0012,América,Gil,32,icordoba@example.com,+34976 94 52 36,Valencia,Valencian Community,50149,2021-07-20,2024-01-06,Headphones,Electronics,4,317.3,1269.2,Cash,Pending,
+CLI0013,Fabricio,Lledó,28,luis06@example.org,+34981 386 411,Valladolid,Castile and León,16215,2024-04-11,2024-10-04,T-shirt,Clothing,2,35.83,71.66,Bizum,Cancelled,
+CLI0014,Guadalupe,Salinas,34,xavier58@example.net,+34 975 00 83 00,Las Palmas,Canary Islands,19349,2023-11-29,2024-06-25,Headphones,Electronics,4,220.68,882.72,Credit card,Completed,5
+CLI0015,Amado,Figuerola,36,amorcano@example.com,+34 902 17 43 73,Murcia,Region of Murcia,02502,2022-09-24,2023-04-25,Backpack,Accessories,3,41.35,124.05,PayPal,Pending,
+CLI0016,Nicodemo,Campos,66,tatianazabaleta@example.com,+34 982 833 563,Valencia,Valencian Community,33697,2024-04-05,2024-05-27,Notebook,Culture,3,22.52,67.56,Cash,Completed,3
+CLI0017,Nilo,Gutiérrez,27,ulises99@example.org,+34848556355,Malaga,Andalusia,32897,2023-04-28,2023-07-23,Watch,Accessories,5,337.53,1687.65,PayPal,Cancelled,5
+CLI0018,Crescencia,Ayuso,19,vidalminguez@example.org,+34844 261 956,Madrid,Community of Madrid,20809,2022-05-09,2024-05-15,Perfume,Accessories,3,25.07,75.21,Bank transfer,Completed,
+CLI0019,Lope,Martín,64,deliamorera@example.net,+34 950 08 87 45,Palma,Balearic Islands,42098,2022-11-24,2023-03-29,Jacket,Clothing,1,181.7,181.7,Credit card,Cancelled,2
+CLI0020,Petrona,Buendía,34,toribio08@example.net,+34886649103,Las Palmas,Canary Islands,40364,2022-07-09,2023-06-19,Book,Culture,5,20.83,104.15,Cash,Pending,5
+CLI0021,Mariana,Galiano,37,ydiez@example.net,+34 813 79 30 03,Murcia,Region of Murcia,52061,2023-04-14,2024-12-31,Backpack,Accessories,2,78.39,156.78,Bank transfer,Pending,4
+CLI0022,Tatiana,Donoso,19,chicojoan@example.com,+34978300738,Bilbao,Basque Country,50056,2023-01-30,2023-12-13,Trousers,Clothing,1,38.63,38.63,Cash,Completed,1
+CLI0023,Atilio,Morán,22,isa17@example.net,+34 843620612,Gijon,Asturias,24650,2023-08-06,2023-08-23,Trousers,Clothing,1,63.93,63.93,Credit card,Completed,
+CLI0024,Valentina,Fernández,52,jovita31@example.org,+34 825 830 800,Valencia,Valencian Community,39469,2022-04-14,2023-08-08,Jacket,Clothing,4,91.77,367.08,Cash,Cancelled,4
+CLI0025,Teresa,Guitart,60,nidia86@example.org,+34879 146 401,Murcia,Region of Murcia,22873,2022-02-08,2023-04-10,Backpack,Accessories,1,52.56,52.56,Bank transfer,Pending,1
+CLI0026,Felicidad,Vaquero,43,gimenobernardo@example.com,+34 986 934 275,Cordoba,Andalusia,37571,2022-01-08,2023-03-04,Book,Culture,1,25.64,25.64,Bank transfer,Completed,
+CLI0027,Elba,Doménech,29,graciana13@example.net,+34972720965,Zaragoza,Aragon,48400,2021-10-17,2024-03-08,Jacket,Clothing,2,130.44,260.88,Bizum,Completed,1
+CLI0028,Manuela,Garmendia,21,victorianobarrios@example.net,+34 946 32 60 49,Alicante,Valencian Community,11765,2021-09-24,2023-04-11,Keyboard,Electronics,5,149.28,746.4,Cash,Completed,2
+CLI0029,Elba,Llabrés,73,gracianacarrillo@example.net,+34 849 51 93 80,Murcia,Region of Murcia,12085,2021-11-05,2023-08-07,Shoes,Clothing,4,84.71,338.84,Credit card,Completed,4
+CLI0030,Piedad,Benavides,45,yago67@example.org,+34 849 35 59 28,Cordoba,Andalusia,17138,2021-09-29,2023-10-20,Dress,Clothing,4,113.39,453.56,Cash,Pending,
+CLI0031,Chema,Tormo,65,eufemiavillena@example.com,+34986 531 102,Las Palmas,Canary Islands,36611,2024-07-19,2024-08-16,Dress,Clothing,1,49.59,49.59,Credit card,Completed,
+CLI0032,Damián,Ruiz,21,martin56@example.com,+34 848 27 68 47,Las Palmas,Canary Islands,43588,2021-11-22,2023-06-11,Monitor,Electronics,5,459.91,2299.55,Credit card,Completed,
+CLI0033,Catalina,Mata,25,noguerajordana@example.com,+34924804146,Gijon,Asturias,50648,2023-01-08,2024-02-18,Trousers,Clothing,2,62.14,124.28,Cash,Completed,1
+CLI0034,Máximo,Clavero,51,ferrandeznatividad@example.com,+34 876 59 19 91,Malaga,Andalusia,50983,2024-01-12,2024-08-01,Monitor,Electronics,5,203.29,1016.45,Bank transfer,Completed,3
+CLI0035,Primitivo,Ferrando,59,floresgisela@example.net,+34 926946769,Zaragoza,Aragon,39667,2023-02-04,2024-11-18,Jacket,Clothing,2,89.84,179.68,Bizum,Completed,1
+CLI0036,Encarnación,Hoz,22,carmela50@example.com,+34885 398 071,Las Palmas,Canary Islands,47636,2023-04-03,2023-04-13,T-shirt,Clothing,5,23.75,118.75,PayPal,Cancelled,
+CLI0037,Américo,Llopis,41,hortensia27@example.org,+34971 85 34 06,Zaragoza,Aragon,31313,2022-04-30,2023-09-08,Perfume,Accessories,1,68.63,68.63,PayPal,Pending,3
+CLI0038,Feliciano,Comas,60,ana-belen13@example.com,+34 922877023,Vigo,Galicia,46663,2021-07-01,2023-01-09,Monitor,Electronics,5,789.5,3947.5,Cash,Completed,1
+CLI0039,Ignacio,Salgado,65,jimenezcleto@example.net,+34853 506 138,Las Palmas,Canary Islands,28402,2022-09-25,2023-04-20,Perfume,Accessories,1,41.79,41.79,PayPal,Completed,
+CLI0040,Jose Ramón,Porcel,58,gallegoolalla@example.net,+34 927373472,Vigo,Galicia,29465,2021-09-13,2024-12-04,Jacket,Clothing,2,157.64,315.28,Bank transfer,Cancelled,1
+CLI0041,Xiomara,Ruano,18,hugo00@example.net,+34875 79 53 54,Malaga,Andalusia,01549,2021-12-05,2023-02-15,Trousers,Clothing,3,59.89,179.67,PayPal,Completed,
+CLI0042,Macarena,Mercader,18,vera95@example.com,+34981904812,Madrid,Community of Madrid,21929,2024-01-28,2024-07-28,Keyboard,Electronics,4,108.27,433.08,Credit card,Completed,3
+CLI0043,Maristela,Alegria,20,xbenitez@example.com,+34888 56 08 54,Zaragoza,Aragon,07563,2023-01-20,2023-05-11,Monitor,Electronics,4,509.14,2036.56,Bank transfer,Completed,2
+CLI0044,Viviana,Salinas,67,agustindavid@example.com,+34 842 36 78 41,Las Palmas,Canary Islands,37909,2021-12-08,2023-12-29,Book,Culture,1,14.74,14.74,Bizum,Cancelled,2
+CLI0045,Jenaro,Arana,19,jose-luisnoguera@example.net,+34882563036,Valencia,Valencian Community,32160,2022-06-14,2024-02-27,Watch,Accessories,2,123.13,246.26,Bank transfer,Pending,2
+CLI0046,Alondra,Perea,73,saladiana@example.com,+34973 124 698,Barcelona,Catalonia,29461,2022-03-21,2024-01-27,Dress,Clothing,1,44.33,44.33,Bizum,Completed,
+CLI0047,María Del Carmen,Dalmau,32,rufinaanglada@example.org,+34843 59 32 62,Barcelona,Catalonia,36912,2023-02-05,2023-08-22,Perfume,Accessories,3,82.54,247.62,PayPal,Pending,1
+CLI0048,Joaquín,Ríos,61,canetjose-francisco@example.net,+34 986 64 42 82,Vigo,Galicia,22221,2023-08-13,2024-02-14,Backpack,Accessories,5,42.33,211.65,Cash,Completed,1
+CLI0049,Etelvina,Palmer,34,fjimenez@example.org,+34926598302,Barcelona,Catalonia,41579,2022-11-20,2024-08-17,Perfume,Accessories,2,146.3,292.6,Credit card,Cancelled,3
+CLI0050,Bruno,Solé,42,bernardo36@example.org,+34 927 76 94 20,Gijon,Asturias,16362,2022-06-19,2023-04-29,Headphones,Electronics,5,223.99,1119.95,Cash,Completed,
+CLI0051,Gloria,Buendía,61,zacarias40@example.net,+34815206567,Cordoba,Andalusia,27563,2024-01-21,2024-07-05,Notebook,Culture,5,13.72,68.6,PayPal,Completed,3
+CLI0052,Vito,Solsona,50,pujadasmaricruz@example.org,+34 821 624 624,Zaragoza,Aragon,49499,2023-03-28,2023-11-04,Monitor,Electronics,1,354.05,354.05,Bizum,Completed,3
+CLI0053,Camilo,Aliaga,42,hernandezbaudelio@example.com,+34945814736,Alicante,Valencian Community,36482,2021-06-27,2024-11-11,Mouse,Electronics,4,21.46,85.84,PayPal,Cancelled,4
+CLI0054,Joan,Rojas,31,agonzalo@example.net,+34969365216,Murcia,Region of Murcia,12955,2021-08-10,2023-10-21,Mouse,Electronics,3,85.04,255.12,Cash,Cancelled,4
+CLI0055,Fabricio,Villa,48,ricartalejandra@example.net,+34913 827 178,Valladolid,Castile and León,38747,2022-09-01,2024-06-07,Keyboard,Electronics,2,90.75,181.5,PayPal,Completed,
+CLI0056,Marianela,Cabanillas,70,ezequiel16@example.net,+34 928 13 90 71,Valladolid,Castile and León,12234,2022-03-26,2023-04-06,Book,Culture,3,25.09,75.27,PayPal,Completed,
+CLI0057,Eufemia,Cózar,48,hmedina@example.com,+34941695224,Bilbao,Basque Country,47638,2023-06-23,2023-09-08,Jacket,Clothing,1,72.1,72.1,Credit card,Pending,5
+CLI0058,Diana,Borrell,43,cecilio02@example.net,+34920579503,Seville,Andalusia,15964,2023-09-03,2024-05-21,Jacket,Clothing,4,157.75,631.0,PayPal,Completed,1
+CLI0059,Dolores,Tolosa,51,dgamez@example.org,+34946911901,Palma,Balearic Islands,22848,2023-10-17,2024-12-13,Backpack,Accessories,2,54.01,108.02,Credit card,Cancelled,
+CLI0060,Antonio,Múñiz,60,icervera@example.org,+34 942 50 09 62,Las Palmas,Canary Islands,03998,2022-09-02,2024-04-20,Watch,Accessories,2,104.61,209.22,Cash,Cancelled,4
+CLI0061,Eva María,Cuéllar,71,acueto@example.com,+34 841 24 65 98,Gijon,Asturias,12600,2021-09-15,2024-03-12,Monitor,Electronics,5,679.75,3398.75,Cash,Pending,4
+CLI0062,Gustavo,Rojas,35,jmachado@example.org,+34700009842,Valladolid,Castile and León,15320,2022-12-27,2024-10-14,Keyboard,Electronics,2,61.47,122.94,Cash,Pending,3
+CLI0063,Natalia,Jurado,35,agullocintia@example.org,+34803 07 50 34,Malaga,Andalusia,12221,2022-06-10,2023-08-29,Keyboard,Electronics,3,32.4,97.2,Bank transfer,Cancelled,
+CLI0064,Gloria,Malo,31,osoriovinicio@example.org,+34723441048,Madrid,Community of Madrid,43441,2023-01-04,2024-12-24,Shoes,Clothing,2,65.44,130.88,Bizum,Pending,4
+CLI0065,Emiliana,Ripoll,75,trinidadsoria@example.com,+34821873898,Valladolid,Castile and León,47862,2021-09-11,2024-02-03,Headphones,Electronics,4,49.93,199.72,Cash,Completed,5
+CLI0066,Encarnita,Gomila,66,soledad75@example.net,+34800198153,Murcia,Region of Murcia,31093,2022-08-16,2023-11-02,Headphones,Electronics,3,182.63,547.89,Bizum,Cancelled,5
+CLI0067,Horacio,Uriarte,32,claveroalejo@example.net,+34 877822191,Zaragoza,Aragon,05674,2023-07-09,2024-05-14,Backpack,Accessories,2,68.26,136.52,Bizum,Pending,
+CLI0068,Maximiliano,Marín,71,garcesbelen@example.net,+34874 365 523,Palma,Balearic Islands,13575,2021-11-24,2023-06-19,Camera,Electronics,4,868.87,3475.48,PayPal,Cancelled,4
+CLI0069,Priscila,Jáuregui,59,luiscisneros@example.net,+34 861 98 37 17,Murcia,Region of Murcia,10138,2022-10-16,2023-03-27,Monitor,Electronics,1,516.85,516.85,PayPal,Pending,
+CLI0070,Roque,Prado,38,llobetclaudio@example.com,+34980 626 163,Malaga,Andalusia,32339,2021-10-18,2024-04-10,Dress,Clothing,2,64.12,128.24,Bizum,Completed,4
+CLI0071,Artemio,Aguirre,65,jordan10@example.net,+34 944531712,Las Palmas,Canary Islands,51239,2021-08-15,2023-01-20,Dress,Clothing,4,105.14,420.56,Credit card,Completed,
+CLI0072,Ciríaco,Folch,33,alejo35@example.com,+34 986 30 66 02,Seville,Andalusia,06106,2021-10-03,2023-02-01,Trousers,Clothing,1,67.97,67.97,Credit card,Cancelled,
+CLI0073,Alondra,Huguet,31,monica67@example.net,+34 978 88 41 64,Palma,Balearic Islands,37704,2023-09-24,2024-07-31,Shoes,Clothing,1,92.09,92.09,Bank transfer,Completed,
+CLI0074,Roberta,Salmerón,37,odalis38@example.com,+34959 87 58 70,Madrid,Community of Madrid,47922,2023-05-16,2023-06-17,Monitor,Electronics,1,776.43,776.43,Cash,Completed,5
+CLI0075,Donato,Soto,63,btejada@example.org,+34 800 328 206,Seville,Andalusia,35670,2022-02-15,2024-02-11,Book,Culture,4,32.52,130.08,Credit card,Cancelled,2
+CLI0076,Diego,Redondo,56,noemi80@example.net,+34 983 472 325,Valladolid,Castile and León,08374,2023-01-10,2024-12-01,Trousers,Clothing,3,63.35,190.05,Credit card,Cancelled,3
+CLI0077,Wálter,Mascaró,50,mcantero@example.net,+34849374204,Alicante,Valencian Community,35935,2022-09-11,2023-03-12,Mouse,Electronics,3,48.55,145.65,Bank transfer,Completed,4
+CLI0078,Mariana,Silva,75,pastorcanovas@example.com,+34 902892459,Vigo,Galicia,04707,2021-08-11,2024-10-12,Trousers,Clothing,3,48.84,146.52,Bizum,Completed,5
+CLI0079,Carina,Codina,47,juanita06@example.org,+34 976056136,Murcia,Region of Murcia,43488,2021-12-20,2024-05-10,Book,Culture,5,15.29,76.45,Cash,Completed,2
+CLI0080,Xiomara,Beltran,33,estradagil@example.org,+34 939502317,Valladolid,Castile and León,45705,2021-10-08,2024-04-06,Watch,Accessories,3,470.58,1411.74,Bizum,Cancelled,4
+CLI0081,Georgina,Prado,49,mmelero@example.net,+34 928 77 20 68,Seville,Andalusia,25858,2022-01-05,2023-07-06,Camera,Electronics,3,228.7,686.1,Bank transfer,Completed,5
+CLI0082,Luciana,Sanz,51,ulara@example.net,+34 863 50 04 56,Seville,Andalusia,41833,2022-12-22,2023-01-11,Notebook,Culture,5,22.6,113.0,Credit card,Completed,4
+CLI0083,Valentín,Julián,63,dnogues@example.com,+34 884 09 19 31,Palma,Balearic Islands,45857,2023-04-13,2024-10-23,Mouse,Electronics,4,78.23,312.92,Bizum,Completed,
+CLI0084,Manu,Macías,60,tisern@example.org,+34884 278 600,Bilbao,Basque Country,28439,2022-08-14,2023-11-10,Jacket,Clothing,2,110.66,221.32,Bank transfer,Pending,3
+CLI0085,Benita,Villa,40,jerezgeraldo@example.org,+34 974 92 44 34,Cordoba,Andalusia,50850,2022-06-04,2023-12-05,Headphones,Electronics,5,348.92,1744.6,Bizum,Completed,2
+CLI0086,Jacobo,Ibarra,65,taguilo@example.com,+34821 283 499,Las Palmas,Canary Islands,08823,2022-10-14,2023-05-03,Trousers,Clothing,3,64.67,194.01,PayPal,Completed,
+CLI0087,José María,Nebot,56,manuel81@example.net,+34925 10 09 67,Zaragoza,Aragon,11125,2024-01-31,2024-06-21,Keyboard,Electronics,5,64.24,321.2,Credit card,Completed,
+CLI0088,Jaime,Zabala,52,mamen98@example.com,+34744 560 499,Valencia,Valencian Community,51651,2021-07-25,2024-12-26,Camera,Electronics,1,379.44,379.44,Bank transfer,Completed,5
+CLI0089,Jose Ignacio,Cañas,73,hmendez@example.com,+34 848574350,Valladolid,Castile and León,23850,2023-11-11,2024-10-15,Dress,Clothing,2,92.77,185.54,Bizum,Completed,5
+CLI0090,Fabiana,Marí,29,brobles@example.com,+34 748 23 92 47,Barcelona,Catalonia,45321,2023-11-06,2023-12-15,Dress,Clothing,4,72.25,289.0,Bank transfer,Pending,
+CLI0091,Adelina,Isern,58,guadalupe21@example.net,+34 882 163 508,Alicante,Valencian Community,02530,2022-05-22,2024-08-13,Trousers,Clothing,1,47.04,47.04,Credit card,Completed,
+CLI0092,Nacio,Peláez,25,lucilaalegria@example.org,+34878349558,Las Palmas,Canary Islands,26434,2022-10-03,2023-09-12,Monitor,Electronics,1,766.93,766.93,Bizum,Cancelled,5
+CLI0093,Gema,Porras,46,kpablo@example.org,+34 854 005 709,Zaragoza,Aragon,37787,2022-07-17,2024-04-06,Jacket,Clothing,4,166.35,665.4,Cash,Pending,5
+CLI0094,Cebrián,Quirós,58,virgiliogalan@example.org,+34975879671,Seville,Andalusia,30732,2022-05-19,2023-08-01,T-shirt,Clothing,1,28.29,28.29,Bank transfer,Completed,
+CLI0095,Prudencia,Guardiola,44,jose-angelalfaro@example.com,+34 986588571,Palma,Balearic Islands,37894,2022-01-30,2023-01-03,Shoes,Clothing,2,100.72,201.44,Cash,Pending,
+CLI0096,Heliodoro,Seguí,73,soniabustos@example.org,+34985603511,Palma,Balearic Islands,32260,2023-07-15,2024-12-20,Jacket,Clothing,3,93.22,279.66,Credit card,Completed,5
+CLI0097,Rómulo,Torralba,25,yjuarez@example.net,+34 886292158,Las Palmas,Canary Islands,03720,2022-02-14,2024-03-11,Book,Culture,2,29.71,59.42,PayPal,Completed,2
+CLI0098,Felipe,Pomares,65,jesus91@example.org,+34915 572 863,Vigo,Galicia,40396,2024-07-12,2024-09-01,Trousers,Clothing,3,28.28,84.84,Cash,Completed,4
+CLI0099,Severo,Hervia,50,umarino@example.net,+34959 03 23 58,Las Palmas,Canary Islands,50235,2022-04-02,2023-10-06,Notebook,Culture,4,11.08,44.32,Bizum,Pending,
+CLI0100,Fanny,Sanmartín,34,qcastello@example.com,+34 847 269 350,Barcelona,Catalonia,34114,2024-02-16,2024-09-10,T-shirt,Clothing,3,36.68,110.04,Credit card,Completed,5
+CLI0101,René,Mendez,20,giselaamaya@example.com,+34978 23 13 71,Valladolid,Castile and León,09252,2024-07-02,2024-08-13,Monitor,Electronics,3,768.01,2304.03,PayPal,Pending,4
+CLI0102,Jacinta,Heras,58,garrigamartirio@example.net,+34 803879097,Vigo,Galicia,09706,2021-09-22,2024-03-22,Perfume,Accessories,5,59.77,298.85,Bizum,Completed,4
+CLI0103,Bernardo,Sancho,39,espiridion79@example.com,+34843 20 12 26,Murcia,Region of Murcia,12443,2021-12-26,2023-06-14,Camera,Electronics,1,521.06,521.06,Bizum,Completed,4
+CLI0104,Dolores,Oliva,23,ursulaalcalde@example.org,+34 846126624,Malaga,Andalusia,51932,2022-07-22,2024-04-10,Watch,Accessories,1,392.22,392.22,Bank transfer,Completed,
+CLI0105,Juan Manuel,Chico,60,juan-bautistacaparros@example.net,+34 800 20 79 50,Vigo,Galicia,13863,2022-12-04,2023-01-02,Backpack,Accessories,5,52.33,261.65,Cash,Pending,2
+CLI0106,Jenny,Maldonado,46,amalia13@example.org,+34 824124544,Valladolid,Castile and León,21482,2024-06-17,2024-10-02,Mouse,Electronics,4,42.56,170.24,Credit card,Completed,
+CLI0107,Ani,Vazquez,49,jose45@example.net,+34922 622 746,Madrid,Community of Madrid,22278,2023-10-31,2024-12-16,Shoes,Clothing,4,142.04,568.16,Credit card,Cancelled,2
+CLI0108,Tomás,Carpio,23,fabricioborrell@example.com,+34946193643,Seville,Andalusia,48122,2022-09-25,2024-02-22,Dress,Clothing,5,79.58,397.9,Credit card,Pending,2
+CLI0109,Miguel Ángel,Baquero,63,checaglauco@example.org,+34876888517,Zaragoza,Aragon,18609,2022-05-09,2024-06-05,Keyboard,Electronics,3,169.22,507.66,Bizum,Pending,2
+CLI0110,Maxi,Echevarría,56,samucruz@example.org,+34980 43 76 89,Las Palmas,Canary Islands,20663,2021-09-24,2023-07-15,Keyboard,Electronics,4,108.2,432.8,PayPal,Completed,
+CLI0111,Amancio,Calzada,35,kvalls@example.com,+34 819 45 67 89,Vigo,Galicia,04424,2024-05-27,2024-06-03,Backpack,Accessories,3,88.35,265.05,Credit card,Completed,5
+CLI0112,Encarnación,Pallarès,46,paca12@example.com,+34 981 51 99 92,Las Palmas,Canary Islands,43893,2021-06-15,2023-06-02,Monitor,Electronics,4,799.29,3197.16,Bizum,Completed,5
+CLI0113,Loreto,Valle,62,fmiguel@example.org,+34944064133,Seville,Andalusia,16289,2022-10-24,2023-07-13,Headphones,Electronics,3,175.71,527.13,Cash,Pending,
+CLI0114,Verónica,Ledesma,63,camilobeltran@example.net,+34886 754 074,Gijon,Asturias,26259,2022-10-12,2024-04-29,Backpack,Accessories,3,52.86,158.58,Bizum,Pending,2
+CLI0115,Alfonso,Tena,55,albina16@example.net,+34 886 73 74 92,Malaga,Andalusia,04549,2022-06-24,2024-05-29,Keyboard,Electronics,2,174.37,348.74,Credit card,Pending,
+CLI0116,Luis Ángel,Albero,73,pedroprimitiva@example.org,+34973 06 57 73,Alicante,Valencian Community,08381,2021-06-12,2024-02-24,Perfume,Accessories,2,82.12,164.24,PayPal,Completed,3
+CLI0117,Ruperto,Peláez,23,hugoaguilera@example.org,+34 842 676 965,Vigo,Galicia,32999,2022-07-23,2024-10-27,Camera,Electronics,4,823.26,3293.04,Bank transfer,Cancelled,3
+CLI0118,Eustaquio,Landa,20,pcanet@example.org,+34 842402971,Bilbao,Basque Country,05030,2023-02-22,2024-07-08,Book,Culture,4,27.41,109.64,Credit card,Completed,3
+CLI0119,Julieta,Moya,66,rexposito@example.org,+34 886 582 306,Alicante,Valencian Community,23721,2021-08-31,2023-04-11,Jacket,Clothing,4,162.01,648.04,Credit card,Pending,
+CLI0120,Leonel,Pallarès,68,jbusquets@example.com,+34 824 15 37 12,Barcelona,Catalonia,29949,2022-01-29,2023-11-29,Dress,Clothing,1,111.31,111.31,Bank transfer,Completed,2
+CLI0121,Pacífica,León,68,sandra68@example.org,+34920 63 65 18,Valencia,Valencian Community,10622,2023-08-08,2024-11-29,Jacket,Clothing,5,129.67,648.35,PayPal,Completed,
+CLI0122,Matilde,Olivera,55,benignaandrade@example.org,+34 886064553,Valencia,Valencian Community,09190,2023-02-01,2024-05-24,Watch,Accessories,2,222.14,444.28,PayPal,Pending,4
+CLI0123,Adora,Contreras,61,emelina26@example.org,+34 943 64 37 63,Las Palmas,Canary Islands,17476,2023-05-13,2023-10-22,Dress,Clothing,4,90.02,360.08,PayPal,Completed,3
+CLI0124,Angélica,Calleja,34,xbarranco@example.org,+34 842122628,Palma,Balearic Islands,02952,2024-03-24,2024-12-07,Monitor,Electronics,4,344.45,1377.8,Bank transfer,Completed,4
+CLI0125,Andrea,Llopis,54,pilar16@example.com,+34964 04 08 10,Zaragoza,Aragon,45360,2022-08-09,2024-01-03,Trousers,Clothing,5,38.05,190.25,Bank transfer,Completed,4
+CLI0126,Gerardo,Sotelo,65,nazaret40@example.net,+34922 24 27 58,Palma,Balearic Islands,49081,2024-04-12,2024-09-12,Dress,Clothing,1,30.73,30.73,Bank transfer,Completed,3
+CLI0127,Gilberto,Acero,61,edelmiro33@example.net,+34 824 19 25 78,Valladolid,Castile and León,29097,2022-10-06,2023-09-14,Jacket,Clothing,5,145.49,727.45,PayPal,Completed,1
+CLI0128,Valerio,Cañas,41,dorita08@example.org,+34938 07 54 48,Cordoba,Andalusia,25992,2023-11-18,2024-08-16,Dress,Clothing,1,100.97,100.97,PayPal,Completed,3
+CLI0129,Chus,Parejo,68,mauraporras@example.org,+34842 805 348,Las Palmas,Canary Islands,46804,2021-11-21,2023-05-16,Notebook,Culture,2,13.31,26.62,Bank transfer,Cancelled,3
+CLI0130,Abilio,Chamorro,65,nataliogiron@example.net,+34728166521,Vigo,Galicia,10251,2022-10-11,2023-10-30,Watch,Accessories,4,124.04,496.16,Bank transfer,Completed,1
+CLI0131,Fidel,Santamaría,64,melisa76@example.org,+34981 66 52 88,Alicante,Valencian Community,41048,2023-10-14,2024-11-23,Shoes,Clothing,2,122.96,245.92,Bizum,Cancelled,4
+CLI0132,Fito,Hervia,41,anibal33@example.org,+34 706316124,Alicante,Valencian Community,17291,2021-06-20,2024-04-10,T-shirt,Clothing,1,17.93,17.93,Bank transfer,Cancelled,3
+CLI0133,Isidro,Ponce,57,primitivopalomar@example.net,+34627597601,Gijon,Asturias,08865,2022-04-08,2023-01-26,Trousers,Clothing,4,62.12,248.48,Cash,Completed,2
+CLI0134,Dominga,Cruz,37,coboclimaco@example.com,+34 975 420 015,Alicante,Valencian Community,44237,2024-03-24,2024-12-18,Book,Culture,4,9.71,38.84,Bizum,Completed,
+CLI0135,Reina,Benavides,24,marisol16@example.org,+34928357173,Seville,Andalusia,20374,2023-01-22,2023-04-29,T-shirt,Clothing,4,19.13,76.52,Cash,Completed,3
+CLI0136,Clotilde,Guijarro,55,msierra@example.com,+34879 643 559,Cordoba,Andalusia,13618,2022-04-16,2024-03-05,Book,Culture,5,33.63,168.15,PayPal,Pending,4
+CLI0137,Mohamed,Atienza,62,patricioalarcon@example.com,+34885 41 97 88,Malaga,Andalusia,22491,2022-09-22,2023-02-03,Monitor,Electronics,3,415.28,1245.84,PayPal,Pending,2
+CLI0138,Ángeles,Campillo,75,anastasia68@example.org,+34 902 99 32 38,Alicante,Valencian Community,05491,2022-07-04,2024-07-11,Watch,Accessories,3,213.21,639.63,Bank transfer,Completed,2
+CLI0139,Anselma,Malo,60,bvillalba@example.com,+34884 58 03 75,Seville,Andalusia,09545,2022-10-24,2023-04-04,Trousers,Clothing,4,77.2,308.8,Cash,Completed,
+CLI0140,Ricarda,Segovia,31,nsalom@example.com,+34878 80 95 32,Madrid,Community of Madrid,20150,2023-07-24,2024-08-01,Camera,Electronics,2,443.57,887.14,Cash,Completed,2
+CLI0141,Anna,Llopis,35,beltranemilia@example.net,+34807522000,Vigo,Galicia,36682,2022-07-24,2023-01-03,Camera,Electronics,5,974.37,4871.85,PayPal,Completed,2
+CLI0142,Salomón,Gutierrez,18,wmateos@example.com,+34 961729302,Malaga,Andalusia,31530,2022-09-29,2023-05-15,Trousers,Clothing,1,61.36,61.36,PayPal,Cancelled,2
+CLI0143,Ascensión,Rios,25,elba53@example.net,+34927805789,Cordoba,Andalusia,20858,2022-10-27,2024-06-22,Dress,Clothing,4,34.72,138.88,Credit card,Pending,3
+CLI0144,Baldomero,Palacio,32,tadeo11@example.com,+34 887 07 64 77,Bilbao,Basque Country,33234,2023-06-08,2024-05-30,Mouse,Electronics,4,63.43,253.72,Credit card,Cancelled,1
+CLI0145,Fanny,Viña,61,zaira53@example.com,+34827303723,Madrid,Community of Madrid,35959,2023-01-08,2024-03-12,T-shirt,Clothing,4,39.96,159.84,Bizum,Pending,
+CLI0146,Matías,Sainz,26,valentinaalmeida@example.net,+34 738962684,Zaragoza,Aragon,51627,2021-12-26,2023-03-09,Trousers,Clothing,2,42.72,85.44,Cash,Cancelled,3
+CLI0147,José,Lumbreras,47,herminia93@example.org,+34971 03 06 77,Las Palmas,Canary Islands,07028,2023-08-13,2023-10-29,Headphones,Electronics,5,348.28,1741.4,Cash,Pending,
+CLI0148,Omar,Alarcón,45,irenecanellas@example.net,+34 841 543 694,Palma,Balearic Islands,42282,2022-05-22,2023-08-09,Notebook,Culture,5,7.29,36.45,PayPal,Pending,4
+CLI0149,Emma,Asenjo,45,clotildebarbera@example.org,+34 875 161 296,Malaga,Andalusia,03364,2022-02-07,2023-11-17,Headphones,Electronics,1,163.12,163.12,Bank transfer,Completed,4
+CLI0150,Yéssica,Madrigal,45,graudorita@example.net,+34 901 654 222,Madrid,Community of Madrid,06212,2021-08-07,2023-04-06,Trousers,Clothing,1,30.02,30.02,Bank transfer,Completed,5
+CLI0151,Mauricio,Barros,40,angelicaabad@example.org,+34920200433,Vigo,Galicia,51933,2022-12-29,2024-02-25,Mouse,Electronics,1,60.55,60.55,Bizum,Completed,5
+CLI0152,Sosimo,Diez,31,danielacosta@example.org,+34 701 13 82 53,Valencia,Valencian Community,10062,2022-02-03,2024-06-03,Dress,Clothing,5,61.65,308.25,Bizum,Completed,3
+CLI0153,Ricarda,Gomila,54,juliana65@example.com,+34920 89 58 64,Seville,Andalusia,49587,2023-07-10,2023-10-13,Watch,Accessories,1,300.32,300.32,Bizum,Cancelled,5
+CLI0154,Ascensión,Llamas,56,fvalencia@example.com,+34 922396759,Gijon,Asturias,29705,2022-11-12,2023-01-27,Monitor,Electronics,5,588.73,2943.65,Bank transfer,Completed,
+CLI0155,Sebastian,Colomer,18,estefania20@example.org,+34980 447 925,Valencia,Valencian Community,03567,2023-01-04,2023-12-26,Notebook,Culture,3,20.25,60.75,PayPal,Cancelled,1
+CLI0156,Ildefonso,Fuente,65,jordana22@example.com,+34 986 887 622,Las Palmas,Canary Islands,07430,2022-06-12,2023-04-04,Shoes,Clothing,1,121.51,121.51,PayPal,Pending,3
+CLI0157,Flora,Girona,56,garcesdaniela@example.com,+34943 39 59 65,Madrid,Community of Madrid,42995,2023-09-21,2024-08-04,Shoes,Clothing,3,80.71,242.13,Credit card,Completed,
+CLI0158,Ezequiel,Baquero,46,fernandezrosa@example.org,+34973459164,Alicante,Valencian Community,13642,2022-07-24,2023-10-06,Monitor,Electronics,1,182.35,182.35,Bizum,Pending,4
+CLI0159,Maximiano,Echeverría,40,pcaro@example.net,+34 925 745 938,Murcia,Region of Murcia,37698,2022-05-28,2023-04-27,Dress,Clothing,5,49.4,247.0,Credit card,Completed,5
+CLI0160,Juliana,Mate,32,florenciaarevalo@example.net,+34980242430,Murcia,Region of Murcia,08639,2021-08-27,2023-02-16,Keyboard,Electronics,3,104.31,312.93,Cash,Completed,
+CLI0161,Edgardo,Andrade,36,aguilajuanito@example.net,+34988064219,Malaga,Andalusia,05810,2021-08-27,2023-09-19,Dress,Clothing,2,115.08,230.16,Credit card,Completed,4
+CLI0162,Gertrudis,Garriga,32,segismundomanso@example.com,+34 887 75 69 66,Las Palmas,Canary Islands,20840,2022-05-28,2024-12-21,Shoes,Clothing,5,54.21,271.05,Cash,Completed,
+CLI0163,Cayetano,Barco,47,quesadatamara@example.com,+34 948031683,Gijon,Asturias,10927,2021-10-27,2023-01-20,Watch,Accessories,4,383.92,1535.68,Credit card,Completed,5
+CLI0164,León,Mancebo,25,pepebelmonte@example.net,+34 941142171,Murcia,Region of Murcia,27448,2022-09-02,2023-10-24,Headphones,Electronics,4,257.04,1028.16,Credit card,Completed,
+CLI0165,Goyo,Albero,45,fitoarcos@example.com,+34927 31 20 01,Vigo,Galicia,10682,2021-09-27,2023-04-01,Monitor,Electronics,3,449.06,1347.18,Credit card,Completed,4
+CLI0166,Baudelio,Ríos,32,jennifervila@example.net,+34 872740360,Malaga,Andalusia,49069,2023-04-02,2023-12-14,Mouse,Electronics,3,17.08,51.24,PayPal,Completed,1
+CLI0167,Herminio,Guzmán,64,arrietanicanor@example.com,+34878071950,Vigo,Galicia,10220,2023-08-24,2023-12-26,Mouse,Electronics,3,55.9,167.7,PayPal,Completed,
+CLI0168,Urbano,Roma,66,victorpelayo@example.org,+34 877691132,Valladolid,Castile and León,26371,2021-09-28,2023-06-06,Dress,Clothing,5,47.75,238.75,Credit card,Completed,4
+CLI0169,Gabriel,Varela,61,pomaresnatividad@example.org,+34 820 911 942,Gijon,Asturias,41681,2023-04-29,2024-04-04,Keyboard,Electronics,5,140.71,703.55,Cash,Cancelled,3
+CLI0170,Aránzazu,Catalá,58,eperello@example.com,+34 800 819 450,Zaragoza,Aragon,07750,2023-10-10,2024-03-28,Shoes,Clothing,4,88.37,353.48,Bank transfer,Cancelled,
+CLI0171,Gabino,Estévez,20,garciaadelaida@example.org,+34 987 831 400,Barcelona,Catalonia,07102,2022-04-10,2024-04-07,Mouse,Electronics,4,16.68,66.72,Bank transfer,Completed,
+CLI0172,Asdrubal,Gómez,56,priegoeustaquio@example.com,+34 922013735,Las Palmas,Canary Islands,22208,2023-02-15,2024-09-21,Watch,Accessories,1,489.82,489.82,Bizum,Pending,1
+CLI0173,Nicolás,Armas,30,rodrigueznorberto@example.net,+34875205755,Malaga,Andalusia,05935,2022-08-20,2024-10-29,Keyboard,Electronics,5,165.45,827.25,Cash,Pending,1
+CLI0174,Duilio,Anglada,50,colomaolalla@example.net,+34820 65 77 43,Alicante,Valencian Community,36884,2022-03-30,2023-03-28,Keyboard,Electronics,3,36.56,109.68,PayPal,Completed,
+CLI0175,Ainara,Busquets,57,gloria79@example.com,+34 977 65 28 32,Valencia,Valencian Community,05126,2023-11-13,2024-06-19,Keyboard,Electronics,5,178.56,892.8,Bank transfer,Completed,4
+CLI0176,Olga,Pozuelo,68,eusebio00@example.com,+34873470880,Alicante,Valencian Community,49646,2023-01-15,2023-02-23,Headphones,Electronics,5,277.83,1389.15,Bank transfer,Completed,5
+CLI0177,Tristán,Lluch,56,rafael50@example.com,+34 977391813,Vigo,Galicia,30798,2022-12-29,2024-11-03,Book,Culture,3,18.44,55.32,PayPal,Completed,
+CLI0178,Gloria,Rivero,59,rosa-mariasabater@example.org,+34844 543 459,Cordoba,Andalusia,34818,2021-08-19,2023-11-14,Book,Culture,3,11.82,35.46,Bizum,Completed,1
+CLI0179,Rogelio,Valenciano,60,colommirta@example.org,+34 606256282,Cordoba,Andalusia,08356,2021-08-01,2023-05-11,Dress,Clothing,3,80.3,240.9,Cash,Completed,4
+CLI0180,Olivia,Bayona,29,pia45@example.net,+34 843 962 372,Seville,Andalusia,08527,2021-10-04,2023-11-13,Mouse,Electronics,3,42.56,127.68,Bank transfer,Pending,
+CLI0181,Isidoro,Águila,50,queroldonato@example.org,+34 900661226,Valladolid,Castile and León,20951,2022-08-23,2023-04-14,Shoes,Clothing,3,57.04,171.12,Cash,Cancelled,
+CLI0182,Aránzazu,Feijoo,56,hangulo@example.org,+34 982003224,Murcia,Region of Murcia,42455,2022-08-22,2023-05-15,Camera,Electronics,5,1076.39,5381.95,PayPal,Completed,
+CLI0183,Alma,Tejera,20,marinpepita@example.org,+34 945 09 51 67,Murcia,Region of Murcia,20872,2022-07-06,2024-03-24,Notebook,Culture,2,20.42,40.84,Bank transfer,Completed,5
+CLI0184,Conrado,Baeza,52,blancocelia@example.org,+34 949 59 87 61,Seville,Andalusia,15934,2022-10-11,2023-08-28,Dress,Clothing,4,97.72,390.88,Bank transfer,Pending,2
+CLI0185,Marcial,Perelló,47,gaspar01@example.com,+34 848 233 265,Valladolid,Castile and León,47220,2022-06-27,2024-03-27,Camera,Electronics,5,878.31,4391.55,Bank transfer,Pending,4
+CLI0186,África,Romero,73,nrodenas@example.com,+34871 34 54 30,Zaragoza,Aragon,14440,2021-09-27,2023-05-22,Shoes,Clothing,5,129.86,649.3,Credit card,Pending,5
+CLI0187,Reyes,Soriano,36,cmarin@example.com,+34 924 073 394,Madrid,Community of Madrid,46542,2023-03-30,2023-05-08,Perfume,Accessories,5,37.82,189.1,PayPal,Completed,5
+CLI0188,Josep,Muro,70,marquezjuan-jose@example.org,+34944 970 978,Palma,Balearic Islands,29222,2023-05-01,2023-08-16,Shoes,Clothing,1,131.42,131.42,Bank transfer,Completed,4
+CLI0189,Dani,Blázquez,41,amoroscamila@example.org,+34 986 087 614,Seville,Andalusia,11005,2022-06-03,2023-03-25,Mouse,Electronics,4,43.66,174.64,Credit card,Completed,3
+CLI0190,Delfina,Vaquero,71,domitila26@example.org,+34924736334,Palma,Balearic Islands,20200,2022-06-09,2023-10-21,Backpack,Accessories,1,31.68,31.68,PayPal,Pending,1
+CLI0191,Gaspar,Cobos,71,jperera@example.net,+34843 997 180,Valencia,Valencian Community,08983,2022-09-04,2023-08-09,Perfume,Accessories,3,34.9,104.7,Cash,Cancelled,1
+CLI0192,Rosa María,Vega,21,ruanosebastian@example.net,+34 973189254,Seville,Andalusia,16729,2023-03-26,2023-05-05,Backpack,Accessories,3,43.05,129.15,Bizum,Cancelled,1
+CLI0193,Jenny,Quintero,19,perezflorentino@example.com,+34844 004 868,Alicante,Valencian Community,30159,2023-04-21,2024-07-02,Watch,Accessories,5,457.32,2286.6,Cash,Cancelled,
+CLI0194,Ximena,Hierro,40,paulina67@example.org,+34 877206295,Seville,Andalusia,49282,2023-02-09,2024-09-21,Shoes,Clothing,1,72.04,72.04,Cash,Pending,
+CLI0195,Juanito,Bosch,51,diazamarilis@example.net,+34928 45 05 79,Las Palmas,Canary Islands,07063,2021-12-11,2023-03-11,Book,Culture,3,10.31,30.93,Cash,Cancelled,4
+CLI0196,José Ángel,Rozas,34,celestinapuga@example.com,+34871 623 587,Cordoba,Andalusia,38836,2022-04-16,2024-01-18,Watch,Accessories,4,261.56,1046.24,Credit card,Completed,3
+CLI0197,Maite,Campo,65,cparejo@example.org,+34 803303548,Valladolid,Castile and León,24619,2023-01-28,2024-08-18,Jacket,Clothing,1,159.94,159.94,Bank transfer,Completed,
+CLI0198,Flora,Montenegro,47,lopeznoe@example.com,+34 945400943,Cordoba,Andalusia,05046,2021-11-13,2024-12-02,Mouse,Electronics,2,40.47,80.94,Bizum,Completed,1
+CLI0199,Dan,Carrillo,36,tomasa05@example.org,+34 941412752,Seville,Andalusia,22241,2022-07-28,2023-02-07,Notebook,Culture,4,20.52,82.08,Credit card,Completed,3
+CLI0200,Gaspar,Borja,48,duqueclimaco@example.org,+34 844 20 34 26,Zaragoza,Aragon,27009,2024-06-11,2024-07-10,Perfume,Accessories,4,63.76,255.04,Credit card,Completed,
+CLI0201,Paula,Serna,25,pelayoarnau@example.net,+34821 465 094,Valladolid,Castile and León,20956,2022-04-06,2023-10-07,Watch,Accessories,3,401.38,1204.14,Bank transfer,Pending,4
+CLI0202,Severo,Bartolomé,49,jose-angelpiquer@example.net,+34 848 128 957,Cordoba,Andalusia,28660,2022-10-16,2023-07-11,Perfume,Accessories,3,144.56,433.68,Bizum,Completed,5
+CLI0203,Anunciación,Villalonga,45,npozo@example.net,+34921 833 351,Bilbao,Basque Country,29361,2021-10-04,2023-03-22,Dress,Clothing,4,102.1,408.4,PayPal,Cancelled,
+CLI0204,Benito,Rico,46,bmiralles@example.com,+34 922741902,Bilbao,Basque Country,13236,2021-07-03,2023-11-10,Trousers,Clothing,3,29.4,88.2,Bizum,Completed,3
+CLI0205,Estrella,Bernat,45,ernestocasares@example.com,+34982994193,Zaragoza,Aragon,05140,2023-09-04,2024-09-21,Keyboard,Electronics,3,26.78,80.34,Credit card,Completed,4
+CLI0206,Perlita,Salamanca,27,pizarrojose-antonio@example.org,+34849 29 13 59,Vigo,Galicia,11440,2022-03-03,2023-02-01,Camera,Electronics,2,713.09,1426.18,Cash,Pending,
+CLI0207,Concha,Sanmartín,42,amado87@example.org,+34845656832,Bilbao,Basque Country,40730,2023-09-17,2024-01-06,Trousers,Clothing,3,37.98,113.94,Credit card,Cancelled,
+CLI0208,Eusebio,Verdejo,66,madrigalesther@example.net,+34924722768,Madrid,Community of Madrid,51655,2021-10-23,2024-03-30,Keyboard,Electronics,3,171.81,515.43,Cash,Completed,4
+CLI0209,Trini,Suarez,19,porcelalfonso@example.net,+34 848 694 643,Cordoba,Andalusia,05470,2021-09-09,2023-04-27,Camera,Electronics,2,849.56,1699.12,PayPal,Pending,5
+CLI0210,Rosa María,Castells,46,murobruno@example.com,+34 923 30 01 94,Seville,Andalusia,50413,2023-06-18,2024-12-21,Trousers,Clothing,3,39.4,118.2,Cash,Completed,4
+CLI0211,Xiomara,Azorin,29,mascaroagata@example.org,+34 837 162 059,Gijon,Asturias,30531,2021-09-08,2024-04-07,Jacket,Clothing,1,68.4,68.4,Bizum,Completed,3
+CLI0212,Ariadna,Fuentes,52,luz75@example.net,+34 985144462,Zaragoza,Aragon,10370,2021-12-07,2024-07-17,Book,Culture,1,17.38,17.38,Bank transfer,Completed,2
+CLI0213,Samanta,Franch,30,cperea@example.net,+34 979 84 57 95,Valladolid,Castile and León,32619,2022-12-11,2023-05-05,Backpack,Accessories,2,48.92,97.84,PayPal,Completed,1
+CLI0214,Flavia,Anaya,69,anguitadan@example.com,+34822 270 329,Las Palmas,Canary Islands,13311,2021-12-10,2024-04-23,Camera,Electronics,3,754.02,2262.06,PayPal,Cancelled,1
+CLI0215,Delia,Tomas,44,mlujan@example.com,+34946 60 99 25,Valladolid,Castile and León,21071,2022-06-29,2024-06-22,Dress,Clothing,4,65.83,263.32,Bizum,Cancelled,
+CLI0216,Juan Pablo,Sarabia,61,rolivares@example.net,+34937 410 076,Las Palmas,Canary Islands,47959,2024-02-27,2024-04-22,Camera,Electronics,4,842.34,3369.36,Bank transfer,Completed,5
+CLI0217,Francisco Jose,Rubio,50,zabaletamaricruz@example.org,+34943 36 54 89,Gijon,Asturias,09804,2021-06-22,2024-03-19,Book,Culture,2,23.87,47.74,Credit card,Completed,3
+CLI0218,Pili,Juliá,51,mmaldonado@example.com,+34988 721 698,Gijon,Asturias,32067,2022-09-13,2023-12-21,Shoes,Clothing,2,57.82,115.64,Bank transfer,Completed,
+CLI0219,Jose Carlos,Castells,58,iflor@example.com,+34 832 777 026,Zaragoza,Aragon,23672,2022-06-21,2023-05-09,Book,Culture,3,33.82,101.46,Cash,Cancelled,
+CLI0220,Modesta,Ramos,28,gloriariera@example.net,+34 949 66 69 62,Alicante,Valencian Community,29109,2022-04-05,2023-06-07,Book,Culture,5,12.55,62.75,Cash,Cancelled,5
+CLI0221,Amador,Fabregat,20,alarconepifanio@example.com,+34 920 141 277,Alicante,Valencian Community,14521,2022-10-13,2023-03-25,T-shirt,Clothing,1,34.76,34.76,Cash,Completed,5
+CLI0222,Sofía,Sarmiento,74,ataboada@example.com,+34 958 19 39 65,Alicante,Valencian Community,21073,2024-04-26,2024-05-24,Headphones,Electronics,1,227.79,227.79,Cash,Completed,3
+CLI0223,José María,Arroyo,47,bhoyos@example.com,+34920568516,Madrid,Community of Madrid,47609,2021-09-16,2023-11-01,Keyboard,Electronics,4,59.18,236.72,Credit card,Completed,4
+CLI0224,Amaro,Alsina,38,gastonperalta@example.net,+34848 969 889,Vigo,Galicia,06461,2022-11-06,2023-05-28,Keyboard,Electronics,5,52.64,263.2,Bank transfer,Completed,2
+CLI0225,Fito,Zamora,38,gguzman@example.com,+34984 678 713,Seville,Andalusia,03474,2022-07-11,2023-04-19,Backpack,Accessories,5,49.64,248.2,Bizum,Completed,
+CLI0226,Fortunato,Macias,42,magdalenario@example.org,+34846 583 268,Vigo,Galicia,27313,2023-07-15,2023-10-25,Jacket,Clothing,1,71.13,71.13,Cash,Pending,
+CLI0227,Celia,Bernal,64,ptorrecilla@example.com,+34 886101878,Malaga,Andalusia,19157,2021-10-25,2024-08-14,Watch,Accessories,3,456.04,1368.12,PayPal,Completed,5
+CLI0228,Mayte,Duque,19,carolinacervantes@example.net,+34 942 045 647,Madrid,Community of Madrid,50937,2021-08-18,2024-05-24,Keyboard,Electronics,3,99.8,299.4,Bizum,Cancelled,2
+CLI0229,Águeda,Giménez,36,esmeraldarecio@example.net,+34 807744792,Palma,Balearic Islands,07639,2021-12-06,2023-02-21,Jacket,Clothing,1,137.5,137.5,Cash,Pending,
+CLI0230,Encarnación,Julián,74,rbusquets@example.net,+34941 880 351,Zaragoza,Aragon,18785,2021-07-31,2023-05-18,T-shirt,Clothing,4,35.42,141.68,Bank transfer,Pending,4
+CLI0231,Magdalena,Cañizares,53,hmarquez@example.com,+34 657489072,Zaragoza,Aragon,18002,2023-06-19,2024-01-07,T-shirt,Clothing,2,27.11,54.22,Credit card,Pending,5
+CLI0232,Bernardita,Hervás,57,pulidojuanito@example.com,+34 947 517 600,Madrid,Community of Madrid,27644,2022-12-09,2024-11-27,Dress,Clothing,5,104.28,521.4,PayPal,Completed,3
+CLI0233,Renata,Garay,56,jenaro54@example.net,+34876 12 82 19,Las Palmas,Canary Islands,29878,2023-02-22,2023-07-23,Mouse,Electronics,2,94.51,189.02,Bizum,Cancelled,
+CLI0234,Edmundo,Buendía,51,fabricio88@example.org,+34876 19 91 32,Palma,Balearic Islands,27002,2024-01-19,2024-04-30,T-shirt,Clothing,3,14.11,42.33,PayPal,Cancelled,2
+CLI0235,Rebeca,Herrera,43,guillermomerino@example.net,+34942 151 872,Bilbao,Basque Country,27738,2022-12-02,2023-06-16,Camera,Electronics,3,1131.37,3394.11,Bank transfer,Cancelled,5
+CLI0236,Carolina,Fernández,48,canovasmaria-teresa@example.com,+34843452187,Vigo,Galicia,44225,2023-07-01,2023-11-03,Mouse,Electronics,5,54.09,270.45,Credit card,Completed,1
+CLI0237,Eva María,Pombo,48,adelaida85@example.net,+34884918191,Zaragoza,Aragon,27584,2022-11-23,2024-09-03,Headphones,Electronics,1,216.78,216.78,Cash,Cancelled,
+CLI0238,Azeneth,Sanmartín,58,szorrilla@example.net,+34 656788445,Cordoba,Andalusia,01542,2022-02-15,2024-06-20,T-shirt,Clothing,2,27.51,55.02,Cash,Pending,
+CLI0239,Kike,Falcó,25,suarezheliodoro@example.org,+34 982042506,Seville,Andalusia,35646,2024-04-08,2024-12-18,Book,Culture,5,14.54,72.7,Credit card,Pending,2
+CLI0240,Hugo,Jordá,67,yclemente@example.com,+34807517823,Bilbao,Basque Country,05825,2021-09-08,2024-05-28,Headphones,Electronics,4,250.96,1003.84,Bizum,Completed,5
+CLI0241,Luz,Torres,42,felicidadgutierrez@example.com,+34926821280,Malaga,Andalusia,10040,2023-05-18,2024-06-22,Jacket,Clothing,4,134.13,536.52,PayPal,Pending,3
+CLI0242,Agustín,Sandoval,48,vcoronado@example.com,+34973 37 56 93,Seville,Andalusia,20406,2024-04-13,2024-09-16,Mouse,Electronics,3,41.89,125.67,PayPal,Completed,2
+CLI0243,Nico,Nogués,63,dalcazar@example.com,+34 928333081,Palma,Balearic Islands,10204,2023-11-08,2024-12-07,Dress,Clothing,2,99.41,198.82,Bank transfer,Pending,3
+CLI0244,Gonzalo,Boada,75,lucasbarriga@example.com,+34803868061,Murcia,Region of Murcia,12472,2022-09-16,2024-01-24,Dress,Clothing,5,40.97,204.85,Bank transfer,Completed,
+CLI0245,Petrona,Roura,46,cordobajacobo@example.net,+34 980631727,Alicante,Valencian Community,29223,2023-08-23,2023-12-21,Dress,Clothing,1,115.98,115.98,Bank transfer,Pending,
+CLI0246,Odalys,Azcona,35,florrosario@example.org,+34 871 194 680,Valencia,Valencian Community,50508,2023-07-09,2024-12-13,Watch,Accessories,5,292.36,1461.8,Credit card,Cancelled,2
+CLI0247,Jose,Rodriguez,58,ugomis@example.org,+34 814000443,Seville,Andalusia,49945,2023-05-25,2023-08-20,Jacket,Clothing,5,57.61,288.05,Credit card,Completed,4
+CLI0248,Bienvenida,Bayona,53,azahara59@example.org,+34 882 078 593,Gijon,Asturias,19420,2021-12-22,2023-01-06,Trousers,Clothing,2,62.47,124.94,PayPal,Pending,4
+CLI0249,Custodio,Ramos,36,luis-miguel36@example.net,+34 948696374,Alicante,Valencian Community,42812,2023-03-20,2023-11-25,Keyboard,Electronics,3,124.09,372.27,Credit card,Completed,2
+CLI0250,Sonia,Casal,44,priscilagarrido@example.net,+34 828 76 29 27,Gijon,Asturias,06871,2022-11-06,2023-06-29,Mouse,Electronics,1,76.48,76.48,PayPal,Completed,4
+CLI0251,Ale,Cases,18,aitor54@example.com,+34985 179 987,Zaragoza,Aragon,33702,2022-02-07,2023-02-08,Backpack,Accessories,3,59.63,178.89,Cash,Cancelled,
+CLI0252,Ezequiel,Artigas,49,venceslasviana@example.com,+34 731560336,Gijon,Asturias,25472,2022-06-25,2024-06-20,Camera,Electronics,5,484.56,2422.8,PayPal,Cancelled,2
+CLI0253,Victorino,Bertrán,59,lilianacasas@example.com,+34886 08 40 73,Zaragoza,Aragon,20253,2023-02-14,2024-04-14,Backpack,Accessories,2,29.01,58.02,PayPal,Completed,3
+CLI0254,Geraldo,Juliá,57,manzanomaxima@example.net,+34 843896489,Vigo,Galicia,25845,2022-05-24,2023-06-29,Monitor,Electronics,2,588.36,1176.72,Bizum,Pending,1
+CLI0255,Virgilio,Julián,48,criadocasandra@example.org,+34 948502107,Malaga,Andalusia,29954,2022-06-02,2023-05-24,Headphones,Electronics,2,244.16,488.32,PayPal,Completed,
+CLI0256,Bibiana,Urrutia,37,amate@example.net,+34828 94 61 30,Bilbao,Basque Country,37718,2023-05-22,2023-12-04,Jacket,Clothing,3,117.01,351.03,Cash,Completed,
+CLI0257,Hortensia,Royo,25,cmarquez@example.com,+34825 36 21 00,Palma,Balearic Islands,46985,2022-05-30,2024-11-14,Camera,Electronics,1,892.77,892.77,Bank transfer,Completed,5
+CLI0258,Apolinar,Cases,25,jonatanroyo@example.org,+34824414516,Alicante,Valencian Community,29076,2023-12-21,2024-12-07,Perfume,Accessories,3,136.89,410.67,Bank transfer,Completed,2
+CLI0259,Roxana,Zurita,41,adeliafolch@example.org,+34748393247,Murcia,Region of Murcia,05737,2022-11-28,2024-09-12,Shoes,Clothing,4,92.6,370.4,Cash,Pending,2
+CLI0260,Josué,Rosado,51,eric87@example.org,+34 880289836,Palma,Balearic Islands,28082,2021-09-14,2023-03-25,Backpack,Accessories,5,39.8,199.0,Cash,Completed,
+CLI0261,Zaida,Alfonso,30,abigailpacheco@example.org,+34873 400 638,Bilbao,Basque Country,23318,2022-09-16,2024-06-01,Monitor,Electronics,5,222.94,1114.7,Cash,Completed,
+CLI0262,Gil,Aparicio,31,felisa98@example.net,+34 941 426 575,Cordoba,Andalusia,45940,2024-11-19,2024-11-27,Watch,Accessories,1,284.15,284.15,Cash,Pending,
+CLI0263,Benito,Zurita,26,cesarpi@example.net,+34885 71 15 11,Las Palmas,Canary Islands,36103,2022-07-02,2024-04-09,Mouse,Electronics,1,50.09,50.09,Bizum,Pending,5
+CLI0264,Águeda,Enríquez,43,cerdanabril@example.com,+34 948655969,Zaragoza,Aragon,51019,2022-08-30,2023-01-23,Keyboard,Electronics,3,127.64,382.92,Credit card,Completed,1
+CLI0265,Hilda,Gracia,21,dimasgrau@example.com,+34 986 57 28 00,Gijon,Asturias,27588,2024-02-12,2024-07-08,Headphones,Electronics,1,140.25,140.25,Credit card,Pending,
+CLI0266,Íngrid,Riera,64,filomenamateo@example.net,+34 697 499 609,Alicante,Valencian Community,47030,2022-10-21,2024-10-18,Headphones,Electronics,2,87.59,175.18,Bizum,Completed,4
+CLI0267,Ariel,Zorrilla,23,wbustamante@example.net,+34815 281 837,Alicante,Valencian Community,26241,2022-09-07,2024-01-20,Keyboard,Electronics,4,159.14,636.56,Cash,Completed,3
+CLI0268,Lisandro,Perez,51,xvazquez@example.net,+34 979 579 174,Valencia,Valencian Community,02617,2022-07-02,2024-02-07,Trousers,Clothing,5,34.82,174.1,PayPal,Completed,3
+CLI0269,Plácido,Nogueira,52,tatianaclavero@example.net,+34 825478477,Murcia,Region of Murcia,14690,2022-12-25,2024-03-10,Keyboard,Electronics,5,127.76,638.8,PayPal,Completed,2
+CLI0270,Natalio,Cervantes,69,jheredia@example.org,+34 943 40 54 71,Alicante,Valencian Community,23673,2022-02-05,2023-02-02,Dress,Clothing,1,46.96,46.96,Bizum,Cancelled,1
+CLI0271,Encarnita,Herrero,20,bibiana40@example.org,+34987 786 917,Palma,Balearic Islands,15186,2023-06-14,2024-08-31,Jacket,Clothing,1,80.91,80.91,Cash,Completed,
+CLI0272,Joel,Maldonado,31,edgardo52@example.net,+34 727757566,Valladolid,Castile and León,31036,2021-11-20,2024-07-06,T-shirt,Clothing,2,22.07,44.14,Credit card,Completed,3
+CLI0273,Dionisia,Trillo,54,diego31@example.com,+34980348791,Bilbao,Basque Country,07589,2023-07-15,2023-11-23,Jacket,Clothing,5,172.37,861.85,Bank transfer,Completed,2
+CLI0274,Paola,Lopez,35,jordi15@example.com,+34901630799,Barcelona,Catalonia,04224,2023-02-07,2023-11-04,Book,Culture,4,22.07,88.28,Cash,Cancelled,2
+CLI0275,Agustín,Agullo,21,tristan04@example.net,+34884653968,Malaga,Andalusia,30085,2021-10-01,2024-05-22,Book,Culture,5,26.33,131.65,Bizum,Cancelled,4
+CLI0276,Jordi,Torrecilla,66,vbarragan@example.org,+34 844 241 681,Las Palmas,Canary Islands,31555,2023-01-04,2023-07-08,Headphones,Electronics,4,77.75,311.0,Bizum,Completed,3
+CLI0277,Teresa,Agustí,53,flavio86@example.org,+34848 85 05 42,Murcia,Region of Murcia,42158,2022-08-15,2023-03-01,Watch,Accessories,4,368.41,1473.64,Bizum,Cancelled,4
+CLI0278,Jose Antonio,Manso,23,pascualfranco@example.org,+34933 35 40 29,Gijon,Asturias,50247,2022-02-12,2024-10-24,Jacket,Clothing,3,88.25,264.75,Bizum,Completed,
+CLI0279,Victoria,Pintor,42,vhuertas@example.com,+34882 386 552,Alicante,Valencian Community,02462,2022-07-09,2023-10-02,Notebook,Culture,1,21.59,21.59,Cash,Cancelled,
+CLI0280,Cirino,Luna,53,lucia61@example.com,+34832489022,Seville,Andalusia,44250,2021-06-20,2024-11-18,Trousers,Clothing,5,35.35,176.75,Bizum,Completed,3
+CLI0281,Aristides,Cuéllar,30,balmansa@example.com,+34 921 034 854,Cordoba,Andalusia,33415,2021-06-23,2023-08-05,Dress,Clothing,1,116.13,116.13,Credit card,Pending,5
+CLI0282,Luciano,Jurado,38,odalys94@example.org,+34823 74 47 63,Valladolid,Castile and León,27534,2021-08-06,2024-07-19,Notebook,Culture,2,9.09,18.18,Bank transfer,Pending,3
+CLI0283,Daniel,Castrillo,47,schamorro@example.com,+34983 85 58 68,Madrid,Community of Madrid,35945,2023-07-03,2024-05-24,Dress,Clothing,5,53.54,267.7,Bizum,Completed,3
+CLI0284,Tamara,Valentín,65,anita64@example.net,+34 986 31 31 76,Valencia,Valencian Community,34377,2023-05-06,2023-08-15,Camera,Electronics,5,613.93,3069.65,Credit card,Completed,5
+CLI0285,Paulina,Noguera,30,africa54@example.net,+34 729385329,Malaga,Andalusia,29429,2021-12-07,2023-06-06,Monitor,Electronics,3,618.01,1854.03,PayPal,Pending,2
+CLI0286,Jose,Mateo,66,aaron82@example.org,+34 942 655 287,Vigo,Galicia,21194,2022-09-13,2023-09-21,Keyboard,Electronics,3,108.1,324.3,Bizum,Pending,3
+CLI0287,Victor,Vigil,29,jmartinez@example.org,+34972 13 59 00,Gijon,Asturias,41691,2023-02-05,2024-05-15,Shoes,Clothing,5,55.4,277.0,Cash,Completed,1
+CLI0288,Felisa,Dueñas,26,ytirado@example.net,+34 973 247 422,Vigo,Galicia,37684,2021-10-24,2024-02-27,Watch,Accessories,1,350.7,350.7,PayPal,Completed,1
+CLI0289,Hector,Aparicio,57,tellezbenjamin@example.org,+34885 752 993,Alicante,Valencian Community,17626,2022-10-06,2023-03-03,Jacket,Clothing,3,125.86,377.58,Cash,Pending,1
+CLI0290,Heliodoro,Aparicio,19,udominguez@example.com,+34 883655994,Las Palmas,Canary Islands,43169,2021-10-23,2023-01-13,T-shirt,Clothing,4,25.97,103.88,Bank transfer,Cancelled,1
+CLI0291,Estela,Fiol,24,bnavarrete@example.com,+34848 712 154,Gijon,Asturias,39465,2023-03-27,2023-07-03,Mouse,Electronics,4,83.18,332.72,Credit card,Cancelled,
+CLI0292,Rosa María,Rosa,35,cristobalgirona@example.com,+34875 92 53 28,Valladolid,Castile and León,38877,2022-11-07,2023-12-29,Jacket,Clothing,3,142.97,428.91,Bizum,Completed,4
+CLI0293,Luz,Antón,61,ohurtado@example.net,+34 849124771,Vigo,Galicia,07110,2021-06-27,2023-11-04,Keyboard,Electronics,2,110.4,220.8,Credit card,Completed,
+CLI0294,Fito,Casal,58,amor53@example.net,+34856132862,Barcelona,Catalonia,35225,2022-01-08,2023-02-27,Headphones,Electronics,4,150.69,602.76,PayPal,Completed,4
+CLI0295,Maximino,Lucas,75,salomonaleman@example.org,+34822191407,Las Palmas,Canary Islands,15909,2022-11-21,2023-04-08,Book,Culture,5,29.18,145.9,Credit card,Completed,
+CLI0296,Isidro,Duran,35,abuendia@example.com,+34884 18 36 43,Barcelona,Catalonia,20937,2023-12-12,2024-05-01,Watch,Accessories,5,361.53,1807.65,Credit card,Completed,5
+CLI0297,Claudia,Otero,31,reyesquiroga@example.org,+34 874 61 48 55,Bilbao,Basque Country,30550,2022-07-05,2023-01-17,Book,Culture,3,8.89,26.67,PayPal,Pending,3
+CLI0298,Apolonia,Grau,61,dvives@example.net,+34800060644,Gijon,Asturias,06729,2022-04-05,2024-02-03,Shoes,Clothing,5,102.04,510.2,Cash,Completed,2
+CLI0299,Anita,Hervás,65,carbajopia@example.org,+34 832 57 68 84,Malaga,Andalusia,34042,2023-10-11,2024-05-27,Backpack,Accessories,1,99.08,99.08,Credit card,Completed,1
+CLI0300,Ignacia,Manrique,43,fojeda@example.com,+34 848691591,Valladolid,Castile and León,20202,2023-04-19,2024-09-01,Camera,Electronics,5,805.17,4025.85,Bank transfer,Completed,4
+CLI0301,Eligio,Galan,45,arturoprado@example.net,+34 921 461 152,Valencia,Valencian Community,21106,2023-01-29,2024-01-20,Keyboard,Electronics,5,56.5,282.5,Cash,Pending,
+CLI0302,Imelda,Almansa,22,herminiojordan@example.net,+34803951010,Madrid,Community of Madrid,16777,2024-04-07,2024-12-31,Monitor,Electronics,2,342.0,684.0,Bank transfer,Completed,2
+CLI0303,Alejandro,Cervantes,23,querodora@example.com,+34984 741 271,Barcelona,Catalonia,12235,2022-04-10,2023-04-20,Notebook,Culture,3,12.79,38.37,Bank transfer,Pending,3
+CLI0304,Efraín,Caro,46,solparra@example.com,+34 971 99 68 89,Las Palmas,Canary Islands,41604,2024-02-12,2024-03-17,Trousers,Clothing,2,32.29,64.58,Cash,Cancelled,1
+CLI0305,Matías,Luque,56,pastoraespada@example.net,+34 979287715,Valladolid,Castile and León,11426,2024-07-12,2024-09-03,Trousers,Clothing,1,44.47,44.47,Bank transfer,Pending,
+CLI0306,Modesto,Cid,75,alondra64@example.com,+34 846824835,Seville,Andalusia,09173,2023-06-05,2024-07-26,Headphones,Electronics,1,154.1,154.1,Cash,Cancelled,
+CLI0307,Matías,Bermudez,35,corbachonayara@example.org,+34886 32 46 95,Palma,Balearic Islands,04958,2021-09-19,2023-11-05,Headphones,Electronics,3,84.24,252.72,PayPal,Completed,
+CLI0308,Gervasio,Agullo,41,leticia83@example.com,+34 923492255,Zaragoza,Aragon,32593,2021-09-11,2023-03-20,Dress,Clothing,4,67.9,271.6,PayPal,Pending,2
+CLI0309,Flora,Ramis,43,piedadsalcedo@example.com,+34948 64 07 16,Malaga,Andalusia,48221,2021-10-06,2023-01-07,Keyboard,Electronics,3,37.12,111.36,Cash,Pending,3
+CLI0310,Leocadia,Cadenas,37,navarretevicente@example.com,+34 988 598 228,Malaga,Andalusia,32115,2023-01-18,2023-05-20,Keyboard,Electronics,5,73.56,367.8,Cash,Completed,2
+CLI0311,Lilia,Nuñez,58,pagesnerea@example.net,+34823 30 75 23,Palma,Balearic Islands,35012,2021-09-20,2024-12-12,Headphones,Electronics,3,339.99,1019.97,Cash,Completed,3
+CLI0312,Nydia,Cordero,54,ulisespujadas@example.net,+34 945657069,Seville,Andalusia,31823,2021-12-20,2023-04-27,Watch,Accessories,3,403.64,1210.92,Cash,Cancelled,
+CLI0313,Dominga,Bernat,31,zplanas@example.org,+34828 37 00 67,Palma,Balearic Islands,35487,2022-10-11,2024-12-26,Backpack,Accessories,4,64.01,256.04,Bank transfer,Completed,4
+CLI0314,Victoriano,Colomer,34,leocadiocornejo@example.net,+34 842 85 55 62,Alicante,Valencian Community,32226,2021-08-10,2023-09-05,Book,Culture,3,21.48,64.44,PayPal,Pending,1
+CLI0315,Samu,Blanco,43,elisabetoliver@example.com,+34 978 738 507,Las Palmas,Canary Islands,01345,2021-12-16,2024-08-19,Keyboard,Electronics,4,178.51,714.04,Cash,Pending,3
+CLI0316,Ciriaco,Giralt,58,clementemacias@example.net,+34 738 18 21 20,Gijon,Asturias,34741,2022-10-06,2024-08-31,Notebook,Culture,5,22.91,114.55,Credit card,Completed,3
+CLI0317,Berto,Ruano,59,ruedaesmeralda@example.com,+34811 368 380,Alicante,Valencian Community,33750,2024-04-30,2024-07-30,Shoes,Clothing,1,111.17,111.17,Bizum,Completed,4
+CLI0318,Reina,Casado,50,mamen08@example.com,+34 900 04 79 53,Cordoba,Andalusia,28417,2023-05-17,2023-08-16,Trousers,Clothing,3,25.58,76.74,Cash,Cancelled,5
+CLI0319,Flora,Ariza,67,eligio35@example.com,+34985 26 16 91,Alicante,Valencian Community,22878,2023-09-16,2024-04-19,Jacket,Clothing,4,116.87,467.48,Cash,Cancelled,
+CLI0320,Zaida,Cuéllar,23,rodolfo78@example.net,+34 849 32 03 42,Madrid,Community of Madrid,52046,2022-08-31,2024-03-01,T-shirt,Clothing,3,24.48,73.44,PayPal,Completed,4
+CLI0321,Maite,Blazquez,48,diezcalixta@example.com,+34974680975,Madrid,Community of Madrid,01067,2021-11-06,2023-12-23,Backpack,Accessories,4,36.55,146.2,Bizum,Pending,3
+CLI0322,Josep,Valls,72,rubenjulian@example.com,+34 977 933 882,Malaga,Andalusia,50908,2022-02-12,2023-01-24,T-shirt,Clothing,1,34.31,34.31,Credit card,Completed,2
+CLI0323,Benigno,Arco,53,icarnero@example.net,+34873 93 27 05,Murcia,Region of Murcia,13068,2023-08-03,2023-12-05,Mouse,Electronics,2,25.7,51.4,Bizum,Completed,2
+CLI0324,Francisca,Escalona,19,abigailrivas@example.org,+34979 985 845,Cordoba,Andalusia,01834,2022-01-16,2024-02-10,Shoes,Clothing,4,110.45,441.8,Cash,Completed,4
+CLI0325,Nicolás,Miralles,35,anino@example.net,+34 920 59 43 53,Valladolid,Castile and León,34223,2023-06-30,2023-07-30,Headphones,Electronics,2,31.42,62.84,Credit card,Cancelled,
+CLI0326,Maribel,Romero,30,rmaestre@example.com,+34 984244186,Palma,Balearic Islands,14998,2022-10-15,2023-11-30,Watch,Accessories,3,291.6,874.8,Credit card,Completed,4
+CLI0327,Marcia,Mercader,42,rita62@example.org,+34845 23 71 05,Bilbao,Basque Country,05159,2024-06-03,2024-09-03,Mouse,Electronics,3,96.93,290.79,Bizum,Cancelled,
+CLI0328,Artemio,Garay,70,amadacarvajal@example.net,+34828 624 771,Alicante,Valencian Community,13728,2023-04-06,2023-06-26,Camera,Electronics,5,1045.52,5227.6,Bank transfer,Cancelled,2
+CLI0329,Esmeralda,Alberola,29,bernatnazario@example.net,+34920 89 74 42,Malaga,Andalusia,25730,2022-12-06,2023-04-30,Camera,Electronics,3,317.86,953.58,PayPal,Cancelled,5
+CLI0330,Anacleto,Barón,49,odalis44@example.com,+34734 301 750,Alicante,Valencian Community,44297,2022-03-16,2023-07-10,Shoes,Clothing,4,103.23,412.92,Cash,Completed,4
+CLI0331,Ángeles,Amo,57,doritacastilla@example.org,+34 972 727 663,Barcelona,Catalonia,42152,2023-07-24,2024-04-06,Dress,Clothing,3,42.63,127.89,Bank transfer,Completed,2
+CLI0332,Nacho,Báez,59,osolana@example.net,+34 885 10 66 47,Palma,Balearic Islands,25081,2023-04-26,2024-06-01,Watch,Accessories,5,222.77,1113.85,Bizum,Pending,4
+CLI0333,Óscar,Leiva,68,pelayobaez@example.com,+34846856539,Valladolid,Castile and León,39190,2021-06-19,2023-02-01,Keyboard,Electronics,5,46.76,233.8,PayPal,Completed,
+CLI0334,Gisela,Posada,54,cprat@example.com,+34 988 36 23 53,Cordoba,Andalusia,32658,2023-12-16,2024-04-13,Jacket,Clothing,2,130.64,261.28,Bizum,Cancelled,5
+CLI0335,Jacinto,Alvarado,52,magdalena32@example.com,+34884 78 70 10,Vigo,Galicia,47533,2022-04-09,2024-01-11,Trousers,Clothing,5,39.73,198.65,Credit card,Pending,4
+CLI0336,Fanny,Adadia,73,david38@example.org,+34921 977 931,Barcelona,Catalonia,23102,2022-11-06,2023-11-01,Trousers,Clothing,2,65.48,130.96,Bizum,Completed,1
+CLI0337,María Del Carmen,Acero,31,pascual71@example.net,+34 871 815 931,Valladolid,Castile and León,38351,2023-08-06,2023-08-31,Keyboard,Electronics,1,158.45,158.45,Cash,Completed,5
+CLI0338,Daniel,Pina,68,sebastiannico@example.org,+34 986 00 97 66,Seville,Andalusia,42795,2022-04-19,2023-05-23,Book,Culture,5,19.56,97.8,PayPal,Completed,5
+CLI0339,Consuelo,Ripoll,63,kreal@example.org,+34 815861133,Zaragoza,Aragon,51072,2023-10-26,2023-11-28,Dress,Clothing,2,83.72,167.44,Bank transfer,Cancelled,
+CLI0340,Ruperta,Salvà,66,jose-luiscerda@example.com,+34846 372 174,Valladolid,Castile and León,50474,2022-08-22,2023-05-19,Watch,Accessories,1,281.49,281.49,Bizum,Completed,2
+CLI0341,Isa,Rodríguez,63,acostamicaela@example.net,+34 846 970 239,Malaga,Andalusia,05373,2022-06-12,2023-05-30,Notebook,Culture,2,22.32,44.64,PayPal,Pending,5
+CLI0342,Zacarías,Piñeiro,46,belmontesonia@example.net,+34972619895,Madrid,Community of Madrid,38586,2022-09-13,2024-01-20,Book,Culture,4,15.26,61.04,Credit card,Pending,3
+CLI0343,Leonardo,Nicolau,49,maximiliano04@example.com,+34974 51 18 01,Malaga,Andalusia,26826,2021-10-08,2024-04-10,Notebook,Culture,3,23.73,71.19,Cash,Completed,1
+CLI0344,Loida,Parejo,68,sandracorrea@example.org,+34936337693,Las Palmas,Canary Islands,27276,2023-02-13,2023-03-06,Notebook,Culture,3,24.44,73.32,Bizum,Completed,2
+CLI0345,Apolonia,Simó,53,rodrigo16@example.net,+34 920 69 28 59,Bilbao,Basque Country,32641,2021-08-15,2023-12-12,Keyboard,Electronics,3,62.97,188.91,PayPal,Cancelled,3
+CLI0346,Daniel,Paz,24,welias@example.net,+34 920 475 205,Alicante,Valencian Community,02574,2022-03-22,2023-02-17,Perfume,Accessories,1,110.32,110.32,Bizum,Completed,
+CLI0347,Luna,Mascaró,45,lolaribes@example.org,+34979630527,Seville,Andalusia,37541,2022-09-15,2023-01-01,Watch,Accessories,4,121.09,484.36,PayPal,Completed,
+CLI0348,Delfina,Gascón,41,svara@example.org,+34821 37 27 64,Zaragoza,Aragon,50455,2023-08-05,2024-11-01,Perfume,Accessories,1,134.57,134.57,Credit card,Completed,2
+CLI0349,Cristian,Jiménez,66,achamorro@example.net,+34 888 792 790,Seville,Andalusia,15299,2023-01-24,2024-12-17,T-shirt,Clothing,3,21.89,65.67,Bizum,Completed,1
+CLI0350,Roque,Castejón,32,blazquezetelvina@example.net,+34 821 363 050,Las Palmas,Canary Islands,50791,2022-07-15,2024-08-30,Jacket,Clothing,2,121.52,243.04,Bizum,Completed,
+CLI0351,Nydia,Díaz,26,tamaramontoya@example.com,+34 848 051 361,Palma,Balearic Islands,34860,2022-07-26,2024-12-11,Camera,Electronics,4,1017.11,4068.44,Credit card,Completed,1
+CLI0352,Mateo,Tejedor,42,clobo@example.org,+34820 600 892,Valladolid,Castile and León,26063,2021-07-28,2023-05-21,Trousers,Clothing,3,42.23,126.69,PayPal,Completed,
+CLI0353,Teófila,Blanes,40,marmolalexandra@example.org,+34 807 96 69 95,Cordoba,Andalusia,49681,2022-04-04,2024-03-26,Monitor,Electronics,2,155.51,311.02,PayPal,Completed,5
+CLI0354,Marisol,Garmendia,75,carnau@example.net,+34806777205,Madrid,Community of Madrid,16007,2023-02-16,2023-03-30,Book,Culture,2,19.94,39.88,PayPal,Completed,4
+CLI0355,Arcelia,Falcó,33,jacobo10@example.org,+34 876 645 028,Zaragoza,Aragon,34489,2023-04-23,2023-05-24,Camera,Electronics,3,1163.25,3489.75,Credit card,Completed,5
+CLI0356,Cornelio,Abril,74,garategertrudis@example.com,+34838 711 811,Zaragoza,Aragon,01186,2021-08-24,2024-11-05,Notebook,Culture,1,17.15,17.15,PayPal,Cancelled,2
+CLI0357,Carmen,Sevillano,49,wcasanovas@example.com,+34 888 00 10 05,Murcia,Region of Murcia,29147,2022-01-14,2023-09-03,Notebook,Culture,1,12.84,12.84,Credit card,Completed,5
+CLI0358,Custodio,Toledo,38,pratsraul@example.com,+34973 11 14 13,Valencia,Valencian Community,11328,2021-06-24,2024-01-05,Trousers,Clothing,1,54.06,54.06,Bizum,Cancelled,5
+CLI0359,Damián,Cabo,19,osaez@example.net,+34 983 10 16 85,Bilbao,Basque Country,14440,2022-01-06,2023-03-16,Book,Culture,4,12.66,50.64,Credit card,Completed,
+CLI0360,Mauricio,Báez,36,anicolas@example.org,+34962876863,Alicante,Valencian Community,15239,2021-07-04,2024-06-02,T-shirt,Clothing,4,37.68,150.72,Cash,Pending,4
+CLI0361,Leandro,Estrada,27,spedro@example.com,+34 938414866,Zaragoza,Aragon,20848,2024-07-19,2024-09-22,Trousers,Clothing,5,60.23,301.15,Credit card,Completed,
+CLI0362,Virginia,Rozas,38,dfabregas@example.com,+34 923 29 44 40,Murcia,Region of Murcia,38322,2024-06-19,2024-07-03,Perfume,Accessories,2,50.4,100.8,Cash,Completed,4
+CLI0363,Silvestre,Escribano,33,umercader@example.org,+34 963604645,Madrid,Community of Madrid,18730,2022-08-13,2023-03-01,Notebook,Culture,2,24.07,48.14,Bizum,Completed,5
+CLI0364,Sara,Cornejo,18,abilio79@example.com,+34 878 942 744,Cordoba,Andalusia,10030,2023-01-25,2023-05-03,T-shirt,Clothing,2,19.28,38.56,PayPal,Completed,
+CLI0365,Alejandro,Roca,41,mascaroetelvina@example.com,+34 825 155 005,Valencia,Valencian Community,18264,2021-12-24,2023-06-20,Camera,Electronics,3,723.01,2169.03,Bank transfer,Completed,1
+CLI0366,Nidia,Navas,22,bazorin@example.org,+34 845 88 80 01,Zaragoza,Aragon,41490,2021-07-11,2024-06-20,Camera,Electronics,3,1007.11,3021.33,Cash,Completed,5
+CLI0367,Patricia,Rosselló,41,toribio13@example.org,+34706 22 99 80,Valencia,Valencian Community,29850,2021-06-17,2023-06-20,Camera,Electronics,5,255.44,1277.2,Bank transfer,Completed,1
+CLI0368,Teobaldo,Mas,72,eroura@example.com,+34 900 69 97 31,Vigo,Galicia,32717,2022-04-13,2023-02-15,Jacket,Clothing,1,161.12,161.12,Credit card,Completed,
+CLI0369,Agustina,Busquets,72,zvila@example.net,+34880 984 936,Barcelona,Catalonia,33401,2023-05-30,2023-07-03,Camera,Electronics,2,582.98,1165.96,Cash,Pending,
+CLI0370,Candelaria,Calatayud,70,dazanarciso@example.net,+34 849197659,Madrid,Community of Madrid,01183,2022-09-30,2023-10-05,Jacket,Clothing,3,112.44,337.32,Cash,Completed,
+CLI0371,Ulises,Bernal,69,jarmas@example.com,+34841 831 138,Las Palmas,Canary Islands,21758,2021-08-06,2023-08-17,Book,Culture,2,32.35,64.7,Credit card,Pending,
+CLI0372,Joan,Hoyos,23,candelariomilla@example.net,+34 934 74 52 96,Las Palmas,Canary Islands,04780,2022-04-10,2023-12-02,Keyboard,Electronics,3,158.57,475.71,Bizum,Completed,3
+CLI0373,Yaiza,Fiol,47,batllebelen@example.org,+34 872 00 90 34,Malaga,Andalusia,06978,2022-02-10,2023-09-06,Monitor,Electronics,5,659.93,3299.65,Cash,Pending,2
+CLI0374,Ester,Galvez,18,cmontserrat@example.org,+34921 972 709,Gijon,Asturias,12996,2023-02-19,2023-06-04,Notebook,Culture,2,23.01,46.02,Bizum,Completed,
+CLI0375,Fernanda,Vicens,18,lucia25@example.com,+34 844785195,Valladolid,Castile and León,04047,2022-05-29,2023-12-10,Camera,Electronics,1,835.94,835.94,Bizum,Completed,
+CLI0376,Hipólito,Quesada,21,cruz83@example.com,+34 823 21 35 41,Valencia,Valencian Community,38123,2021-11-10,2024-05-18,Mouse,Electronics,4,98.48,393.92,Bank transfer,Completed,
+CLI0377,Gabriela,Criado,62,ritaurrutia@example.org,+34 875 307 584,Gijon,Asturias,19636,2023-01-25,2024-02-27,Jacket,Clothing,5,184.59,922.95,Bank transfer,Pending,1
+CLI0378,Herberto,Pombo,70,acisneros@example.org,+34 716 17 48 07,Murcia,Region of Murcia,42684,2024-02-06,2024-10-14,Monitor,Electronics,2,212.13,424.26,Credit card,Cancelled,4
+CLI0379,Benigna,Anguita,34,companyprimitiva@example.net,+34921079212,Vigo,Galicia,51297,2022-08-17,2023-10-26,Book,Culture,2,34.03,68.06,Bank transfer,Pending,3
+CLI0380,Eusebio,Cobos,30,nicolasalcolea@example.net,+34 827 120 909,Valencia,Valencian Community,13402,2022-05-26,2023-03-18,Camera,Electronics,2,652.76,1305.52,Cash,Completed,
+CLI0381,Plinio,Hurtado,25,pinedoaura@example.org,+34 880718028,Las Palmas,Canary Islands,46531,2024-02-12,2024-02-21,Shoes,Clothing,3,89.45,268.35,Bank transfer,Completed,4
+CLI0382,Marita,Gomila,69,heriberto89@example.net,+34 979 971 872,Alicante,Valencian Community,04901,2022-01-30,2023-06-11,Dress,Clothing,1,106.72,106.72,Bank transfer,Cancelled,
+CLI0383,Dalila,Miró,63,edualmagro@example.org,+34 880 31 56 28,Seville,Andalusia,38175,2023-02-24,2023-04-04,Watch,Accessories,2,435.46,870.92,Bank transfer,Pending,3
+CLI0384,Marisela,Roldan,43,martijuan-carlos@example.com,+34 846 07 54 57,Vigo,Galicia,17065,2022-12-20,2023-02-01,Dress,Clothing,2,103.81,207.62,Bizum,Cancelled,2
+CLI0385,Primitivo,Ferrández,18,saenzrosa-maria@example.org,+34 924 777 503,Barcelona,Catalonia,17044,2022-12-22,2023-05-05,Trousers,Clothing,2,50.41,100.82,PayPal,Completed,
+CLI0386,Paulino,Ortuño,55,torrensfabricio@example.net,+34 984 18 52 17,Zaragoza,Aragon,48149,2023-12-22,2024-08-19,Headphones,Electronics,1,149.12,149.12,Credit card,Completed,2
+CLI0387,Sofía,Leon,75,dafne76@example.org,+34822732539,Vigo,Galicia,19667,2022-08-03,2023-04-05,Perfume,Accessories,2,105.75,211.5,Bank transfer,Completed,
+CLI0388,Estela,Sanz,70,martiriofajardo@example.com,+34 928681524,Cordoba,Andalusia,13267,2023-10-04,2024-03-19,Keyboard,Electronics,5,28.1,140.5,Bizum,Pending,
+CLI0389,Ramona,Sancho,29,polemilio@example.com,+34 806603303,Zaragoza,Aragon,24953,2021-08-19,2023-08-08,Book,Culture,3,19.52,58.56,Bank transfer,Pending,1
+CLI0390,Prudencia,Roura,36,tpena@example.org,+34 881 70 55 64,Palma,Balearic Islands,42387,2022-06-16,2024-10-24,Monitor,Electronics,2,552.46,1104.92,Bizum,Cancelled,1
+CLI0391,Cándido,Godoy,59,gasparduenas@example.com,+34985 027 096,Gijon,Asturias,11268,2022-04-02,2023-07-24,Dress,Clothing,4,64.47,257.88,Cash,Completed,5
+CLI0392,Zaida,Echevarría,40,demetrio35@example.net,+34 806 220 059,Palma,Balearic Islands,41130,2023-12-02,2024-12-31,Backpack,Accessories,4,21.56,86.24,Cash,Pending,5
+CLI0393,Catalina,Mármol,19,alsinajuana@example.net,+34747655744,Malaga,Andalusia,49720,2022-07-07,2023-07-04,Mouse,Electronics,3,38.94,116.82,Cash,Completed,
+CLI0394,Chus,Escrivá,51,prudenciavalenzuela@example.net,+34986 77 11 74,Malaga,Andalusia,28130,2022-07-14,2024-04-28,Backpack,Accessories,1,82.28,82.28,Cash,Completed,1
+CLI0395,Eladio,Santiago,70,natividadamat@example.org,+34 982 55 50 88,Valladolid,Castile and León,11719,2023-10-04,2024-06-30,Jacket,Clothing,3,148.53,445.59,Credit card,Completed,4
+CLI0396,Rubén,Galindo,33,mamen17@example.net,+34947413599,Bilbao,Basque Country,02670,2023-01-06,2023-06-30,Camera,Electronics,2,1135.21,2270.42,Bank transfer,Completed,1
+CLI0397,Fabricio,Collado,27,nuriazorrilla@example.org,+34925 83 04 77,Bilbao,Basque Country,31135,2024-06-20,2024-07-31,Notebook,Culture,5,19.01,95.05,PayPal,Pending,2
+CLI0398,Carlos,Rosales,56,jessicaboix@example.net,+34981300312,Seville,Andalusia,38869,2022-05-21,2023-08-27,Keyboard,Electronics,1,26.07,26.07,Credit card,Cancelled,3
+CLI0399,Evaristo,Vives,63,rodrigoestefania@example.org,+34962 989 321,Valencia,Valencian Community,40246,2022-09-20,2023-12-15,Perfume,Accessories,2,101.77,203.54,Bank transfer,Completed,
+CLI0400,Ana Sofía,Heras,72,borregofeliciana@example.com,+34 842 356 375,Las Palmas,Canary Islands,44069,2022-09-25,2023-04-24,Monitor,Electronics,2,608.05,1216.1,Bank transfer,Completed,4
+CLI0401,Alejandra,Zorrilla,26,hjove@example.com,+34 933 003 152,Valencia,Valencian Community,28505,2021-07-29,2023-11-27,Monitor,Electronics,3,215.67,647.01,Bizum,Pending,2
+CLI0402,Virgilio,Benavente,32,adaneulalia@example.org,+34901 299 353,Alicante,Valencian Community,37477,2023-01-07,2024-01-01,Notebook,Culture,5,24.37,121.85,Cash,Completed,3
+CLI0403,Saturnina,Tejera,54,qcarrillo@example.com,+34 838 123 725,Murcia,Region of Murcia,23021,2021-07-19,2024-12-19,Shoes,Clothing,1,59.55,59.55,Cash,Completed,
+CLI0404,Chus,Hernández,58,celso48@example.net,+34 729 163 077,Bilbao,Basque Country,41915,2021-09-04,2023-08-15,Camera,Electronics,5,1121.04,5605.2,Credit card,Pending,
+CLI0405,Heraclio,Rubio,28,albert58@example.net,+34986703441,Alicante,Valencian Community,05605,2022-09-24,2023-11-24,Notebook,Culture,3,6.56,19.68,Credit card,Completed,3
+CLI0406,José Ángel,Ros,34,pancho01@example.com,+34 960 989 963,Valladolid,Castile and León,37949,2022-01-04,2023-12-25,Jacket,Clothing,1,87.43,87.43,Credit card,Completed,
+CLI0407,Teresa,Alcolea,49,priegofernando@example.com,+34946 076 572,Gijon,Asturias,12529,2022-06-04,2024-02-28,Keyboard,Electronics,2,137.21,274.42,Bizum,Completed,1
+CLI0408,José Mari,Buendía,66,francisca58@example.net,+34 973770173,Alicante,Valencian Community,51174,2021-07-11,2024-10-28,Watch,Accessories,5,265.77,1328.85,PayPal,Completed,1
+CLI0409,Luis Ángel,Palomo,22,guadaluperopero@example.net,+34977 85 64 98,Malaga,Andalusia,08577,2022-05-28,2023-04-18,Dress,Clothing,3,31.81,95.43,PayPal,Pending,
+CLI0410,Maribel,Casares,56,cordobaliliana@example.net,+34 977 05 86 58,Bilbao,Basque Country,19729,2023-09-26,2023-12-13,Trousers,Clothing,1,55.09,55.09,Bizum,Completed,2
+CLI0411,Loida,Alemany,24,lcrespo@example.org,+34 883972080,Malaga,Andalusia,03587,2023-02-03,2023-02-24,Monitor,Electronics,2,728.34,1456.68,PayPal,Completed,5
+CLI0412,Francisco Jose,Lillo,60,sedanofortunato@example.net,+34 884 91 65 53,Zaragoza,Aragon,10347,2023-07-11,2023-09-29,Notebook,Culture,5,23.51,117.55,Bank transfer,Completed,
+CLI0413,Gervasio,Lucas,21,xvidal@example.net,+34 924 603 179,Malaga,Andalusia,25833,2022-01-13,2023-06-07,Headphones,Electronics,4,212.97,851.88,Credit card,Pending,
+CLI0414,Maximiliano,Suárez,30,rvalera@example.com,+34885 01 40 46,Madrid,Community of Madrid,37802,2021-12-15,2024-05-06,Watch,Accessories,5,347.91,1739.55,Credit card,Completed,
+CLI0415,Víctor,Mateos,37,folchjaviera@example.org,+34 988781612,Valladolid,Castile and León,43064,2022-02-20,2023-04-29,Dress,Clothing,4,117.94,471.76,Bizum,Pending,3
+CLI0416,Quique,Hoyos,41,zsaez@example.com,+34 979671534,Gijon,Asturias,50678,2022-08-01,2023-07-09,Trousers,Clothing,4,60.3,241.2,Bizum,Completed,
+CLI0417,Azahara,Bonet,32,clara71@example.org,+34 976109070,Vigo,Galicia,22071,2023-03-13,2023-09-27,T-shirt,Clothing,4,17.9,71.6,Bank transfer,Cancelled,
+CLI0418,Luciano,Rueda,60,ocalleja@example.com,+34 975548574,Malaga,Andalusia,09809,2022-06-28,2023-03-29,Backpack,Accessories,1,75.72,75.72,Cash,Pending,5
+CLI0419,Martin,Cisneros,44,rubenmir@example.net,+34876576671,Las Palmas,Canary Islands,40944,2021-12-04,2024-06-19,Jacket,Clothing,4,133.04,532.16,Bizum,Cancelled,4
+CLI0420,Dimas,Blanco,54,ana84@example.net,+34819698305,Gijon,Asturias,22772,2021-10-26,2024-05-29,Dress,Clothing,1,37.11,37.11,Cash,Cancelled,5
+CLI0421,Salomé,Aramburu,28,telmollano@example.org,+34 844 14 44 06,Seville,Andalusia,41604,2022-05-11,2023-06-27,Shoes,Clothing,4,53.23,212.92,PayPal,Completed,
+CLI0422,Santiago,Iriarte,70,noeliacazorla@example.org,+34874234144,Alicante,Valencian Community,02528,2021-12-23,2023-07-26,Trousers,Clothing,4,79.36,317.44,PayPal,Cancelled,
+CLI0423,Arcelia,Coca,42,abrahamnunez@example.org,+34 983024158,Las Palmas,Canary Islands,11152,2022-01-12,2023-03-31,Perfume,Accessories,1,115.89,115.89,Bizum,Cancelled,3
+CLI0424,Cruz,Acuña,57,antunezestrella@example.org,+34963 260 465,Bilbao,Basque Country,41407,2022-10-18,2024-12-18,Mouse,Electronics,1,51.23,51.23,Cash,Pending,
+CLI0425,Edelmira,Camps,66,jose-miguelpi@example.org,+34947 433 954,Madrid,Community of Madrid,37634,2023-11-18,2024-08-19,Shoes,Clothing,5,56.3,281.5,Credit card,Cancelled,3
+CLI0426,Mario,Gomila,34,taniaescalona@example.org,+34930 060 276,Murcia,Region of Murcia,21540,2021-06-23,2024-02-25,Watch,Accessories,3,291.04,873.12,Bizum,Cancelled,1
+CLI0427,Geraldo,Capdevila,56,xperez@example.com,+34806329687,Alicante,Valencian Community,02161,2022-01-07,2024-09-25,Shoes,Clothing,2,70.3,140.6,Bizum,Completed,3
+CLI0428,Sol,Canales,75,romulobarriga@example.net,+34820134145,Malaga,Andalusia,07959,2023-06-24,2023-10-03,Notebook,Culture,4,9.75,39.0,Credit card,Completed,3
+CLI0429,Begoña,Alvarez,61,rayaeva@example.org,+34 986 205 099,Madrid,Community of Madrid,03003,2021-12-31,2024-12-13,Dress,Clothing,4,55.23,220.92,PayPal,Completed,4
+CLI0430,Clara,Cabo,56,bautistapedrosa@example.com,+34944760795,Alicante,Valencian Community,11542,2021-10-26,2024-03-02,Backpack,Accessories,3,86.07,258.21,Credit card,Completed,4
+CLI0431,Telmo,Roda,70,macaria64@example.org,+34 978 18 25 33,Barcelona,Catalonia,30572,2022-06-11,2024-01-18,Notebook,Culture,5,14.69,73.45,Cash,Completed,
+CLI0432,Ezequiel,Rosselló,74,zacariassureda@example.org,+34 806192348,Bilbao,Basque Country,34953,2023-10-23,2024-06-20,Notebook,Culture,2,15.14,30.28,Credit card,Completed,
+CLI0433,Amor,Cuervo,20,rurena@example.com,+34 943 141 171,Palma,Balearic Islands,24996,2022-03-15,2023-09-13,Watch,Accessories,1,140.33,140.33,Credit card,Completed,3
+CLI0434,Zoraida,Crespo,58,lgibert@example.com,+34971 865 616,Gijon,Asturias,07418,2023-04-03,2024-02-11,Camera,Electronics,5,1023.51,5117.55,Credit card,Completed,
+CLI0435,Adora,Sobrino,55,isidro58@example.com,+34 876 251 424,Las Palmas,Canary Islands,06973,2021-07-29,2024-04-30,Keyboard,Electronics,2,115.05,230.1,Bank transfer,Completed,
+CLI0436,Pascual,Girona,19,leonor58@example.com,+34 887 11 88 91,Murcia,Region of Murcia,04145,2023-08-28,2023-10-19,Perfume,Accessories,1,57.33,57.33,Credit card,Completed,2
+CLI0437,Zaira,Carretero,31,mohamed88@example.net,+34 944 15 21 76,Zaragoza,Aragon,47566,2023-08-29,2024-11-24,Watch,Accessories,2,149.61,299.22,Bizum,Cancelled,
+CLI0438,Armando,Jáuregui,26,hugoroca@example.net,+34826 36 00 60,Alicante,Valencian Community,45463,2023-05-27,2024-04-30,Backpack,Accessories,1,97.37,97.37,PayPal,Cancelled,2
+CLI0439,Toni,Pera,63,aquesada@example.com,+34807088324,Alicante,Valencian Community,39702,2024-03-14,2024-12-30,Dress,Clothing,3,84.75,254.25,Bank transfer,Pending,3
+CLI0440,Abilio,Hernandez,61,llanosroxana@example.net,+34980894141,Las Palmas,Canary Islands,05314,2023-05-08,2023-11-06,Keyboard,Electronics,4,60.32,241.28,Cash,Pending,1
+CLI0441,Candela,Sola,59,robertallano@example.com,+34938340712,Bilbao,Basque Country,08416,2024-06-09,2024-07-28,Mouse,Electronics,3,99.95,299.85,Cash,Completed,
+CLI0442,Xiomara,Solano,58,millanmauricio@example.org,+34933 266 945,Malaga,Andalusia,22700,2021-08-12,2023-10-11,Trousers,Clothing,3,51.5,154.5,Bank transfer,Completed,3
+CLI0443,Alfredo,Priego,69,maria-jose81@example.com,+34876 16 26 92,Vigo,Galicia,30383,2022-06-02,2023-02-28,Jacket,Clothing,2,72.49,144.98,Cash,Pending,2
+CLI0444,Inés,Asenjo,34,maximino84@example.net,+34 847 898 242,Gijon,Asturias,16043,2022-01-16,2023-10-30,Notebook,Culture,4,5.51,22.04,Bizum,Pending,1
+CLI0445,Edelmiro,Escamilla,39,herminiofuster@example.org,+34 807665669,Cordoba,Andalusia,39993,2023-02-16,2023-07-14,Monitor,Electronics,5,610.24,3051.2,PayPal,Cancelled,4
+CLI0446,Irene,Carretero,37,timoteo22@example.com,+34741 307 181,Vigo,Galicia,20920,2023-08-08,2024-06-03,Perfume,Accessories,3,142.58,427.74,PayPal,Cancelled,
+CLI0447,Cristian,Cañellas,66,ana-sofiavelazquez@example.net,+34980203945,Gijon,Asturias,04811,2022-10-30,2024-07-26,Trousers,Clothing,3,50.89,152.67,PayPal,Completed,2
+CLI0448,Cebrián,Salinas,68,infantejordi@example.com,+34921162679,Gijon,Asturias,30587,2022-11-16,2024-03-06,Camera,Electronics,3,423.33,1269.99,Bank transfer,Completed,
+CLI0449,Aurelia,Guitart,21,jose-ignacio39@example.com,+34966417829,Vigo,Galicia,14231,2024-03-20,2024-04-26,Dress,Clothing,1,71.74,71.74,Cash,Cancelled,1
+CLI0450,Charo,Bernat,73,noeliaferreras@example.com,+34 926688941,Alicante,Valencian Community,40838,2021-10-17,2023-05-03,Keyboard,Electronics,5,162.31,811.55,Bizum,Cancelled,
+CLI0451,Isa,Somoza,30,wcuenca@example.com,+34 927555244,Malaga,Andalusia,31218,2022-10-07,2023-05-21,T-shirt,Clothing,2,36.13,72.26,Bizum,Cancelled,4
+CLI0452,Américo,Sanabria,49,larreaines@example.com,+34984 849 507,Malaga,Andalusia,19600,2022-02-01,2023-03-24,Shoes,Clothing,2,74.8,149.6,PayPal,Completed,1
+CLI0453,Gaspar,Arranz,66,srubio@example.org,+34 953292255,Valencia,Valencian Community,22006,2024-02-21,2024-08-13,Keyboard,Electronics,2,63.76,127.52,Bizum,Completed,
+CLI0454,María Dolores,Torralba,48,acasas@example.com,+34885 277 083,Murcia,Region of Murcia,24007,2021-09-05,2024-03-15,Headphones,Electronics,4,232.72,930.88,Credit card,Completed,3
+CLI0455,Cruz,Aguado,19,emilianorodenas@example.org,+34803442889,Alicante,Valencian Community,02121,2021-08-05,2023-07-15,T-shirt,Clothing,5,36.76,183.8,Credit card,Completed,
+CLI0456,Genoveva,Galván,42,nantunez@example.org,+34942 29 99 35,Las Palmas,Canary Islands,36622,2022-02-20,2023-04-16,Perfume,Accessories,2,68.04,136.08,Cash,Completed,
+CLI0457,José Mari,Aragón,64,jose-manuelcases@example.org,+34826 140 593,Las Palmas,Canary Islands,29304,2022-11-22,2024-04-11,Watch,Accessories,3,70.57,211.71,Cash,Cancelled,2
+CLI0458,Carlos,Gallego,66,judithrovira@example.net,+34900 87 59 92,Seville,Andalusia,13672,2022-02-07,2024-01-03,Camera,Electronics,4,1196.14,4784.56,PayPal,Pending,
+CLI0459,Esteban,Álvarez,64,sonia25@example.org,+34 836167224,Barcelona,Catalonia,44865,2022-01-25,2023-08-05,Jacket,Clothing,2,159.08,318.16,Cash,Cancelled,
+CLI0460,Itziar,Salinas,74,vazquezmarcos@example.org,+34822 404 579,Alicante,Valencian Community,03623,2022-06-16,2024-01-20,Camera,Electronics,1,911.11,911.11,Bank transfer,Cancelled,5
+CLI0461,Guadalupe,Calzada,62,wbayon@example.org,+34976 008 524,Madrid,Community of Madrid,36291,2022-11-22,2023-02-19,T-shirt,Clothing,1,29.86,29.86,Bizum,Pending,5
+CLI0462,Marcos,Hervás,62,amolins@example.com,+34820 698 351,Alicante,Valencian Community,51261,2022-05-01,2023-07-30,Dress,Clothing,2,72.7,145.4,Credit card,Completed,1
+CLI0463,Benigno,Pla,62,vicenta71@example.com,+34807 74 28 09,Valencia,Valencian Community,04722,2022-09-20,2024-09-12,Book,Culture,5,22.05,110.25,Bizum,Completed,5
+CLI0464,Emilio,Navas,30,dmari@example.com,+34 926 014 734,Bilbao,Basque Country,37843,2022-06-10,2024-05-24,Trousers,Clothing,1,40.55,40.55,PayPal,Completed,2
+CLI0465,Blas,Blazquez,20,paulinasureda@example.org,+34820900889,Las Palmas,Canary Islands,08644,2022-07-15,2023-06-14,Camera,Electronics,3,903.44,2710.32,Bizum,Completed,4
+CLI0466,Baltasar,Parra,23,brunilda05@example.org,+34948 95 42 26,Gijon,Asturias,38786,2022-11-25,2024-11-18,Camera,Electronics,1,434.51,434.51,Credit card,Cancelled,2
+CLI0467,Nidia,Borja,75,luisamedina@example.com,+34 873 169 232,Zaragoza,Aragon,03951,2022-07-20,2023-04-14,Trousers,Clothing,1,67.87,67.87,PayPal,Pending,3
+CLI0468,Alba,Duque,73,marisela57@example.org,+34844642113,Barcelona,Catalonia,30438,2021-08-21,2023-06-28,Dress,Clothing,1,71.78,71.78,Bank transfer,Completed,3
+CLI0469,Eufemia,Uriarte,18,nayara83@example.org,+34 824 20 60 80,Vigo,Galicia,29233,2022-03-15,2023-02-16,Headphones,Electronics,1,266.33,266.33,PayPal,Completed,4
+CLI0470,Mireia,Prada,70,nbusquets@example.net,+34978 724 054,Malaga,Andalusia,25018,2021-09-02,2024-01-17,Monitor,Electronics,1,324.4,324.4,PayPal,Completed,4
+CLI0471,Hilda,Cantón,59,inocenciocarmona@example.org,+34 927 20 29 97,Gijon,Asturias,30624,2021-08-30,2024-03-07,Dress,Clothing,4,105.21,420.84,PayPal,Completed,
+CLI0472,Javier,Morell,44,cabezacristian@example.net,+34 876317680,Gijon,Asturias,14405,2021-09-17,2023-04-17,Notebook,Culture,2,6.17,12.34,Cash,Pending,4
+CLI0473,Adora,Camacho,19,susanita81@example.com,+34882877753,Vigo,Galicia,17470,2024-03-11,2024-09-18,Shoes,Clothing,3,107.25,321.75,PayPal,Pending,1
+CLI0474,Elisa,Serra,34,leoncio06@example.org,+34 718090424,Alicante,Valencian Community,50916,2022-10-18,2023-03-06,Perfume,Accessories,1,76.41,76.41,Bank transfer,Completed,5
+CLI0475,Agustín,Cordero,60,manuelitapelaez@example.com,+34946 35 42 27,Vigo,Galicia,34300,2023-04-22,2023-08-18,Backpack,Accessories,5,79.49,397.45,Bank transfer,Cancelled,5
+CLI0476,Cándido,Hierro,40,aurea18@example.net,+34925 52 12 31,Alicante,Valencian Community,04769,2022-01-20,2024-05-08,Trousers,Clothing,2,48.81,97.62,Bizum,Completed,5
+CLI0477,Celestina,Poza,59,wrivas@example.com,+34 943 099 592,Gijon,Asturias,16272,2022-07-03,2023-01-12,Perfume,Accessories,1,148.47,148.47,PayPal,Cancelled,4
+CLI0478,Marita,Criado,33,emarquez@example.com,+34922 59 49 65,Malaga,Andalusia,26267,2022-03-02,2023-11-25,Watch,Accessories,4,124.43,497.72,Bank transfer,Completed,5
+CLI0479,María Carmen,Amor,47,reyes98@example.org,+34 881 639 055,Palma,Balearic Islands,05343,2021-07-16,2023-03-22,Book,Culture,2,18.22,36.44,Cash,Pending,
+CLI0480,Jose Luis,Duarte,65,mayolnuria@example.com,+34824861615,Alicante,Valencian Community,01376,2021-10-04,2024-05-24,Keyboard,Electronics,1,91.53,91.53,Credit card,Completed,1
+CLI0481,Bernarda,Gárate,57,cristian55@example.org,+34 821236741,Alicante,Valencian Community,17219,2023-01-24,2024-09-10,Mouse,Electronics,1,59.42,59.42,Bank transfer,Cancelled,4
+CLI0482,María Jesús,Garay,72,adadiapepito@example.com,+34849 099 990,Palma,Balearic Islands,15675,2022-05-08,2023-08-17,Camera,Electronics,1,563.34,563.34,Bank transfer,Cancelled,5
+CLI0483,Flavio,Calatayud,25,eladio20@example.org,+34 900 487 314,Madrid,Community of Madrid,41967,2022-07-08,2024-04-08,Keyboard,Electronics,3,134.67,404.01,PayPal,Completed,3
+CLI0484,Efraín,Fuentes,75,fausto01@example.net,+34 807 430 906,Valencia,Valencian Community,12797,2022-09-04,2023-02-16,Mouse,Electronics,1,56.98,56.98,Bizum,Completed,4
+CLI0485,Alma,Clemente,25,antonluis@example.net,+34922866303,Gijon,Asturias,42100,2022-11-18,2023-07-12,Trousers,Clothing,2,38.99,77.98,Bizum,Completed,2
+CLI0486,Godofredo,Gimeno,58,maria31@example.org,+34 942 46 30 85,Vigo,Galicia,32572,2021-10-09,2023-02-17,Notebook,Culture,4,11.76,47.04,Cash,Completed,4
+CLI0487,Pía,Viñas,49,llabresfeliciano@example.net,+34 800 42 16 85,Barcelona,Catalonia,13499,2023-02-01,2023-05-18,Keyboard,Electronics,5,125.35,626.75,Cash,Completed,4
+CLI0488,Gaspar,Benitez,62,olmedoabilio@example.com,+34 983213499,Bilbao,Basque Country,20555,2022-05-07,2023-07-01,Watch,Accessories,5,313.3,1566.5,PayPal,Completed,
+CLI0489,Chus,Espejo,74,jose-franciscorivero@example.com,+34 874 437 515,Murcia,Region of Murcia,04788,2023-06-08,2024-05-31,Book,Culture,3,24.21,72.63,Bizum,Cancelled,2
+CLI0490,Bernarda,Pera,46,plinio25@example.net,+34822 938 691,Valladolid,Castile and León,23926,2022-04-11,2023-10-29,Dress,Clothing,3,65.81,197.43,PayPal,Completed,5
+CLI0491,Ágata,Blanca,63,lcompany@example.com,+34975 463 186,Cordoba,Andalusia,13410,2022-06-30,2023-11-18,Dress,Clothing,5,105.88,529.4,Cash,Completed,
+CLI0492,Saturnina,Aroca,26,camila87@example.net,+34987 101 208,Cordoba,Andalusia,49936,2022-05-26,2024-11-19,Monitor,Electronics,3,614.35,1843.05,PayPal,Cancelled,3
+CLI0493,Dorotea,Morcillo,48,aparicioteobaldo@example.org,+34 986 29 97 31,Bilbao,Basque Country,29281,2023-03-02,2024-07-29,Notebook,Culture,3,7.31,21.93,Cash,Pending,5
+CLI0494,Bernardino,Mur,51,cheurrutia@example.com,+34927822042,Madrid,Community of Madrid,26356,2021-06-17,2023-01-14,Dress,Clothing,4,108.97,435.88,Credit card,Pending,
+CLI0495,Aurelio,Fuster,36,gualeladio@example.net,+34983 55 14 54,Alicante,Valencian Community,44677,2023-03-08,2023-06-14,Book,Culture,3,9.53,28.59,Bank transfer,Completed,3
+CLI0496,Eva María,Camps,70,danpardo@example.org,+34 922 135 914,Palma,Balearic Islands,23151,2023-02-10,2024-01-03,Jacket,Clothing,1,163.04,163.04,Credit card,Cancelled,5
+CLI0497,Maricela,Gálvez,33,custodia54@example.com,+34 973 26 21 91,Las Palmas,Canary Islands,13364,2021-11-20,2024-02-03,Watch,Accessories,5,150.94,754.7,Bank transfer,Completed,4
+CLI0498,Camilo,Amat,21,gargallonicolas@example.org,+34874 041 283,Barcelona,Catalonia,23953,2022-03-30,2024-07-19,Headphones,Electronics,3,336.14,1008.42,Bank transfer,Completed,4
+CLI0499,Florinda,Cardona,52,qvalcarcel@example.net,+34 825 129 497,Cordoba,Andalusia,28302,2021-06-26,2024-08-25,Watch,Accessories,3,151.5,454.5,Cash,Completed,2
+CLI0500,Bernabé,López,29,duranfabiana@example.net,+34 901044529,Cordoba,Andalusia,04413,2023-04-28,2023-07-11,Dress,Clothing,1,70.39,70.39,Cash,Completed,4
