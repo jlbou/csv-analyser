@@ -18,6 +18,8 @@ def plot_category_sales(df):
     ax2.set_xlabel('Category')
     ax2.set_ylabel('Quantity')
 
+    plt.tight_layout()
+
     return fig
 
 def plot_age_distribution(df):
@@ -44,12 +46,18 @@ def plot_sales_over_time(df):
 
     sb.lineplot(data=data, x='month', y='total_purchase', ax=ax1)
     sb.lineplot(data=data, x='month', y='quantity', ax=ax2)
+
     ax1.set_title('Sales over time')
     ax1.set_xlabel('Month')
     ax1.set_ylabel('Total Sales')
+    ax1.tick_params(axis='x', rotation=45)
+
     ax2.set_title('Quantity over time')
     ax2.set_xlabel('Month')
     ax2.set_ylabel('Quantity')
+    ax2.tick_params(axis='x', rotation=45)
+
+    plt.tight_layout()
 
     return fig
 
@@ -64,5 +72,6 @@ def plot_sales_by_region(df):
     ax.set_title('Sales by region')
     ax.set_xlabel('Region')
     ax.set_ylabel('Total Sales')
+    ax.tick_params(axis='x', rotation=90)
 
     return fig
