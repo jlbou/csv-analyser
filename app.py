@@ -7,12 +7,11 @@ st.set_page_config(layout="wide")
 
 st.title("CSV Analyzer") # Title
 
-
-df = load_csv('data/clients_purchases.csv')
-
 demo, user = st.tabs(["Demonstration", "Try it yourself"])
 
 with demo: # DEMO
+    df = load_csv('data/clients_purchases.csv')
+
     summary = get_summary(df)
 
     col1, col2, col3 = st.columns(3)
@@ -22,6 +21,10 @@ with demo: # DEMO
 
     st.subheader("Statistics")
     st.dataframe(summary['Statistics'])
+
+    st.subheader("Column information")
+    column = st.selectbox("Select a column", df.columns)
+    st.write(get_column_info(df, column))
 
     st.subheader("Missing values")
     st.dataframe(summary['Number of missing values'])
