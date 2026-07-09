@@ -8,4 +8,4 @@ def load_csv(path):
     except FileNotFoundError:
         raise FileNotFoundError(f'File {path} not found')
     except pd.errors.ParserError:
-        raise Exception(f'Error while reading file')
+        raise Exception('Error while reading file')

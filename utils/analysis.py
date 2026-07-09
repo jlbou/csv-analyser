@@ -17,7 +17,7 @@ def get_column_info(df, column):
                 'Most frequent values': df[column].value_counts().head().to_dict(),
                 'Mean': round(df[column].mean(),2),
                 'Median': round(df[column].median(),2),
-                'Mode': int(df[column].mode()[0])
+                'Mode': int(df[column].mode()[0]) if not df[column].mode().empty else float('nan')
                 }
     else:
         info = {'Data type': str(df[column].dtype),
