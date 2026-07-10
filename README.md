@@ -34,7 +34,7 @@ CSV Analyzer/
 
 ## Requirements
 
-- Python 3.9+
+- Python 3.12 (pinned in `.python-version`)
 - Dependencies listed in `requirements.txt`: `pandas`, `streamlit`, `matplotlib`, `seaborn`
 
 ## Installation
@@ -67,6 +67,10 @@ This is a portfolio/demo project, not a production tool. A few trade-offs worth 
 - When a column has more than one mode (a tie), only one value is shown, picked arbitrarily by pandas, not flagged as a tie.
 - No caching: the CSV is read and every statistic/chart is recomputed on every interaction (e.g. selecting a different column), not just on file upload. This is fine for small files but will get slow on large ones.
 - No automated tests. Correctness has been checked manually and via ad hoc scripts during development, not via a test suite.
+
+## Deployment note
+
+The app is deployed on [Streamlit Community Cloud](https://csv-analyser-jlbou.streamlit.app/). If you redeploy it yourself, make sure the Python version is pinned to **3.12** in the deployment's "Advanced settings" (not just in `.python-version`, which Streamlit Cloud doesn't always honor). At the time of writing, Streamlit Cloud defaults new deployments to Python 3.14, which causes a `Segmentation fault` on startup because some native dependencies (numpy, pandas, matplotlib) don't yet have stable prebuilt wheels for that version.
 
 ## License
 
